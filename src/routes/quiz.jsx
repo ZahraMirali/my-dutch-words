@@ -1,17 +1,20 @@
-import React, { useState } from "react";
+import { useMemo, useState } from "react";
 import { useParams } from "react-router-dom";
 import { dutch } from "../duolingo";
 import { generateRandomQuestions } from "../utils";
 
 export default function Quiz() {
   const { quizIndex } = useParams();
+  const currentList = dutch[quizIndex];
+  const questions = useMemo(
+    () => generateRandomQuestions(currentList),
+    [currentList]
+  );
   const [selectedOption, setSelectedOption] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [wrongAnswers, setWrongAnswers] = useState([]);
 
-  const currentList = dutch[quizIndex];
-  if (!currentList) return null;
-  const questions = generateRandomQuestions(currentList);
+  if (questions.length === 0) return null;
 
   const currentQuestion = questions[currentQuestionIndex];
 
@@ -61,8 +64,9 @@ export default function Quiz() {
       <h2 className="text-2xl font-bold mb-4">{currentQuestion.question}</h2>
       <div className="grid grid-cols-2 gap-4">
         {currentQuestion.options.map((option, index) => (
-          <div
+          <button
             key={index}
+            disabled={selectedOption}
             onClick={() => handleOptionClick(option)}
             className={`border border-gray-400 p-4 rounded-md cursor-pointer ${
               selectedOption && option === currentQuestion.answer
@@ -73,7 +77,7 @@ export default function Quiz() {
             }`}
           >
             {option}
-          </div>
+          </button>
         ))}
       </div>
     </div>

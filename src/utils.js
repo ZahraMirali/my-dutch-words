@@ -7,6 +7,7 @@ const shuffleArray = (array) => {
 };
 
 export const generateRandomQuestions = (list) => {
+  if (!list) return [];
   const questions = list.words.map((wordObj) => {
     const question = {
       question: wordObj.meaning,
