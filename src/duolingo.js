@@ -1,4 +1,4 @@
-const dutch = [
+export const dutch = [
   {
     words: [
       { word: "ongeveer", meaning: "approximately" },
