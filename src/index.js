@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Root from "./routes/root";
+import Words from "./routes/words";
 import Quiz from "./routes/quiz";
 
 const router = createBrowserRouter([
@@ -12,6 +13,10 @@ const router = createBrowserRouter([
   },
   {
     path: "/:quizIndex",
+    element: <Words />,
+  },
+  {
+    path: "/:quizIndex/quiz",
     element: <Quiz />,
   },
 ]);

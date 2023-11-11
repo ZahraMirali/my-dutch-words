@@ -12,7 +12,7 @@ export default function Quiz() {
   );
   const [selectedOption, setSelectedOption] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [wrongAnswers, setWrongAnswers] = useState([]);
+  const [wrongAnswersIndices, setWrongAnswersIndices] = useState([]);
 
   if (questions.length === 0) return null;
 
@@ -29,7 +29,10 @@ export default function Quiz() {
     const isCorrect = answer === option;
 
     if (!isCorrect) {
-      setWrongAnswers((prevWrongAnswers) => [...prevWrongAnswers, answer]);
+      setWrongAnswersIndices((prevWrongAnswers) => [
+        ...prevWrongAnswers,
+        currentQuestionIndex,
+      ]);
     }
 
     setTimeout(() => {
@@ -41,17 +44,18 @@ export default function Quiz() {
     return (
       <div className="text-center">
         <h1 className="text-3xl font-bold mb-4">
-          Your Score: {questions.length - wrongAnswers.length}/
+          Your Score: {questions.length - wrongAnswersIndices.length}/
           {questions.length}
         </h1>
         <h2 className="text-2xl font-bold mb-2">Incorrect Answers:</h2>
         <ul className="list-disc pl-4">
-          {wrongAnswers.map((wrongAnswer) => (
+          {wrongAnswersIndices.map((wrongAnswerIndex) => (
             <li
-              key={wrongAnswer}
+              key={wrongAnswerIndex}
               className="text-white bg-red-500 p-2 mb-2 rounded-md"
             >
-              {wrongAnswer}
+              {questions[wrongAnswerIndex].answer}:{" "}
+              {questions[wrongAnswerIndex].question}
             </li>
           ))}
         </ul>
@@ -68,7 +72,7 @@ export default function Quiz() {
             key={index}
             disabled={selectedOption}
             onClick={() => handleOptionClick(option)}
-            className={`border border-gray-400 p-4 rounded-md cursor-pointer ${
+            className={`border border-gray-300 p-4 rounded-md cursor-pointer ${
               selectedOption && option === currentQuestion.answer
                 ? "bg-green-500 text-white"
                 : option === selectedOption
