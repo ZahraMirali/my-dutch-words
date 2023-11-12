@@ -3,8 +3,7 @@ import { dutch } from "../duolingo";
 
 export default function Root() {
   return (
-    <div className="max-w-screen-md mx-auto mt-8 p-4">
-      <h1 className="text-3xl font-bold mb-4">List</h1>
+    <div className="max-w-screen-md mx-auto mt-4 p-2">
       <div className="grid gap-4 grid-cols-2 sm:grid-cols-3">
         {dutch.map((list, index) => (
           <Link

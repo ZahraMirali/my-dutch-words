@@ -8,7 +8,7 @@ export default function Words() {
   if (!currentList) return null;
 
   return (
-    <div className="max-w-md mx-auto mt-4 p-2">
+    <div className="max-w-screen-md mx-auto mt-4 p-2">
       <Link
         to="quiz"
         className="block w-full bg-blue-500 text-white py-2 rounded-md text-center hover:bg-blue-700 mb-4"

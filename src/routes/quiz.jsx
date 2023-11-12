@@ -42,13 +42,13 @@ export default function Quiz() {
 
   if (!currentQuestion) {
     return (
-      <div className="text-center">
-        <h1 className="text-3xl font-bold mb-4">
+      <div className="max-w-screen-md mx-auto mt-4 p-2">
+        <h1 className="text-3xl font-bold mb-4 text-center text-green-500">
           Your Score: {questions.length - wrongAnswersIndices.length}/
           {questions.length}
         </h1>
-        <h2 className="text-2xl font-bold mb-2">Incorrect Answers:</h2>
-        <ul className="list-disc pl-4">
+        <h2 className="text-2xl text-gray-500 my-2">Incorrect Answers:</h2>
+        <ul className="list-disc">
           {wrongAnswersIndices.map((wrongAnswerIndex) => (
             <li
               key={wrongAnswerIndex}
@@ -64,8 +64,10 @@ export default function Quiz() {
   }
 
   return (
-    <div className="text-center p-2">
-      <h2 className="text-2xl font-bold mb-4">{currentQuestion.question}</h2>
+    <div className="max-w-screen-md mx-auto mt-4 p-2">
+      <h2 className="text-2xl font-bold mb-4 text-center">
+        {currentQuestion.question}
+      </h2>
       <div className="grid grid-cols-2 gap-4">
         {currentQuestion.options.map((option, index) => (
           <button
