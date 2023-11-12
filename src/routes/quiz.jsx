@@ -1,15 +1,24 @@
 import { useMemo, useState } from "react";
 import { useParams } from "react-router-dom";
 import { dutch } from "../duolingo";
-import { generateRandomQuestions } from "../utils";
+import { generateRandomQuestions, shuffleArray } from "../utils";
 
 export default function Quiz() {
   const { quizIndex } = useParams();
-  const currentList = dutch[quizIndex.split(",")[0]];
-  const questions = useMemo(
-    () => generateRandomQuestions(currentList),
-    [currentList]
-  );
+
+  const questions = useMemo(() => {
+    const selectedLists = quizIndex
+      .split(",")
+      .map((index) => parseInt(index, 10));
+    const questionsForSelectedLists = selectedLists.map((listIndex) => {
+      const currentList = dutch[listIndex];
+      return generateRandomQuestions(currentList);
+    });
+
+    const shuffledQuestions = shuffleArray(...questionsForSelectedLists);
+    return shuffledQuestions;
+  }, [quizIndex]);
+
   const [selectedOption, setSelectedOption] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [wrongAnswersIndices, setWrongAnswersIndices] = useState([]);
