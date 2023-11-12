@@ -17,7 +17,8 @@ export const generateRandomQuestions = (list) => {
 
     question.options.push(wordObj.word);
 
-    for (let i = 0; i < 3; i++) {
+    const maxOptions = Math.min(4, list.words.length) - 1;
+    for (let i = 0; i < maxOptions; i++) {
       let randomIndex = Math.floor(Math.random() * list.words.length);
       while (
         question.options.includes(list.words[randomIndex].word) ||
