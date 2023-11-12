@@ -5,7 +5,7 @@ import { generateRandomQuestions } from "../utils";
 
 export default function Quiz() {
   const { quizIndex } = useParams();
-  const currentList = dutch[quizIndex];
+  const currentList = dutch[quizIndex.split(",")[0]];
   const questions = useMemo(
     () => generateRandomQuestions(currentList),
     [currentList]
