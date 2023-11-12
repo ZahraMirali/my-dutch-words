@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Root from "./routes/root";
+import Pdf from "./routes/pdf";
 import Words from "./routes/words";
 import Quiz from "./routes/quiz";
 
@@ -10,6 +11,10 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Root />,
+  },
+  {
+    path: "/pdf",
+    element: <Pdf />,
   },
   {
     path: "/:quizIndex",
