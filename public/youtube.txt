@@ -1,0 +1,808 @@
+zijn: to be
+Hij is piloot.
+He is a pilot.
+
+leuk vinden: to like
+Ik vind haar leuk.
+I like her.
+
+doen: to do
+Wij doen de afwas.
+We are doing the dishes.
+
+zeggen: to say
+Zij zegt helemaal niets.
+She says nothing at all.
+
+Zeg, hoe is het afgelopen met John?
+I say, whatever happened to John?
+
+horen: to hear
+Ik hoor de trein.
+I hear the train.
+
+oren: ears
+Horen doe je met je oren.
+You hear with your ears.
+
+gaan: to go
+Zij gaan naar huis.
+They are going home.
+
+Ik ga.
+I'm leaving.
+
+weten: to know
+Ik weet niets.
+I know nothing.
+
+Ik weet het niet.
+I don't know.
+
+nemen: to take
+Kun je de fiets nemen?
+Can you take the bike?
+
+Ik neem een appel.
+I'll take an apple.
+
+opnemen: answering the phone
+Ik neem de telefoon op.
+I'm answering the phone.
+
+meenemen: to take something with you
+Ik neem een boek mee.
+I'll take a book with me.
+
+zien: to see
+Hij ziet heel weinig.
+He doesn't see much.
+
+komen: to come
+Ze komen morgen op visite. 
+They will come visit us tomorrow.
+
+Ik kom eraan. 
+I'm coming.
+
+denken: to think
+Ik denk aan lekker eten. 
+I am thinking of delicious food.
+
+Ik denk aan je. 
+I'm thinking of you.
+
+Ik denk dat het de blauwe is.
+I believe it's the blue one.
+
+kijken: to look
+Ik kijk naar het huis. 
+I'm looking at the house.
+
+willen: to want
+Zij wil een hond. 
+She wants a dog.
+
+ik wil / jij wil / zij wil
+I want / He wants / She wants
+
+geven: to give
+Ik geef mijn vriend een verjaardagscadeau. 
+I'm giving my friend a birthday present.
+
+Pas op! op ik geef je een schop. 
+Watch out! Or I'll give you a kick.
+
+gebruiken: to use
+Hij gebruikt de auto. 
+He is using the car.
+
+vinden: to find
+Ik kan mijn haarborstel niet vinden. 
+I can't find my hairbrush.
+
+uitgaan: to go out
+Morgen gaan we uit! 
+We will go out tomorrow!
+
+Ik ga eruit. 
+I'm getting up.
+
+vragen: to ask
+Vraag het aan je moeder. 
+Ask your mother.
+
+werken: to work
+Zij werkt bij de bank. 
+She works at a bank.
+
+binnengaan: to enter
+Het restaurant binnengaan. 
+To enter the restaurant.
+
+binnenlopen 
+walk in there
+
+binnenkomen 
+to enter
+
+Hij komt binnen. Hij gaat naar binnen. 
+He is entering. He goes inside.
+
+voelen: to feel
+Ik voel het in mijn tenen. 
+I feel it in my toes.
+
+proberen: to try
+We proberen het gewoon nog eens. 
+We will just try it again.
+
+verlaten: to leave
+Hij verlaat het feest. 
+He is leaving the party.
+
+Ik voel me verlaten. 
+I am feeling abandoned / lonely.
+
+bellen: to call
+Kun je mij bellen? 
+Can you call me?
+
+rennen: to run
+Het kind rent naar huis. 
+The child runs home.
+
+praten: to talk
+Ik praat met mijn broer.
+I'm talking to my brother.
+
+leren: to learn
+Ik leer Nederlands.
+I am learning Dutch.
+
+eten: to eat
+Zij eten pannenkoeken.
+They eat pancakes.
+
+drinken: to drink
+Drinken jullie koffie?
+Do you drink coffee?
+
+hebben: to have
+Ik heb een hond.
+Ik heb een hond.
+
+zijn: to be
+Wij zijn dertig jaar oud.
+We are thirty years old.
+
+doen: to do
+Ik doe boodschappen.
+I'm doing groceries.
+
+zeggen: to say
+Zeg mijn naam!
+Say my name!
+
+luisteren: to listen
+Hij luistert niet naar jou.
+He's not listening to you.
+
+
+begrijpen: to understand
+Ik begrijp je vraag niet.
+I don't understand your question.
+
+horen: to hear
+Ik hoor je wel, maar ik zie je niet
+I do hear you, but I don't see you.
+
+denken: to think
+Hij denkt aan mij.
+He thinks about me.
+
+kopen: to buy
+Mijn zus koopt een koelkast.
+My sister buys a fridge.
+
+lezen: to read
+Ik lees een boek.
+I'm reading a book.
+
+schrijven: to write
+Ik schrijf een verhaal. 
+I'm writing a story.
+
+oefenen: to practice
+U oefent niet genoeg. 
+You don't practice enough.
+
+proberen: to try
+Ik probeer een nieuw gerecht. 
+I try a new dish.
+
+weten: to know
+Ik weet het niet.
+I don't know.
+
+lopen: to walk
+Zij lopen naar huis. 
+They're walking home.
+
+fietsen: to cycle
+Nederlanders fietsen veel. 
+Dutch people cycle a lot.
+
+reizen: to travel
+Wij reizen naar Polen.
+We travel to Poland.
+
+geven: to give
+Zij geeft me een kus.
+She gives me a kiss.
+
+gaan: to go
+Ik ga naar school. 
+I am going to school.
+
+werken: to work
+Ik werk elke dag. 
+I work every day.
+
+betalen: to pay
+Ik betaal de rekening. 
+I pay the bill.
+
+lopen: to walk
+Ik loop graag langs de boulevard.
+I like to walk along the boulevard.
+
+rennen: to run
+Hij rende elke dag.
+He ran every day.
+
+zingen: to sing
+Zingt zij voor ons?
+Does she sing for us?
+
+zitten: to sit
+Hij had liever daar gezeten.
+He would have preferred to sit there.
+
+bijten: to bite
+De hond beet het kussen kapot.
+The dog bit the pillow to pieces.
+
+praten: to talk
+Wij hebben gisteren met elkaar gepraat.
+We talked to each other yesterday.
+
+zoenen: to kiss
+Het bruidspaar zoent.
+The bride and groom kiss.
+
+werken: to work
+Ik werk graag met een team.
+I like to work with a team.
+
+zoeken: to search
+Wij hebben gezocht, maar niet gevonden.
+We searched, but did not find.
+
+gooien: to throw
+Ik gooi een ballon.
+I throw a balloon.
+
+drinken: to drink
+Zij heeft vanmiddag melk gedronken.
+She drank milk this afternoon.
+
+betalen: to pay
+Ik heb de rekening betaald.
+I paid the bill.
+
+hoesten: to cough
+Zij hoest, want ze is verkouden.
+She's coughing because she has a cold.
+
+spelen: to play
+De kinderen hebben op het klimrek gespeeld.
+The children have been playing on the climbing frame.
+
+schenken: to pour
+Petra schenkt de wijn in een glas.
+Petra pours the wine into a glass.
+
+luisteren: to listen
+Ik luister graag naar muziek.
+I like to listen to music.
+
+huilen: to cry
+Waarom huilde hij gisteravond?
+Why did he cry last night?
+
+lachen: to laugh
+Wij hebben om de jongen gelachen.
+We laughed at the boy.
+
+verven: to paint
+Het huis is rood geverfd.
+The house is painted red.
+
+leren: to learn
+Ik leer rekenen op school.
+I learn math at school.
+
+schrijven: to write
+Vorige week schreef Sandra een lieve brief.
+Last week, Sandra wrote a sweet letter.
+
+openen: to open
+Rosalie heeft het gordijn geopend.
+Rosalie has opened the curtain.
+
+denken: to think
+Ik denk na over mijn leven.
+I think about my life.
+
+draaien: to turn
+Draai je iphone voor meer overzicht!
+Rotate your iphone for a better overview!
+
+douchen: to shower
+Hans heeft zich vanochtend gedoucht.
+Hans took a shower this morning.
+
+dineren: to dine
+Wij hebben met vrienden in een restaurant gedineerd.
+We had dinner with friends in a restaurant.
+
+antwoorden: to answer
+Hij heeft fout geantwoord.
+He answered incorrectly.
+
+bakken: to bake
+Wat heeft zij een lekkere taart gebakken!
+What a delicious cake she has baked!
+
+praten:
+Wat praat je snel. Kan het iets langzamer alsjeblieft? Sorry. Dat wist ik niet. Ik zal er aan denken.
+How fast you talk! Can it be a little slower please? Sorry. I did not know that. I'll remember.
+
+denken:
+Waar denk je aan? Ik denk aan de dag van morgen.
+What are you thinking of? I think of tomorrow.
+
+vragen:
+Pardon, mag ik u iets vragen? Natuurlijk, geen probleem. Wat wilt u mij vragen?
+Excuse me, can I ask you something? Of course, no problem. What do you want to ask me?
+
+willen:
+Wil je dit voor mij kopiëren alsjeblieft? Jazeker. Wanneer wil je het hebben?
+Would you copy this for me please? Of course. When do you want it?
+
+
+kopen:
+Waar heb je deze kleren gekocht? Ik heb deze kleren online gekocht bij een betrouwbare webshop.
+Where did you buy these clothes? I bought these clothes online at a reliable webshop.
+
+zoeken:
+Zij zijn op zoek naar een goed restaurant. Kan jij ze adviseren? Ja, dat wil ik wel doen. Geen probleem.
+They are looking for a good restaurant. Can you advise them? Yes, I want to do that. No problem.
+
+fietsen:
+Ik ga vandaag fietsen naar min werk. OK. Maar ik ga vandaag met de auto naar mijn werk. Het regent namelijk.
+I am going to cycle to work today. OK. But today I go to work by car. It's raining actually.
+
+geven:
+Wat geef jij Ronald voor zin verjaardag? Dat weet ik nog niet. Ik laat het je morgen weten.
+What do you give Ronald for his birthday? I do not know yet. I will let you know tomorrow.
+
+zoeken:
+Wat ben jij aan het zoeken? Ik zoek min autosleutels.
+What are you looking for? I'm looking for my car keys.
+
+wijzen:
+Zou je mij de weg willen wijzen naar het station? Natuurlijk wil ik dat! Loop rechtdoor en ga bij het postkantoor linksaf. Na honderd meter zie je het station.
+Would you mind showing me the way to the train station? Of course I want that! Walk straight ahead and turn left at the post office.After a hundred meters you will see the station.
+
+zijn:
+Wij zijn broers en jullie zijn zussen. Ja, dat is waar.
+We are brothers and you are sisters. Yes that is true.
+
+
+komen:
+Kom jij vanmiddag ook om 15.00 ur naar de vergadering? Nee, ik kom niet. Ik heb een andere afspraak.
+Will you also come to the meeting this afternoon at 3 p.m.? No I'm not coming. I have another appointment.
+
+plannen:
+Zullen we een nieuwe afspraak plannen? Ja. Dat is prima.
+Shall we schedule a date? Yes. That's fine.
+
+bellen:
+Elisabeth, wil jij alsjeblieft de dokter bellen? Ik voel mij niet goed. Oh, echt waar? Ik zal direct de dokter bellen!
+Elisabeth, would you please call the doctor? I'm not feeling well. Oh, really? I'll call the doctor right away!
+
+zingen:
+Welke zangeres zingt dit lied? Madonna zingt dit. Herken je haar stem niet?
+Which singer sings this song? Madonna sings this. Don't you recognize her voice?
+
+lopen:
+Ik ga liever lopen dan met de bus. Jij? Ik loop met je mee. OK?
+I'd rather walk than take the bus. You? I walk with you. OK?
+
+staan:
+Voor min werk moet ik de hele dag staan. Wat vervelend. Je kan met mi meerijden als je dat wilt.
+I have to stand for work all day. How annoying. You can ride with me if you want.
+
+ruiken:
+Ruik jij dat ook? Ja, ik ruik het ook! Er brandt iets.
+Do you smell that too? Yes, I smell it too! Something is burning.
+
+zwemmen:
+Heb jij zin om morgen te zwemmen? Nee, ik moet morgen werken. Maar overmorgen kan ik wel.
+Do you feel like swimming tomorrow? No, I have to work tomorrow. But the day after tomorrow I can.
+
+lenen:
+Hee vriend, kan jij mij honderd euro lenen? Ja, dat kan ik wel; maar ik doe het niet!
+Hey friend, can you lend me a hundred euros? Yes, I can; but I don't!
+
+huren:
+Een appartement huren is duur. Ja, je kan beter kopen dan huren.
+Renting an apartment is expensive. Yes, it is better to buy than to rent.
+
+vechten:
+"Als twee honden vechten om een been, loopt de derde ermee heen." Dit is een Hollands spreekwoord.
+"When two dogs fight for a bone, the third runs away with it." This is a Dutch proverb.
+
+kiezen:
+Je moet kiezen tussen twee alternatieven. Ja, dat weet ik - maar ik vind kiezen moeillijk.
+You have to choose between two alternatives. Yes, I know - but I find it difficult to choose.
+
+kunnen:
+Kunnen jullie alsjeblieft aan de kant gaan? Ik moet er langs! Ja natuurlijk, geen problem.
+Can you please move aside? I have to pass! Yes of course, no problem.
+
+stoppen:
+Je moet niet stoppen met leren. Bliif oefenen en houd vol! Dan word je steeds beter in de Nederlandse taal :-)
+You shouldn't stop learning. Keep practicing and persevere! Then you will become better and better at the Dutch language :-)
+
+We gaan vandaag standard patronen oefenen. ik zeg de zin 2 keer. jij herhaalt de zin 1 keer.
+Today we are going to practice standard patterns. I say the phrase 2 times. You repeat the phrase 1 time.
+
+Mag ik je its vragen: hoe laat vertrekt de bus?
+Can I ask you something: what time does the bus leave?
+
+Mag ik je its vragen, is deze stoel vri?
+Can I ask you something, is this seat available?
+
+Mag ik je iets vragen, is dit de trein naar het vliegveld?
+Can I ask you something, is this the train to the airport?
+
+Hallo, alles goed? Ja, het gaat goed.
+Hello, everything good? Yes, it's going well.
+
+Hallo, alles goed? Nee, ik ben misselijk.
+Hello, everything good? No, I'm nauseous.
+
+Mag ik hier niet fietsen? Sorry, dat wist ik niet.
+Am I not allowed to cycle here? Sorry, I did not know that.
+
+Moeten wij betalen? Sorry, dat wist ik niet.
+Do we have to pay? Sorry, I did not know that.
+
+Is de film al begonnen? Sorry, dat wist ik niet.
+Has the movie started yet? Sorry, I did not know that.
+
+Heb jij al gegeten? Sorry, dat wist ik niet.
+Have you eaten yet? Sorry, I did not know that.
+
+Ik weet zeker dat ik het raam heb gesloten.
+I'm sure I closed the window.
+
+Ik weet zeker dat mijn ouders this zin.
+I'm sure my parents are home.
+
+Ik weet zeker dat het morgen regent.
+I'm sure it will rain tomorrow.
+
+We gaan vandaag standaard patronen oefenen in het Nederlands. Ik zeg de zin twee keer hardop voor. Daarna herhaal jij het.
+Today we are going to practice standard patterns in Dutch. I say the phrase out loud twice. Then you repeat it.
+
+Deze baan is leuker dan ik verwachtte.
+This job is more fun than I expected.
+
+Deze broek is langer dan ik verwachtte.
+These pants are longer than I expected.
+
+Deze auto is sneller dan ik verwachtte.
+This car is faster than I expected.
+
+Deze jongen is ouder dan ik verwachtte.
+This boy is older than I expected.
+
+Ik vind het leuk om thuis te werken.
+I enjoy working from home.
+
+Ik vind het leuk om televisie te kijken.
+I like watching television.
+
+Ik vind het leuk om radio te luisteren.
+I like listening to the radio.
+
+Ik vind het leuk om in de regen te lopen.
+I like walking in the rain.
+
+lk vind het leuk om jou te zien.
+I like seeing you.
+
+Ik vind het leuk om buiten te wandelen.
+I enjoy walking outside.
+
+Zij wil altijd de rekening betalen.
+She always wants to pay the bill.
+
+Zij wil altijd de eerste zijn.
+She always wants to be first.
+
+Zij wil altijd met de trein reizen.
+She always wants to travel by train.
+
+Zij wil altijd als laatste naar binnen.
+She always wants to go in last.
+
+Het is niet makkelijk, maar ik probeer het.
+It's not easy, but I'm trying.
+
+Het is niet makkelijk, maar we moeten meer huur betalen.
+It's not easy, but we have to pay more rent.
+
+Het is niet makkelijk, maar het is de moeite waard.
+It's not easy, but it's worth it.
+
+Ik zei het toch!
+I told you so!
+
+Sorry, ik ben het vergeten!
+Sorry, I forgot!
+
+Excuseer, waar is het treinstation?
+Excuse me, where is the train station?
+
+Het spijt me. Hij is er nu niet.
+I'm sorry. He is not here right now.
+
+Tijd om goedenacht te zeggen.
+Time to say goodnight!
+
+Leuk u te ontmoeten meneer.
+Nice to meet you, sir.
+
+Hallo Mies, hoe gaat het?
+Hello Mies, how are you?
+
+Het is koud. Ja, inderdaad!
+It is cold. Yes indeed!
+
+Ik ben geneigd om nee te stemmen.
+I tend to vote no.
+
+Dank je wel, maar dit heb ik niet besteld.
+Thank you, but I didn't order this.
+
+Ik ben Maria.
+I'm Maria.
+
+Tot ziens mijn vriend.
+Goodbye, my friend.
+
+Hij is een slechte jongen.
+He's a bad boy.
+
+Groentes zijn goed voor je
+Vegetables are good for you.
+
+Je bent erg mooi.
+You are very pretty.
+
+Het lelijke eendje werd een mooie zwaan.
+The ugly duckling became a beautiful swan.
+
+Het is makkelijk om een woord te spellen.
+It is easy to spell a word.
+
+De toets van woensdag zal moeilijk zijn.
+Wednesday's test will be difficult.
+
+Ik woon dichtbij de universiteit.
+I live near the university.
+
+De vrouw kijkt naar iets ver weg.
+The woman is looking at something far away.
+
+Een klein biertje alstublieft.
+A small beer please.
+
+Ze ziet er erg verdrietig uit vandaag.
+She looks really sad today.
+
+Ik heb gisteren een vrije dag genomen.
+I took a day off yesterday.
+
+Zie je morgen!
+See you tomorrow!
+
+Er zitten zeven dagen in een week.
+There are seven days in a week.
+
+een kalenderjaar
+one calendar year
+
+Er zijn nog vijftig seconden op de stopwatch over.
+There are fifty seconds left on the stopwatch.
+
+Het is een minuut voor middernacht.
+It's one minute to midnight.
+
+Ik slaap elke dag acht uur.
+I sleep for 8 hours every day.
+
+De klok geeft acht minuten voor twaalf aan.
+The clock reads eight minutes to twelve.
+
+Het is drie uur.
+It's three o'clock.
+
+Ik heb onze feestdag aangeven op de kalender.
+I marked our anniversary on the calendar.
+
+De werkweek begint op maandag.
+The workweek starts on Monday.
+
+Volgende week dinsdag
+Tuesday next week
+
+De woensdagavonden spelen we bij mij thuis poker.
+Wednesday nights we play poker at my house.
+
+op donderdag
+on Thursday
+
+Schrijf de plannen voor vrijdag op de kalender.
+Write the plans for Friday on the calendar.
+
+Elke zaterdag doe ik vijf uur lang het huishouden.
+I do housework every Saturday for five hours.
+
+Zondag is het Vaderdag.
+Sunday is Father's Day.
+
+Ik heb zo veel werk te doen!
+I have so much work to do!
+
+Ik ga in de stad naar school.
+I go to school in the city.
+
+De bejaarde mensen zijn aan het lachen.
+The elderly people are laughing.
+
+Haringen met uitjes zijn heerlijk!
+Herring with onions are delicious!
+
+Mag ik wat water alstublieft?
+Can I have some water, please?
+
+De vrouw drinkt thee.
+The woman is drinking tea.
+
+De koffiepot zit vol met koffie.
+The coffee pot is full of coffee.
+
+blikje bier
+can of beer
+
+Je drinkt rode wijn bij vlees en witte wijn bij vis.
+You drink red wine with meat, and white wine with fish.
+
+De keuzes voor vanavond zin rundvlees en kip.
+Tonight's choices are beef or chicken.
+
+Ik hou niet van het vel van de kip.
+I don't like chicken skin.
+
+Varkensvlees is vlees van een varken.
+Pork is the meat from a pig.
+
+Het hoofdgerecht van vanavond is gegrilde vis.
+Tonight's main course is grilled fish.
+
+Lamsvlees is extreem lekker.
+Lamb is extremely delicious.
+
+De dokter neemt de pols op van de patient.
+The doctor is taking the patient's pulse.
+
+De politieagent ondervraagt de bestuurder.
+The police officer is questioning the driver.
+
+lerares Engels
+English teacher
+
+De werknemers hebben een vergadering in de bestuurskamer.
+The employees are having a meeting in the boardroom.
+
+Het meisje komt naar de camera.
+The girl is coming towards the video camera.
+
+Ik ga zondag een toneelstuk zien.
+I'll see a play on Sunday.
+
+De chef is jus d' orange aan het maken.
+The chef is making orange juice.
+
+De programmeur gebruikt de computer.
+The programmer uses the computer.
+
+Hij kan rijden maar niet erg goed.
+He can drive, but not very well.
+
+valt onder de nul graden
+fall below zero degrees Celsius
+
+Een 1 cent muntstuk is erg licht.
+One cent coins are very light.
+
+Nummer twee is mijn favoriete nummer.
+The number two is my favorite number.
+
+De eerste groep arriveerde met bus nummer drie.
+The first group arrived on bus number three.
+
+November is een van de vier maanden met 30 dagen.
+November is one of four months with thirty days.
+
+De zeester heeft vijf armen.
+The starfish has five legs.
+
+Ik word elke dag om zes uur 's ochtends wakker.
+I wake up every morning at six o'clock a.m.
+
+Hij reed zeventig mijl per uur.
+He drove seventy miles per hour.
+
+Je moet tenminste acht uur per nacht slapen.
+You should sleep at least eight hours every night.
+
+negenennegentig procent
+ninety-nine percent
+
+Ik kan in het Chinees van een tot tien tellen.
+I can count from one to ten in Chinese.
+
+Hij is een verkoper.
+He is a salesman.
+
+De manager van de fabriek geeft instructies.
+The factory manager is giving instructions.
+
+We hebben voor het restaurant in het hotel een nieuwe kok aangenomen.
+We hired a new cook for the hotel restaurant.
+
+Een goede ingenieur kan ontwerpen en systemen bouwen.
+A good engineer can design and build systems.
+
+computerprogrammeur
+computer programmer
+
+De verpleegster op school onderzoekt een leerling.
+The nurse at the school is examining a student.
+
+Eten is brandstof voor het lichaam.
+Food is fuel for the body.
+
+Draag een helm om je hoofd te beschermen.
+Wear a helmet to protect your head.
+
+
+
+
