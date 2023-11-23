@@ -6,6 +6,7 @@ export default function Youtube() {
   const [exampleCount, setExampleCount] = useState(1);
   const [meaningCount, setMeaningCount] = useState(1);
   const [showWord, setShowWord] = useState(true);
+  const [meaningPosition, setMeaningPosition] = useState(1);
 
   useEffect(() => {
     async function initializeState() {
@@ -29,6 +30,11 @@ export default function Youtube() {
     setShowWord(event.target.checked);
   };
 
+  const handleMeaningPositionChange = (event) => {
+    const position = parseInt(event.target.value);
+    setMeaningPosition(position);
+  };
+
   return (
     <div className="p-4">
       <div className="flex gap-4">
@@ -50,6 +56,15 @@ export default function Youtube() {
             className="border border-gray-300 p-1 rounded ml-2 focus:outline-none focus:ring-2 focus:ring-violet-500"
           />
         </label>
+        <label>
+          Meaning Position:
+          <input
+            type="number"
+            value={meaningPosition}
+            onChange={handleMeaningPositionChange}
+            className="border border-gray-300 p-1 rounded ml-2 focus:outline-none focus:ring-2 focus:ring-violet-500"
+          />
+        </label>
         <label className="flex items-center space-x-2">
           <input
             type="checkbox"
@@ -67,16 +82,33 @@ export default function Youtube() {
             {showWord && object.word && (
               <div className="font-bold">{object.word}</div>
             )}
-            {Array.from({ length: exampleCount }, (_, i) => (
-              <div key={`example_${index}_${i}`} className="mt-2">
-                {object.example}
-              </div>
-            ))}
-            {Array.from({ length: meaningCount }, (_, i) => (
-              <div key={`meaning_${index}_${i}`} className="mt-2">
-                {object.meaning}
-              </div>
-            ))}
+            {Array.from({ length: exampleCount }, (_, i) => {
+              return (
+                <>
+                  {i === meaningPosition && (
+                    <>
+                      {Array.from({ length: meaningCount }, (_, i) => (
+                        <div key={`meaning_${index}_${i}`} className="mt-2">
+                          {object.meaning}
+                        </div>
+                      ))}
+                    </>
+                  )}
+                  <div key={`example_${index}_${i}`} className="mt-2">
+                    {object.example}
+                  </div>
+                </>
+              );
+            })}
+            {meaningPosition >= exampleCount && (
+              <>
+                {Array.from({ length: meaningCount }, (_, i) => (
+                  <div key={`meaning_${index}_${i}`} className="mt-2">
+                    {object.meaning}
+                  </div>
+                ))}
+              </>
+            )}
           </li>
         ))}
       </ul>
