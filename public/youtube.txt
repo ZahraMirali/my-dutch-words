@@ -500,7 +500,7 @@ Have you eaten yet? Sorry, I did not know that.
 Ik weet zeker dat ik het raam heb gesloten.
 I'm sure I closed the window.
 
-Ik weet zeker dat mijn ouders this zin.
+Ik weet zeker dat mijn ouders thuis zijn.
 I'm sure my parents are home.
 
 Ik weet zeker dat het morgen regent.
@@ -533,7 +533,7 @@ I like listening to the radio.
 Ik vind het leuk om in de regen te lopen.
 I like walking in the rain.
 
-lk vind het leuk om jou te zien.
+Ik vind het leuk om jou te zien.
 I like seeing you.
 
 Ik vind het leuk om buiten te wandelen.
@@ -803,6 +803,239 @@ Food is fuel for the body.
 Draag een helm om je hoofd te beschermen.
 Wear a helmet to protect your head.
 
+Het kind heft zijn hand.
+The child is raising his hand.
 
+gespierde arm
+muscular arm
 
+Een voet heeft vijf tenen.
+A foot has five toes.
 
+Ik heb een ontsteking aan mijn been.
+I have an infection on my leg.
+
+Mijn vinger bloedt.
+My finger's bleeding.
+
+Een rug van een egel is bedekt met scherpe stekels.
+A hedgehog's back is covered in sharp spines.
+
+Ik heb teveel gegeten en nu doet mijn maag pijn.
+I ate too much, and now my stomach hurts.
+
+De dokter en de verpleegster maken een röntgen van de patiënt zijn borst.
+The doctor and nurse are taking an X-ray of the patient's chest.
+
+Het is hier in januari erg koud.
+It's very cold here in January.
+
+Negenentwintig (29) februari is een schrikkeldag.
+Leap year day is February 29th.
+
+Het is nu april dus vorige maand was het maart.
+It is now April so last month was March.
+
+De regenbuien in april zorgen voor bloemen in mei.
+April showers bring May flowers.
+
+Er is een belangrijk examen in mei.
+There is an important exam in May.
+
+Wij gaan in juni trouwen.
+We are getting married in June.
+
+Juli is een van de zeven maanden met eenendertig dagen.
+July is one of 7 months with 31 days.
+
+De school is in augustus gesloten.
+The school is closed in August.
+
+Vandaag is het zaterdag tien september.
+Today is Saturday, September 10th.
+
+op dertien (13) oktober
+on October 13th
+
+Op 24 november 1642 ontdekte Abel Tasman een eiland dat nu beter bekend is als Tasmanie.
+On November 24th, 1642, Abel Tasman discovered an island which is now known as Tasmania.
+
+vijf december
+December 5th
+
+Ze kreeg na de diploma-uitreiking een horloge van haar ouders.
+She got a watch from her parents after the graduation ceremony.
+
+Vergeet je zonnebril niet.
+Don't forget your sunglasses.
+
+Die jas staat je goed.
+That jacket looks nice on you.
+
+De koningin zal de gasten ontvangen.
+The queen will receive the guests.
+
+Laten we paaseieren gaan zoeken.
+Let's search for Easter eggs.
+
+Ik neem het met me mee.
+I will take it with me.
+
+Mijn familie is mijn kracht en mijn zwakte.
+My family is my strength and my weakness.
+
+Wees sterk en geef niet op!
+Be strong and don't give up!
+
+De thee is nog steeds heet.
+The tea is still hot.
+
+Dit boek is erg grappig.
+This book is pretty funny.
+
+Perziken komen oorspronkelijk uit China maar groeien nu over de hele wereld.
+Peaches are originally from China, but are now grown throughout the world.
+
+Ik drink sinaasappelsap bij het ontbijt en appelsap met de lunch.
+I drink orange juice with breakfast and apple juice with lunch.
+
+De aardappel komt van oorsprong uit Peru.
+Potatoes come from Peru.
+
+Sojabonen groeien in peulen.
+Soybeans grow inside the pods.
+
+Ik eet liever rauwe groenten dan gekookte.
+I prefer raw vegetables to boiled ones.
+
+De koe is in het veld.
+The cow is in the field.
+
+Varkens zijn intelligente dieren.
+Pigs are intelligent animals.
+
+Ik zie een paard met een lange staart.
+I see a horse with a long tail.
+
+Op de berg ligt veel sneeuw.
+There is a lot of snow on the mountain.
+
+De man strijkt zijn overhemd.
+The man is ironing his shirt.
+
+Ik deed mijn broek uit.
+I took off my pants.
+
+De jurk wordt geëtaleerd
+The dress is on display.
+
+Hij zegt dat hij naar huis gaat.
+He says he is going home.
+
+Belt u alstublieft de politie.
+Please call the police.
+
+Ik kan mijn haarborstel niet vinden.
+I can't find my hairbrush.
+
+Moet je die schone auto eens zijn!
+Look at that clean car!
+
+De vork ligt op een vuil bord.
+The fork is on the dirty plate.
+
+Het witte konijn eet een wortel.
+The white rabbit eats a carrot.
+
+Haring met uitjes zijn heerlijk!
+Herring with onions are delicious!
+
+Peper, broccoli, courgette, prei, wortels, aubergine en sla zijn allemaal groentes.
+Peppers, broccoli, zucchini, leeks, carrots, eggplants, and lettuce are all vegetables.
+
+Het schaap eet het groene gras.
+The sheep is eating the green grass.
+
+Jullie konijn is erg schattig.
+Your rabbit is very cute.
+
+Ik denk dat zeehonden schattig zijn.
+I think seals are cute.
+
+Grijze wolken zijn meestal een indicatie dat het gaat regenen.
+Gray clouds usually indicate rain.
+
+Ik verwacht later zonnig weer.
+I expect sunny weather later.
+
+Het is regenachtig weer.
+The weather is rainy.
+
+De peuter loopt over de weg.
+The toddler walks on the road.
+
+Het meisje wast haar gezicht.
+The girl washes her face.
+
+De jongen heeft een hond als huisdier.
+The boy has a pet dog.
+
+Ik ben blij met mijn nieuwe appartement.
+I'm happy with my new apartment.
+
+De bedroefte tiener zit alleen.
+The sad teenager is sitting alone.
+
+Mijn vrienden worden boos als ik ze geen souvenirs stuur.
+My friends will get angry if I don't send them some souvenirs.
+
+Kleding is een noodzaak voor iedereen.
+Clothing is a necessity for everyone.
+
+Deze schoenen zijn bruin.
+These shoes are brown.
+
+Ik ben een sok kwijt.
+I lost a sock.
+
+Mijn sokken en ondergoed liggen in de bovenste lade van mijn dressoir.
+My socks and underwear are in the top drawer of my dresser.
+
+Laten we er over praten!
+Let's talk about it!
+
+Mag ik je een handige tip geven?
+Can I give you a useful tip?
+
+Deze tafel is te laag voor me.
+This table is too low for me.
+
+De golven zijn hoog vandaag!
+The waves are high today!
+
+Ik hou van fruit vooral van de banaan.
+I like fruit, especially the banana.
+
+De octopus zwemt onder water.
+The octopus is swimming underwater.
+
+De surfer werd gebeten door een haai.
+The surfer was bitten by a shark.
+
+Walvissen eten veel garnalen.
+Whales eat many shrimp.
+
+Het is buiten bewolkt aan het worden.
+It's getting cloudy outside.
+
+De gasten hopen op een fris windje.
+The guests are hoping for a cool breeze.
+
+Deze komkommer is lang en dun.
+This cucumber is long and thin.
+
+De meest voorkomende paprika's zijn groen, rood of geel.
+The most common bell peppers are green, red or yellow.
+
+Broccoli is rijk aan vitamine C, K, en A.
+Broccoli is rich in vitamins C, K and A.
