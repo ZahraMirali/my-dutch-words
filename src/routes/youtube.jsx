@@ -7,6 +7,24 @@ export default function Youtube() {
   const [meaningCount, setMeaningCount] = useState(1);
   const [showWord, setShowWord] = useState(true);
   const [meaningPosition, setMeaningPosition] = useState(1);
+  const [selectedWord, setSelectedWord] = useState(null);
+  const [selectedWords, setSelectedWords] = useState([]);
+
+  const cleanWord = (word) => {
+    return word.replace(/[^a-zA-Z]+$/, "");
+  };
+
+  const handleWordClick = (word) => {
+    setSelectedWord(word);
+  };
+
+  const handleMeaningClick = (meaning) => {
+    setSelectedWords([
+      ...selectedWords,
+      { word: cleanWord(selectedWord), meaning: cleanWord(meaning) },
+    ]);
+    setSelectedWord(null);
+  };
 
   useEffect(() => {
     async function initializeState() {
@@ -77,41 +95,79 @@ export default function Youtube() {
       </div>
       <br />
       <ul className="mt-4">
-        {objectsArray?.map((object, index) => (
-          <li key={index} className="mb-4">
-            {showWord && object.word && (
-              <div className="font-bold">{object.word}</div>
-            )}
-            {Array.from({ length: exampleCount }, (_, i) => {
-              return (
-                <>
-                  {i === meaningPosition && (
-                    <>
-                      {Array.from({ length: meaningCount }, (_, i) => (
-                        <div key={`meaning_${index}_${i}`} className="mt-2">
-                          {object.meaning}
-                        </div>
+        {objectsArray?.map((object, index) => {
+          const meaning = Array.from({ length: meaningCount }, (_, i) => (
+            <div key={`meaning_${index}_${i}`} className="mt-2">
+              {object.meaning.split(" ").map((mean, mi) => (
+                <span key={`meaning_${index}_${i}_${mi}`}>
+                  <button
+                    className="hover:bg-blue-200 rounded"
+                    onClick={() => handleMeaningClick(mean)}
+                  >
+                    {mean}
+                  </button>{" "}
+                </span>
+              ))}
+            </div>
+          ));
+
+          return (
+            <li key={index} className="mb-4">
+              {showWord && object.word && (
+                <div className="font-bold">{object.word}</div>
+              )}
+              {Array.from({ length: exampleCount }, (_, i) => {
+                return (
+                  <div key={`example_${index}_${i}`}>
+                    {i === meaningPosition && meaning}
+                    <div className="mt-2">
+                      {object.example.split(" ").map((ex, exi) => (
+                        <span key={`example_${index}_${i}_${exi}`}>
+                          <button
+                            className={`rounded ${
+                              selectedWord === ex
+                                ? "bg-blue-200"
+                                : "hover:bg-blue-200"
+                            }`}
+                            onClick={() => handleWordClick(ex)}
+                          >
+                            {ex}
+                          </button>{" "}
+                        </span>
                       ))}
-                    </>
-                  )}
-                  <div key={`example_${index}_${i}`} className="mt-2">
-                    {object.example}
+                    </div>
                   </div>
-                </>
-              );
-            })}
-            {meaningPosition >= exampleCount && (
-              <>
-                {Array.from({ length: meaningCount }, (_, i) => (
-                  <div key={`meaning_${index}_${i}`} className="mt-2">
-                    {object.meaning}
-                  </div>
-                ))}
-              </>
-            )}
-          </li>
-        ))}
+                );
+              })}
+              {meaningPosition >= exampleCount && meaning}
+            </li>
+          );
+        })}
       </ul>
+      <br />
+      <div className="mt-8">
+        <h2 className="text-xl font-bold mb-4">Selected Words</h2>
+        <table className="min-w-full bg-white border border-gray-300">
+          <thead>
+            <tr>
+              <th className="border border-gray-300 px-4 py-2">Word</th>
+              <th className="border border-gray-300 px-4 py-2">Meaning</th>
+            </tr>
+          </thead>
+          <tbody>
+            {selectedWords.map((selected, idx) => (
+              <tr key={idx}>
+                <td className="border border-gray-300 px-4 py-2">
+                  {selected.word}
+                </td>
+                <td className="border border-gray-300 px-4 py-2">
+                  {selected.meaning}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 }
