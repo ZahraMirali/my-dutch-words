@@ -1279,3 +1279,287 @@ I am studying at the library.
 
 Deze supermarkt is heel goedkoop.
 This supermarket is very cheap.
+
+Ik denk niet dat ik je kan helpen.
+I do not think I can help you.
+
+Denk in de taal die je wilt leren.
+Think in the language you want to learn.
+
+De alligators bewegen zich langzaam door het water.
+The alligators are slowly moving through the water.
+
+Zijn dochter is zeventien jaar oud.
+His daughter is seventeen years old.
+
+Ik ben achttien jaar oud.
+I'm eighteen years old.
+
+Er zijn hier negentien boeken.
+There are nineteen books here.
+
+De cd kost twintig dollar.
+The CD costs twenty dollars.
+
+Ik heb pijn in mijn nek.
+I've got a pain in my neck.
+
+De vrouw wast haar gezicht.
+The woman is washing her face.
+
+Ik heb twee oren.
+I have two ears.
+
+Ik zou graag mijn haar willen kleuren.
+I would like to dye my hair.
+
+De man rijdt met zijn fiets de berg af.
+The man is riding his bike down the mountain.
+
+Er is een kustwacht op het strand.
+There's a lifeguard at the beach.
+
+Veel medicinen van tegenwoordig komen van planten gevonden in het regenwoud.
+Many modern medicines come from plants found in the rainforest.
+
+Aruba is een mooi eiland.
+Aruba is a beautiful island.
+
+Hou je woordenboek bij de hand om je woordenschat te verbeteren.
+Have your dictionary ready to help improve your vocabulary.
+
+De badkamer heeft een blauwe deur.
+The bathroom has a blue door.
+
+Nederlandse treinen zijn geel en blauw.
+Dutch trains are yellow and blue.
+
+Oranje is de kleur van Nederland.
+Orange is the color of the Netherlands.
+
+Ik heb de verkeerde kleur.
+I got the wrong color.
+
+saai: boring
+Mijn werk is saai.
+My job is boring.
+
+boeiend: exciting
+De film was erg boeiend.
+The movie was very exciting.
+
+belangrijk: important
+Familie is niet een belangrijk ding. Het is alles.
+Family is not an important thing. It's everything.
+
+Accepteert u ook creditcards?
+Do you take credit card?
+
+sleutel: key
+Welke sleutel moet ik gebruiken?
+Which key should I use?
+
+rijbewijs: driver's license
+Nederlanders hebben een speciaal rijbewijs nodig als ze een auto met caravan willen besturen.
+Dutch people need to have a special driver's license if they want to drive a car that tows a caravan.
+
+bos: forest
+De wasbeer eet pinda's in het bos.
+The raccoon is eating peanuts in the forest.
+
+De bruine beer is aan het rennen in de rivier.
+The brown bear is running in the river.
+
+De zon gaat achter de blauwe oceaan onder.
+The sun sets behind the blue ocean.
+
+meer: lake
+De zwaan is aan het zwemmen in het meer.
+The swan is swimming in the lake.
+
+Als je me niet zo snel mogelijk de documenten brengt ben je ontslagen.
+If you don't bring me the documents as soon as possible, you're fired.
+
+Ik zet mijn computer aan.
+I turn on my computer.
+
+Heb je een fax?
+Do you have a fax machine?
+
+De printer in het kantoor is kapot.
+The printer at the office is broken.
+
+vulpotlood: mechanical pencil
+Het rode vulpotlood heeft een groene gum.
+The red mechanical pencil has a green eraser.
+
+liniaal: ruler
+Ik gebruik een liniaal om lijntjes te trekken.
+I use ruler to draw lines.
+
+viltstift: marker
+Er zit bijna geen inkt meer in de viltstift.
+The marker is running low on ink.
+
+Zij werkt bij de bank.
+She works at a bank.
+
+gemakswinkel: convenience store
+De gemakswinkel is 24 uur open.
+The convenience store is open 24 hours.
+
+ziekenhuis: hospital
+Een dokter werkt in een ziekenhuis.
+A doctor works in a hospital.
+
+portemonnee: wallet
+Zijn portemonnee was een paar dagen geleden op het treinstation gestolen.
+His wallet was stolen in the train station a couple of months ago.
+
+handtas: purse
+Dit is een grote handtas.
+This is a big purse.
+
+bestelling: order
+Bevestig de bestelling.
+Confirm the order.
+
+veld: field
+De boer is in het korenveld.
+The farmer is in the wheat field.
+
+woestijn: desert
+De kamelen lopen in de woestijn.
+The camels are walking in the desert.
+
+baas: boss
+Mijn baas is irritant.
+My boss is annoying.
+
+kantoor: office
+Ik woon vlakbij mijn kantoor.
+I live near my office.
+
+Ik zou graag met mijn collega willen praten wat betreft het incident van afgelopen maandag.
+I would like to talk to my coworker regarding last Monday's incident.
+
+vergadering: meeting
+Ik woon een vergadering bij.
+I attend a meeting.
+
+politiebureau: police station
+De politieauto's staan buiten het politiebureau geparkeerd.
+The police cars are parked outside the police station.
+
+apotheek: pharmacy
+Is er een apotheek in de buurt?
+Is there a pharmacy nearby?
+
+bakkerij: bakery
+Ze gaat elke zondag met haar kinderen naar de bakkerij.
+She goes to the bakery every Sunday with her kids.
+
+filmtheater: movie theater
+Naar welk filmtheater wil je gaan?
+Which movie theater do you want to visit?
+
+onderhandeling: negotiation
+Na een onderhandeling van twee jaar kwamen de twee landen eindelijk tot een overeenstemming.
+After two years of negotiation, the two countries were finally able to come to an agreement.
+
+contract: contract
+Teken niets voor je het contract grondig hebt doorgelezen.
+Don't sign anything before you have read the contract thoroughly.
+
+zaken: business
+De bank is op zondag niet open voor zaken.
+The bank is not open for business on Sundays.
+
+deal: deal
+We hebben een deal.
+We have a deal.
+
+druk: busy
+Deze week heb ik het druk.
+This week I am busy.
+
+ernstig: serious
+Depressie is een zeer ernstige mentale ziekte.
+Depression is a very serious mental illness.
+
+moe: tired
+Bedankt, maar ik ben erg moe.
+Thanks, but I'm really tired.
+
+meerdere: superior
+Ik moet elke ochtend aan mijn meerdere rapporteren.
+I have to report to my superior every morning.
+
+bedrijf: company
+Dat bedrijf is een prima werkgever.
+That company is a fine employer.
+
+salaris: salary
+Hoeveel bedraagt het salaris?
+How much is the salary?
+
+Voordat ik ga slapen luister ik graag naar de radio.
+I like to listen to the radio before going to sleep.
+
+televisie: television
+'s Avonds kijk ik graag naar de televisie.
+In the evening I like to watch television.
+
+Hoe lang heb je geinternet?
+How long did you use the internet?
+
+Wij bewaren veel oude kranten.
+We conserve many old newspapers.
+
+nieuwszender: news channel
+'s Avonds zet ik de nieuwszender aan.
+I turn on the news channel in the evening.
+
+muziekinstrument: musical instrument
+Kun je een muziekinstrument spelen?
+Can you play a musical instrument?
+
+schilderij: painting
+In het museum hangen veel schilderijen.
+There are many paintings in the museum.
+
+We hebben voor vrijdagavond twee kaartjes voor het theater.
+We have tickets to the theater for this Friday night.
+
+Een musical kan een verhaal vertellen met liedjes.
+A musical can tell a story with songs.
+
+Dit is het mooiste gedeelte van deze opera.
+This is the nicest part of this opera.
+
+ontspannen: relax
+Vissen is een ontspannen hobby.
+Fishing is a relaxing hobby.
+
+Een whiteboard is een perfecte manier om een visuele demonstratie te geven.
+A whiteboard is a perfect means to demonstrate something visually.
+
+schoolbord: blackboard
+Wis het schoolbord uit.
+Erase the blackboard.
+
+toets: test
+De toets van woensdag zal moeilijk zijn.
+Wednesday's test will be difficult.
+
+studieboek: textbook
+Open alstublieft uw studieboek en ga naar pagina tien.
+Please open your textbook to page ten.
+
+voorkant: front
+Zet het bord aan de voorkant van het gebouw.
+Put the sign on the front of the building.
+
+baan: job
+Ik ben vorig jaar met deze baan begonnen.
+I started this job last year.
