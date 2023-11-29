@@ -55,7 +55,7 @@ export default function Youtube() {
 
   return (
     <div className="p-4">
-      <div className="flex gap-4">
+      <div className="flex gap-4 flex-wrap">
         <label>
           Repeat Example Counts:
           <input
@@ -100,12 +100,12 @@ export default function Youtube() {
             <div key={`meaning_${index}_${i}`} className="mt-2">
               {object.meaning.split(" ").map((mean, mi) => (
                 <span key={`meaning_${index}_${i}_${mi}`}>
-                  <button
-                    className="hover:bg-blue-200 rounded"
+                  <span
+                    className="hover:bg-blue-200 rounded cursor-pointer"
                     onClick={() => handleMeaningClick(mean)}
                   >
                     {mean}
-                  </button>{" "}
+                  </span>{" "}
                 </span>
               ))}
             </div>
@@ -123,8 +123,8 @@ export default function Youtube() {
                     <div className="mt-2">
                       {object.example.split(" ").map((ex, exi) => (
                         <span key={`example_${index}_${i}_${exi}`}>
-                          <button
-                            className={`rounded ${
+                          <span
+                            className={`rounded cursor-pointer ${
                               selectedWord === ex
                                 ? "bg-blue-200"
                                 : "hover:bg-blue-200"
@@ -132,7 +132,7 @@ export default function Youtube() {
                             onClick={() => handleWordClick(ex)}
                           >
                             {ex}
-                          </button>{" "}
+                          </span>{" "}
                         </span>
                       ))}
                     </div>
