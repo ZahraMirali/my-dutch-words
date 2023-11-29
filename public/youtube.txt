@@ -1563,3 +1563,800 @@ Put the sign on the front of the building.
 baan: job
 Ik ben vorig jaar met deze baan begonnen.
 I started this job last year.
+
+Hij is de president.
+He is the president.
+
+industrie: industry
+Industrieën moet hun afval verminderen.
+Industries need to reduce their wastes.
+
+riem: belt
+De persoon draagt een riem.
+The person is wearing a belt.
+
+munt: coin
+Een 1 cent muntstuk is erg licht.
+One-cent coins are very light.
+
+geld: money
+Hij vroeg om geld.
+He asked for money.
+
+bankpas: debit card
+Debitcards halen direct geld van de rekening van de rekeninghouder.
+Debit cards directly withdraw funds from the holder's account.
+
+rekening: bill
+Hij kreeg het eindelijk voor elkaar om al zijn rekeningen te betalen.
+He finally managed to pay all his bills.
+
+fotografie: photography
+Studeer je fotografie?
+Are you studying photography?
+
+uittrekken: take off
+Trek voor je naar bed gaat je schoenen uit.
+Take off your shoes before you go to bed.
+
+slaapkamer: bedroom
+Helaas valt er niet veel licht in onze slaapkamer.
+Unfortunately, we don't get a lot of light into our bedroom.
+
+keuken: kitchen
+Ik heb de keuken schoongemaakt.
+I cleaned up the kitchen.
+
+badkamer: bathroom
+De badkamer heeft een blauwe deur.
+The bathroom has a blue door.
+
+afstuderen: graduation
+Je bent uitgenodigd voor mijn zus haar afstuderen.
+You are invited to my sister's graduation.
+
+promotie: promotion
+Ze was een vriendin van me tot ik die promotie kreeg in plaats van haar.
+She was a friend of mine until I got the promotion instead of her.
+
+jubileum: anniversary
+Ik heb ons jubileum aangeven op de kalender.
+I marked our anniversary on the calendar.
+
+begrafenis: funeral
+Er zijn verschillende gebruiken die worden toegepast bij begrafenissen.
+There are many different customs associated with funerals.
+
+trouwerij: wedding
+Er zijn een groot aantal trouwerijen in juni omdat sommigen denken dat het de geluksmaand is voor de liefde.
+There are a large number of weddings in June, as some think it's a lucky month for love.
+
+uitleggen: explain
+Kun je het antwoord uitleggen?
+Can you explain the answer?
+
+terug: back
+Ik moet nu teruggaan!
+I have to go back now!
+
+oost: east
+De zon komt op in het oosten en gaat onder in het westen.
+The sun rises in the east and sets in the west.
+
+stropdas: necktie
+Als je je stropdas niet fatsoenlijk knoopt, zie je er uit als een slons.
+If you don't tie your necktie properly, you will look like a slob.
+
+pak: suit
+Behalve de baas draagt iedereen op kantoor een pak.
+Everyone at the office wears a suit, except the boss.
+
+sneaker: sneaker
+De sneakers zijn rood, wit, grijs en met witte veters en zwarte zolen.
+The sneakers are red, white, and gray with white laces and black soles.
+
+eenentwintig: twenty-one
+Het gebouw heeft eenentwintig verdiepingen.
+The building has twenty-one stories.
+
+tweeëntwintig: twenty-two
+Haar favoriete nummer is tweeëntwintig.
+Twenty-two is her favorite number.
+
+drieëndertig: thirty-three
+Dit boek heeft drieëndertig paginas.
+This book has thirty-three pages.
+
+vierenveertig: forty-four
+Ik heb dit jaar vierenveertig examens.
+I'll have forty-four exams this year.
+
+vijfenvijftig: fifty-five
+Vijfenvijftig centimeter is gelijk aan eenentwintig komma vijfenzestig inches.
+Fifty-five centimeters is equal to 21.65 inches.
+
+Ze is een studente aan de universiteit.
+She is a university student.
+
+kijken: watch
+De toeristen kijken naar de zonsondergang.
+The tourists watch the sunset.
+
+klaslokaal: classroom
+Je vindt ze tegenover het klaslokaal.
+You will find them across from the classroom.
+
+Ik ben op weg naar school.
+I'm on my way to school.
+
+schoolstoel: school chair
+Ik kocht een kussen voor mijn schoolstoel.
+I bought a cushion for my school chair.
+
+schoolbureau: school desk
+De stoel zit vast aan het schoolbureau.
+The chair is attached to the school desk.
+
+surfen op het internet: surf the internet
+Elke avond voor ik ga slapen surf ik op het internet.
+I surf the internet every night before bed.
+
+noorden: north
+Een kompas wijst altijd naar het noorden.
+A compass always points north.
+
+terugbrengen: return
+Wanneer moet ik het terugbrengen?
+When must I return it?
+
+een bad nemen: bathe
+'s Avonds gelijk na het werk neem ik graag een bad.
+I like to bathe in the evening just after work.
+
+slapen: sleep
+Je moet tenminste acht uur per nacht slapen.
+You should sleep at least eight hours every night.
+
+zuiden: south
+Carnaval wordt gevierd in het zuiden van Nederland.
+Carnaval is celebrated in the south of the Netherlands.
+
+pyjama: pajamas
+De jongen draagt een pyjama.
+The boy is wearing pajamas.
+
+beha: brassiere
+witte beha
+white brassiere
+
+wakker worden: wake up
+Ik heb een alarm nodig om me te helpen bij het wakker worden.
+I need an alarm to help me wake up.
+
+pendelen: commute
+De mensen pendelen met de trein naar het werk.
+The people are commuting to work by train.
+
+eten: eat
+Als schoolkinderen thuiskomen, eten ze vaak een tussendoortje.
+When school kids come home, they often eat a snack.
+
+kunst: art
+Hou je van kunst?
+Do you like art?
+
+literatuur: literature
+De Odyssee is een klassiek stuk uit de literatuur.
+The Odyssey is a classic piece of literature.
+
+film: movie
+Die film is gewoon geweldig.
+That movie is just great.
+
+muziek: music
+Nee, ik hou niet van klassieke muziek.
+No, I don't like classical music.
+
+antwoord: answer
+Hij weet het antwoord.
+He knows the answer.
+
+lesgeven: teach
+Ze geeft les op de universiteit.
+She teaches at the university.
+
+vragen: ask
+Als je vragen hebt, stel me die dan nu.
+If you have any questions, please ask me now.
+
+dichtdoen: close
+Kun je dat raam alsjeblieft dichtdoen?
+Can you close that window, please?
+
+geboorte: birth
+Wat is uw geboortedatum?
+What's your date of birth?
+
+werken: work
+Ambtenaren werken altijd met formulieren.
+Civil servants always work with forms.
+
+aandoen: turn on
+De man doet het licht aan.
+The man turned on the light.
+
+uitschakelen: turn off
+de lichten uitdoen
+turn off the lights
+
+uit eten: eat out
+Ik heb zin om uit eten te gaan vanavond.
+I feel like eating out tonight.
+
+bijwonen: attend
+Ik woon een vergadering bij.
+I attend a meeting.
+
+westen: west
+De zon gaat onder in het westen.
+The sun sets in the west.
+
+poetsen: brush
+Het is belangrijk om twee keer per dag je tanden te poetsen.
+It is very important to brush your teeth twice a day.
+
+douchen: shower
+De man is aan het douchen
+The man is showering.
+
+wassen: wash
+De vrouw is haar gezicht aan het wassen.
+The woman is washing her face.
+
+vertrekken: leave
+Vanwege stormachtig weer vertrekken er geen vluchten vanaf het vliegveld.
+There are no flights leaving the airport today due to the stormy weather.
+
+cheque: check
+Kan ik met een cheque betalen?
+Can I pay by check?
+
+zesenzestig: sixty-six
+Ik heb zesenzestig minuten gerend.
+I ran for sixty-six minutes.
+
+zevenenzeventig: seventy-seven
+Zijn huisnummer is zevenenzeventig.
+His door number is seventy-seven.
+
+achtentachtig: eighty-eight
+Het bedrijf heeft achtentachtig werknemers.
+The company has eighty-eight employees.
+
+negenennegentig: ninety-nine
+Mijn vader heeft negenennegentig stropdassen.
+My father owns ninety-nine ties.
+
+honderd: one hundred
+Hij heeft honderd jaar geleefd.
+He has lived one hundred years.
+
+woonkamer: living room
+We proberen wat ruimte in de woonkamer te creëren.
+We are trying to create some space in the living room.
+
+eetkamer: dining room
+eettafel in de eetkamer
+dinner table in the dining room
+
+gang: hallway
+De badkamer is aan het einde van de gang.
+The bathroom is at the end of the hallway.
+
+appartement: apartment
+Ik heb een klein appartement in New York City.
+I have a small apartment in New York City.
+
+huis: house
+Waar is het huis?
+Where is the house?
+
+trainen: exercise
+Ik ga elke dag naar buiten om te trainen.
+I go out to exercise every day.
+
+openen: open
+Kun je het raam openen, alsjeblieft?
+Could you open the window, please?
+
+luisteren: listen
+Het is wat vermoeiend om altijd te luisteren naar je klachten.
+It's kind of tiring to always listen to your complaints.
+
+verjaardag: birthday
+Wij vieren mijn verjaardag vandaag.
+We are celebrating my birthday today.
+
+pensioneren: retire
+Mijn opa wil over een jaar met pensioen.
+My grandfather wants to retire in a year.
+
+buiten: outside
+Doe je jas aan want het is koud buiten.
+Put on your jacket, because it's cold outside.
+
+binnenkant: inside
+Sojabonen groeien aan de binnenkant van een dop.
+Soybeans grow inside the pods.
+
+links: left
+Ga rechtdoor en sla dan bij de tweede kruising linksaf.
+Go straight, and then turn left at the second intersection.
+
+rechts: right
+Sla bij het volgende stoplicht rechtsaf.
+Turn right at the next light.
+
+eerste: first
+Heb je ooit eerste klas gevlogen?
+Have you ever flown first class?
+
+tweede: second
+Ze kochten een tweede huis op Hawaii.
+They bought a second house in Hawaii.
+
+derde: third
+Hij werd derde in de zwemwedstrijd.
+He came in third at the swimming competition.
+
+zeep: soap
+Was je elke dag met zeep en water.
+Bathe with soap and water every day.
+
+tandenborstel: toothbrush
+Kun je me die tandenborstel geven?
+Can you give me that toothbrush?
+
+tandpasta: toothpaste
+We zitten zonder tandpasta.
+We're out of toothpaste.
+
+shampoo: shampoo
+Heb je de shampoo gezien?
+Have you seen the shampoo?
+
+informatie: information
+Ik verzamel informatie op het internet.
+I gather information from the Internet.
+
+boer: farmer
+De boer is in tarweveld.
+The farmer is in the wheat field.
+
+secretaresse: secretary
+Mijn secretaresse is georganiseerd en gedetailleerd.
+My secretary is organized and detailed.
+
+bankier: banker
+Voordat ik een lening kreeg om een huis te kopen heb ik 10 bankiers ontmoet.
+I met with 10 bankers before I received a loan to buy a house.
+
+schrijver: writer
+Ik werk als tandarts maar eigenlijk wil ik een schrijver zijn.
+I work as a dentist, but I really want to be a writer.
+
+proberen: try
+We proberen een telefooncel te vinden.
+We are trying to find a phone booth.
+
+meten: measure
+Meer of minder is prima. Je hoeft niet elke millimeter te meten.
+More or less is fine. You don't have to measure every millimeter.
+
+bewaren: keep
+Het is niet makkelijk om steeds met nieuwe ideeën te komen.
+It's not so easy to keep creating new ideas.
+
+wachten: wait
+Hij zei dat hij op ons zou wachten.
+He said that he would wait for us.
+
+ketel: kettle
+De ketel staat op het fornuis.
+The kettle is on the stove.
+
+pan: pot
+Die pan is tien jaar oud.
+That pot is ten years old.
+
+kikker: frog
+Kikkers gebruiken hun tong om eten te vangen.
+Frogs use their tongues to catch food.
+
+duif: pigeon
+Geen duiven voeren.
+Don't feed the pigeons.
+
+reisgids: guidebook
+Een reisgids geeft je handige informatie over je reis.
+A guidebook will give you helpful information for your trip.
+
+ingang: entrance
+Waar is de ingang?
+Where is the entrance?
+
+gids: tour guide
+Ontmoet je gids bij de ingang van het hotel.
+Meet your tour guide at the entrance to the hotel.
+
+reservering: reservation
+Heeft u een reservering?
+Do you have a reservation?
+
+paspoort: passport
+Paspoort en ticket, graag.
+Passport and ticket, please.
+
+computer wetenschap: computer science
+Computerwetenschapklassen zijn op maandag.
+Computer science classes are on Mondays.
+
+wiskunde: math
+Mijn favoriete vak op school is wiskunde.
+My favorite subject in school is math.
+
+voelen: feel
+Als je liefde voelt voel je dat je leeft.
+To feel love is to feel alive.
+
+tekenen: draw
+Ik vroeg de illustrator om een tekening voor me te tekenen.
+I asked the illustrator to draw me a picture.
+
+plan: plan
+Hij had voor overmorgen grote plannen.
+He had big plans for the day after tomorrow.
+
+uitverkoop: sale
+Er is een grote uitverkoop op de schoenenafdeling.
+There's a big sale in the shoe department.
+
+winkelen: shopping
+Gisteren ging ik winkelen met mijn vriendinnen.
+Yesterday, I went shopping with my girlfriends.
+
+vierde: fourth
+Mijn moeder gaf mij voor mijn vierde verjaardag een boek.
+For my fourth birthday, my mother gave me a book.
+
+vijfde: fifth
+Op mijn vijfde verjaardagsfeest was er een enge clown.
+At my fifth birthday party, there was a scary clown.
+
+zesde: sixth
+Voor mijn zesde verjaardag kreeg ik schoolkleding.
+I received school clothes for my sixth birthday.
+
+zevende: seventh
+ledereen zingt gedurende de zevende inning van een honkbalwedstrijd.
+Everyone sings during the seventh inning of a baseball game.
+
+conditioner: conditioner
+Spoelen met conditioner.
+Rinse with conditioner.
+
+deodorant: deodorant
+Doe deodorant op na het wassen, zo voorkom dat je slecht ruikt.
+Put on deodorant after washing to avoid smelling bad.
+
+vloeibare zeep: liquid soap
+Heeft u vloeibare zeep?
+Do you have liquid soap?
+
+eend: duck
+Eenden uit het noorden vliegen voor de winter naar het zuiden.
+Ducks in the north fly south for the winter.
+
+kraai: crow
+Kraaien behoren tot de slimste vogels.
+Crows are among the smartest birds.
+
+kakkerlak: cockroach
+Een kakkerlak heeft zes poten, vleugels en antennes.
+A cockroach has six legs, wings, and antennae.
+
+mug: mosquito
+Die vervelende mug beet me in mijn arm.
+That nasty mosquito bit me on my arm.
+
+bouwvakker: construction worker
+De bouwvakker meet het hout op.
+The construction worker is measuring wood.
+
+huisvrouw: homemaker
+De hardste werker waar dan ook is de huisvrouw.
+The hardest worker anywhere is the homemaker.
+
+ijs: ice
+Er heeft zich op het raam ijs gevormd.
+Ice has formed on the window.
+
+geschiedenis: history
+Ik geef les in geschiedenis.
+I teach history.
+
+geografie: geography
+Ze vond het niet leuk om geografie te studeren.
+She did not like to study geography.
+
+winkel: store
+Ik ga naar de winkel om wat melk en eieren te kopen.
+I'm going to the store to buy some milk and eggs.
+
+markt: market
+Op de markt hebben ze vele soorten fruit.
+They have many kinds of fruit at the market.
+
+prijs: price
+Wat is de prijs van een big mac in jouw land?
+What's the price of a Big Mac in your country?
+
+coupon: coupon
+Ik heb een coupon voor 50% korting dus laten we daar gaan eten.
+I have a coupon for 50% off, so let's eat there.
+
+gangpad: aisle
+Kruiderijen en specerijen staan in gangpad zes.
+Spices and seasonings are on aisle six.
+
+tas: bag
+Mijn tas is te zwaar.
+My bag is too heavy.
+
+foto: photograph
+Deze foto ziet er niet goed uit.
+This photograph doesn't look good.
+
+frisdrank: soda
+Frisdrank bevat veel suiker
+Soda contains a lot of sugar.
+
+negende: ninth
+Ramadan is op de negende maand van het moslim-jaar.
+Ramadan is the ninth month of the Muslim year.
+
+tiende: tenth
+Tijdens mijn tiende poging maakte ik eindelijk een goal.
+I finally made a goal on my tenth attempt.
+
+achtste: eighth
+Ik woon op de achtste verdieping.
+I live on the eighth floor.
+
+scheermes: shaving razor
+een baard scheren met een wegwerpscheermesje
+shave a beard with a disposable shaving razor
+
+washand: washcloth
+De jongen wast zijn gezicht met een washand.
+The boy is washing his face with a washcloth.
+
+handdoek: towel
+Deze handdoek is te klein voor mij.
+This towel is too small for me.
+
+lepel: spoon
+Vorken, lepels en messen zijn bestek.
+Forks, spoons, and knives are eating utensils.
+
+vork: fork
+De vork is gemaakt van plastic.
+The fork is made of plastic.
+
+mes: knife
+Kun je me het mes aangeven?
+Could you pass me the knife?
+
+bord: plate
+Dit bord is vies.
+This plate is dirty.
+
+bij: bee
+De bij bestuift de gele bloem.
+The bee is pollinating the yellow flower.
+
+mier: ant
+Mieren hebben zes poten.
+Ants have six legs.
+
+slang: snake
+De ratelslang is opgerold en klaar om toe te slaan.
+The rattlesnake is coiled, and ready to strike.
+
+melk: milk
+Een koe geeft melk.
+A cow gives milk.
+
+ontwerper: designer
+Er zijn vele soorten ontwerpers. Ik ben kledingontwerper.
+There are many kinds of designers, but I'm a fashion designer.
+
+kunstenaar: artist
+Veel kunstenaars hebben het eerst een lange tijd moeilijk voordat ze succes hebben.
+Many artists struggle for a long time before achieving success.
+
+soldaat: soldier
+De soldaten verplaatsen zich naar de positie.
+The soldiers are moving into position.
+
+ondernemer: entrepreneur
+Ondernemers hebben de wereld met hun ideeën veranderd.
+Entrepreneurs change the world with their ideas.
+
+kort verhaal: short story
+Ik lees alleen korte verhalen.
+I only read short stories.
+
+mар: folder
+Ik stop de documenten in een map.
+I put the documents in a folder.
+
+koekenpan: frying pan
+Deze koekenpan is erg goedkoop.
+This frying pan is very cheap.
+
+snijplank: cutting board
+De kok snijdt een hardgekookt ei op een snijplank.
+The cook is cutting a hardboiled egg on the cutting board.
+
+gootsteen: sink
+De gootsteen is bijna vol.
+The sink is almost full.
+
+kom: bowl
+soep in een soepkom
+soup in a soup bowl
+
+uitgang: exit
+Waar is de uitgang?
+Where is the exit?
+
+landkaart: mар
+Bekijk de landkaart om je weg naar je bestemming te vinden.
+Check the map to find your way to your destination.
+
+koffer: suitcase
+Laat geen waardevolle dingen achter in je koffer.
+Do not leave valuables in your suitcase.
+
+toerist: tourist
+De toerist maakt foto's van de dieren.
+The tourist is taking pictures of the animals.
+
+politiek: politics
+Ik studeer politiek.
+I major in politics.
+
+biologie: biology
+Mijn zus studeert biologie.
+My sister studies biology.
+
+scheikunde: chemistry
+Het laboratorium is een plek om scheikunde te leren.
+The laboratory is a place to learn about chemistry.
+
+natuurkunde: physics
+Ik ken de basis van natuurkunde.
+I know the basics of physics.
+
+economie: economics
+Economie is een goede achtergrond voor veel leerwegen.
+Economics is a good background for many fields.
+
+zetten: put
+Probeer deze doos op de bovenste plank te zetten.
+Please try to put this box on the top shelf.
+
+herinneren: remember
+Probeer je te herinneren waar je vorige week zondagavond was.
+Try to remember where you were last Sunday night.
+
+vasthouden: hold
+hou je vast aan de leuning
+hold on to the handrail
+
+winkelwagen: shopping cart
+De winkelwagen is leeg.
+The shopping cart is empty.
+
+plastic tas: plastic bag
+Wanneer je gaat winkelen voor kruidenierswaren gebruik dan een stoffen tas in plaats van een plastic tas.
+When grocery shopping, use cloth bags instead of plastic bags.
+
+komedie: comedy
+Ze kijken naar een komedie en lachen.
+They're watching a comedy and laughing.
+
+roman: novel
+Ik hou van spannende romans.
+I like suspense novels.
+
+chocolademelk: cocoa
+Een warme kop chocolademelk is op een koude winteravond erg rustgevend.
+A warm cup of cocoa is comforting on a cold winter night.
+
+frisdrank: soft drink
+Sommige veel voorkomende frisdranken zijn cola's, soda's, ice tea en water met smaakstof.
+Some common soft drinks are colas, sodas, iced tea and flavored water.
+
+sap: juice
+Sap van de bloedsinaasappel heeft een lekkere bitterzoete nasmaak.
+Blood orange juice has a nice bittersweet aftertaste.
+
+boekenplank: bookshelf
+Hij kocht een boekenplank om zijn boeken op te zetten.
+He bought a bookshelf to put his books on.
+
+bed: bed
+Ik kocht een nieuw bed.
+I bought a new bed.
+
+spiegel: mirror
+De spiegel hangt aan de de muur.
+The mirror is hanging on the wall.
+
+dressoir: dresser
+De houten dressoir is antiek.
+The wooden dresser is an antique.
+
+vegen: sweep
+De vrouw is buiten aan het vegen.
+The woman is sweeping outside.
+
+opbergen: put away
+De vrouw is de kleding aan het opbergen.
+The woman is putting away the clothes.
+
+moppen: mор
+Ik morste het sap dus ik zal de vloer moppen.
+I spilled the juice, so I'll mop the floor.
+
+serveerster: waitress
+De serveerster houdt een blad met glazen vast.
+The waitress is holding a tray with glasses.
+
+Fahrenheit: Fahrenheit
+Water bevriest bij tweeëndertig graden Fahrenheit.
+Water freezes at thirty-two degrees Fahrenheit.
+
+temperatuur: temperature
+De temperatuur is onder de nul graden.
+The temperature is below zero degrees.
+
+vochtig: humid
+In augustus is het vochtig weer.
+It's humid in August.
+
+winderig: windy
+Morgen wordt het koud en winderig dus draag een sjaal.
+Tomorrow will be cold and windy, so wear a scarf.
+
+speelplaats: playground
+Op de speelplaats staat er altijd een rij voor de schommel en glijbaan.
+At the playground, there is always a line for the swings and slide.
+
+zwembad: pool
+De dorstige hond drinkt uit het zwembad.
+The thirsty dog is drinking from the pool.
+
+tennis: tennis
+De jonge mannen spelen tennis.
+The young men are playing tennis.
+
+basketbal: basketball
+De man is aan het basketballen.
+The man is playing basketball.
+
+liter: liter
+De fles bevat 2 liter cola.
+The bottle contains 2 liters of cola.
