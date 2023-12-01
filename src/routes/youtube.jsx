@@ -4,7 +4,6 @@ import { processTextFile } from "../utils/fileReader";
 export default function Youtube() {
   const [objectsArray, setObjectsArray] = useState([]);
   const [exampleCount, setExampleCount] = useState(1);
-  const [meaningCount, setMeaningCount] = useState(1);
   const [showWord, setShowWord] = useState(true);
   const [meaningPosition, setMeaningPosition] = useState(1);
   const [selectedWord, setSelectedWord] = useState(null);
@@ -39,11 +38,6 @@ export default function Youtube() {
     setExampleCount(Math.max(count, 0));
   };
 
-  const handleMeaningCountChange = (event) => {
-    const count = parseInt(event.target.value);
-    setMeaningCount(Math.max(count, 0));
-  };
-
   const handleShowWordChange = (event) => {
     setShowWord(event.target.checked);
   };
@@ -62,15 +56,6 @@ export default function Youtube() {
             type="number"
             value={exampleCount}
             onChange={handleExampleCountChange}
-            className="border border-gray-300 p-1 rounded ml-2 focus:outline-none focus:ring-2 focus:ring-violet-500"
-          />
-        </label>
-        <label>
-          Repeat Meaning Counts:
-          <input
-            type="number"
-            value={meaningCount}
-            onChange={handleMeaningCountChange}
             className="border border-gray-300 p-1 rounded ml-2 focus:outline-none focus:ring-2 focus:ring-violet-500"
           />
         </label>
@@ -96,7 +81,7 @@ export default function Youtube() {
       <br />
       <ul className="mt-4">
         {objectsArray?.map((object, index) => {
-          const meaning = Array.from({ length: meaningCount }, (_, i) => (
+          const meaning = (
             <div key={`meaning_${index}_${i}`} className="mt-2">
               {object.meaning.split(" ").map((mean, mi) => (
                 <span key={`meaning_${index}_${i}_${mi}`}>
@@ -109,7 +94,7 @@ export default function Youtube() {
                 </span>
               ))}
             </div>
-          ));
+          );
 
           return (
             <li key={index} className="mb-4">
