@@ -82,9 +82,9 @@ export default function Youtube() {
       <ul className="mt-4">
         {objectsArray?.map((object, index) => {
           const meaning = (
-            <div key={`meaning_${index}_${i}`} className="mt-2">
+            <div key={`meaning_${index}`} className="mt-2">
               {object.meaning.split(" ").map((mean, mi) => (
-                <span key={`meaning_${index}_${i}_${mi}`}>
+                <span key={`meaning_${index}_${mi}`}>
                   <span
                     className="hover:bg-blue-200 rounded cursor-pointer"
                     onClick={() => handleMeaningClick(mean)}
