@@ -6,23 +6,29 @@ export default function Youtube() {
   const [exampleCount, setExampleCount] = useState(1);
   const [showWord, setShowWord] = useState(true);
   const [meaningPosition, setMeaningPosition] = useState(1);
-  const [selectedWord, setSelectedWord] = useState(null);
+  const [selectedWord, setSelectedWord] = useState("");
+  const [selectedWordIndex, setSelectedWordIndex] = useState(null);
   const [selectedWords, setSelectedWords] = useState([]);
 
   const cleanWord = (word) => {
     return word.replace(/[^a-zA-Z]+$/, "");
   };
 
-  const handleWordClick = (word) => {
-    setSelectedWord(word);
+  const handleWordClick = (word, index) => {
+    setSelectedWord(`${selectedWord} ${cleanWord(word)}`);
+    setSelectedWordIndex(index);
   };
 
   const handleMeaningClick = (meaning) => {
-    setSelectedWords([
-      ...selectedWords,
-      { word: cleanWord(selectedWord), meaning: cleanWord(meaning) },
-    ]);
-    setSelectedWord(null);
+    if (!selectedWord) return;
+    const separator = selectedWord.includes(":") ? " " : " : ";
+    setSelectedWord(`${selectedWord}${separator}${cleanWord(meaning)}`);
+  };
+
+  const onAddClick = () => {
+    setSelectedWords([...selectedWords, selectedWord]);
+    setSelectedWord("");
+    setSelectedWordIndex(null);
   };
 
   useEffect(() => {
@@ -110,16 +116,46 @@ export default function Youtube() {
                         <span key={`example_${index}_${i}_${exi}`}>
                           <span
                             className={`rounded cursor-pointer ${
-                              selectedWord === ex
+                              selectedWord === ex &&
+                              selectedWordIndex === `${index}_${i}`
                                 ? "bg-blue-200"
                                 : "hover:bg-blue-200"
                             }`}
-                            onClick={() => handleWordClick(ex)}
+                            onClick={() => handleWordClick(ex, `${index}_${i}`)}
                           >
                             {ex}
                           </span>{" "}
                         </span>
                       ))}
+                      {selectedWordIndex === `${index}_${i}` && (
+                        <span>
+                          <input
+                            type="text"
+                            value={selectedWord}
+                            onChange={(e) => setSelectedWord(e.target.value)}
+                            className="rounded-md border px-2 py-1 focus:outline-none focus:ring-2 focus:ring-violet-500 ml-4 h-8"
+                          />
+                          <button
+                            onClick={onAddClick}
+                            className="rounded-md p-1 ml-2 bg-violet-500"
+                          >
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              className="h-6 w-6 text-white"
+                              fill="none"
+                              viewBox="0 0 24 24"
+                              stroke="currentColor"
+                            >
+                              <path
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                                strokeWidth="2"
+                                d="M12 6v6m0 0v6m0-6h6m-6 0H6"
+                              />
+                            </svg>
+                          </button>
+                        </span>
+                      )}
                     </div>
                   </div>
                 );
