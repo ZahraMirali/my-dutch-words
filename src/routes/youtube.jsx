@@ -9,6 +9,7 @@ export default function Youtube() {
   const [selectedWord, setSelectedWord] = useState("");
   const [selectedWordIndex, setSelectedWordIndex] = useState(null);
   const [selectedWords, setSelectedWords] = useState([]);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const cleanWord = (word) => {
     return word.replace(/[^a-zA-Z]+$/, "");
@@ -53,9 +54,53 @@ export default function Youtube() {
     setMeaningPosition(position);
   };
 
+  const openModal = () => {
+    setIsModalOpen(true);
+  };
+
+  const closeModal = () => {
+    setIsModalOpen(false);
+  };
+
+  const copyToClipboard = () => {
+    const repeatedWords = selectedWords.flatMap((word) =>
+      Array.from({ length: 3 }, () => word)
+    );
+    const textToCopy = repeatedWords.join(", ");
+    navigator.clipboard.writeText(textToCopy);
+    setIsModalOpen(false);
+  };
+
   return (
     <div className="p-4">
+      {isModalOpen && (
+        <div
+          className="fixed z-10 inset-0 flex items-center justify-center bg-black bg-opacity-50 p-4"
+          onClick={closeModal}
+        >
+          <div
+            className="bg-white py-1 px-2 rounded overflow-y-auto max-h-full min-w-[300px]"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {selectedWords.map((word, index) => (
+              <p key={index}>{word}</p>
+            ))}
+            <button
+              onClick={copyToClipboard}
+              className="bg-violet-500 text-white py-1 px-2 rounded mt-2"
+            >
+              Copy 3x
+            </button>
+          </div>
+        </div>
+      )}
       <div className="flex gap-4 flex-wrap">
+        <button
+          className="w-7 h-7 rounded-full bg-violet-300 focus:outline-none focus:ring-2 focus:ring-violet-500 text-white"
+          onClick={openModal}
+        >
+          {selectedWords.length}
+        </button>
         <label>
           Repeat Example Counts:
           <input
@@ -115,12 +160,7 @@ export default function Youtube() {
                       {object.example.split(" ").map((ex, exi) => (
                         <span key={`example_${index}_${i}_${exi}`}>
                           <span
-                            className={`rounded cursor-pointer ${
-                              selectedWord === ex &&
-                              selectedWordIndex === `${index}_${i}`
-                                ? "bg-blue-200"
-                                : "hover:bg-blue-200"
-                            }`}
+                            className="rounded cursor-pointer hover:bg-blue-200"
                             onClick={() => handleWordClick(ex, `${index}_${i}`)}
                           >
                             {ex}
@@ -165,30 +205,6 @@ export default function Youtube() {
           );
         })}
       </ul>
-      <br />
-      <div className="mt-8">
-        <h2 className="text-xl font-bold mb-4">Selected Words</h2>
-        <table className="min-w-full bg-white border border-gray-300">
-          <thead>
-            <tr>
-              <th className="border border-gray-300 px-4 py-2">Word</th>
-              <th className="border border-gray-300 px-4 py-2">Meaning</th>
-            </tr>
-          </thead>
-          <tbody>
-            {selectedWords.map((selected, idx) => (
-              <tr key={idx}>
-                <td className="border border-gray-300 px-4 py-2">
-                  {selected.word}
-                </td>
-                <td className="border border-gray-300 px-4 py-2">
-                  {selected.meaning}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
     </div>
   );
 }
