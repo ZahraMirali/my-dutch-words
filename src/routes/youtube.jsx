@@ -72,7 +72,7 @@ export default function Youtube() {
   };
 
   return (
-    <div className="p-4">
+    <div>
       {isModalOpen && (
         <div
           className="fixed z-10 inset-0 flex items-center justify-center bg-black bg-opacity-50 p-4"
@@ -94,7 +94,7 @@ export default function Youtube() {
           </div>
         </div>
       )}
-      <div className="flex gap-4 flex-wrap">
+      <div className="sticky top-0 z-10 bg-white flex gap-4 flex-wrap w-full py-2 shadow-md border-b border-gray-300 hidden md:flex">
         <button
           className="w-7 h-7 rounded-full bg-violet-300 focus:outline-none focus:ring-2 focus:ring-violet-500 text-white"
           onClick={openModal}
@@ -129,8 +129,7 @@ export default function Youtube() {
           <span>Show Word</span>
         </label>
       </div>
-      <br />
-      <ul className="mt-4">
+      <ul className="p-4">
         {objectsArray?.map((object, index) => {
           const meaning = (
             <div key={`meaning_${index}`} className="mt-2">
