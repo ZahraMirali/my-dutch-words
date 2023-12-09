@@ -16,7 +16,8 @@ export default function Youtube() {
   };
 
   const handleWordClick = (word, index) => {
-    setSelectedWord(`${selectedWord} ${cleanWord(word)}`);
+    const separator = selectedWord ? " " : "";
+    setSelectedWord(`${selectedWord}${separator}${cleanWord(word)}`);
     setSelectedWordIndex(index);
   };
 
@@ -66,16 +67,23 @@ export default function Youtube() {
     const repeatedWords = selectedWords.flatMap((word) =>
       Array.from({ length: 3 }, () => word)
     );
-    const textToCopy = repeatedWords.join(", ");
+    const textToCopy = repeatedWords.join("\n");
     navigator.clipboard.writeText(textToCopy);
     setIsModalOpen(false);
+  };
+
+  const handleRemoveWord = (indexToRemove) => {
+    const updatedWords = selectedWords.filter(
+      (_, index) => index !== indexToRemove
+    );
+    setSelectedWords(updatedWords);
   };
 
   return (
     <div>
       {isModalOpen && (
         <div
-          className="fixed z-10 inset-0 flex items-center justify-center bg-black bg-opacity-50 p-4"
+          className="fixed z-20 inset-0 flex items-center justify-center bg-black bg-opacity-50 p-4"
           onClick={closeModal}
         >
           <div
@@ -83,7 +91,32 @@ export default function Youtube() {
             onClick={(e) => e.stopPropagation()}
           >
             {selectedWords.map((word, index) => (
-              <p key={index}>{word}</p>
+              <div
+                key={index}
+                className="flex justify-between items-center border-b py-1"
+              >
+                <p>{word}</p>
+                <button
+                  onClick={() => handleRemoveWord(index)}
+                  className="text-red-500"
+                >
+                  <svg
+                    width="20"
+                    height="20"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <line
+                      x1="2"
+                      y1="10"
+                      x2="18"
+                      y2="10"
+                      stroke="currentColor"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </button>
+              </div>
             ))}
             <button
               onClick={copyToClipboard}
