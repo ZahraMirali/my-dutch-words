@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { processTextFile } from "../utils/fileReader";
+import { difficultWords } from "../utils/difficultWords";
 
 export default function Youtube() {
   const [objectsArray, setObjectsArray] = useState([]);
@@ -8,11 +9,11 @@ export default function Youtube() {
   const [meaningPosition, setMeaningPosition] = useState(1);
   const [selectedWord, setSelectedWord] = useState("");
   const [selectedWordIndex, setSelectedWordIndex] = useState(null);
-  const [selectedWords, setSelectedWords] = useState([]);
+  const [selectedWords, setSelectedWords] = useState(difficultWords);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const cleanWord = (word) => {
-    return word.replace(/[^a-zA-Z]+$/, "");
+    return word.replace(/[^a-zA-Z0-9]+$/, "");
   };
 
   const handleWordClick = (word, index) => {
@@ -112,7 +113,7 @@ export default function Youtube() {
                       x2="18"
                       y2="10"
                       stroke="currentColor"
-                      stroke-width="2"
+                      strokeWidth="2"
                     />
                   </svg>
                 </button>
@@ -189,16 +190,33 @@ export default function Youtube() {
                   <div key={`example_${index}_${i}`}>
                     {i === meaningPosition && meaning}
                     <div className="mt-2">
-                      {object.example.split(" ").map((ex, exi) => (
-                        <span key={`example_${index}_${i}_${exi}`}>
-                          <span
-                            className="rounded cursor-pointer hover:bg-blue-200"
-                            onClick={() => handleWordClick(ex, `${index}_${i}`)}
-                          >
-                            {ex}
-                          </span>{" "}
-                        </span>
-                      ))}
+                      {object.example.split(" ").map((ex, exi) => {
+                        const cleanedWord = cleanWord(ex).toLowerCase();
+                        const isSelected = selectedWords.some(
+                          (selectedWord) => {
+                            return (
+                              cleanWord(
+                                selectedWord.split(" :")[0]
+                              ).toLowerCase() === cleanedWord
+                            );
+                          }
+                        );
+
+                        return (
+                          <span key={`example_${index}_${i}_${exi}`}>
+                            <span
+                              className={`rounded cursor-pointer hover:bg-blue-200 ${
+                                isSelected ? "bg-purple-200" : ""
+                              }`}
+                              onClick={() =>
+                                handleWordClick(ex, `${index}_${i}`)
+                              }
+                            >
+                              {ex}
+                            </span>{" "}
+                          </span>
+                        );
+                      })}
                       {selectedWordIndex === `${index}_${i}` && (
                         <span>
                           <input

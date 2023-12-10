@@ -1,4 +1,4 @@
-export const prevSelected = [
+export const difficultWords = [
   "fles : bottle",
   "bevat : contains",
   "dorstige : thirsty",
