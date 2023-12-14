@@ -2360,3 +2360,256 @@ The man is playing basketball.
 liter: liter
 De fles bevat 2 liter cola.
 The bottle contains 2 liters of cola.
+
+weinig: little/few (negative)
+Ik heb vandaag weinig tijd.
+I have little time today.
+
+Ze hebben weinig stoelen.
+They have few chairs.
+
+Hij heeft weinig geslapen.
+He's slept little.
+
+wat: a few/a little
+Hebben we nog wat melk?
+Do we still have some milk?
+
+Ze hebben wat vrienden uitgenodigd.
+They invited a few friends.
+
+Ik heb wat gelezen.
+I read a bit.
+
+wat/iets: something
+Ik heb wat gelezen.
+I read something.
+
+Ik heb wat gelezen over sterren.
+I read something about stars.
+
+Wat heb je vandaag gedaan? Ik heb wat geslapen en ik heb wat gelezen.
+What have you done today? I've slept a bit and I've read something.
+
+een beetie: a little bit (positive/uncountable nouns)
+Ik heb een beetje tijd.
+I have a little bit of time.
+
+Sorry, ik ben een beetje moe.
+Sorry, I'm a little bit tired.
+
+We hebben gisteren een beetje gesport.
+We worked out a little yesterday.
+
+
+enkele: a few/some (countable nouns)
+Heb je enkele minuten voor mij?
+Do you have a few minutes for me?
+
+een paar: a few/a couple of (countable nouns)
+Ze hebben een paar nieuwe studenten gesproken.
+They talked to a few new students.
+
+Ik heb een paar nieuwe schoenen.
+I have a new pair of shoes.
+
+Ik heb een paar nieuwe paren schoenen gekocht.
+I bought a few new pairs of shoes.
+
+een echtpaar
+a married couple
+
+een aantal: a few/a number of (countable nouns)
+We hebben een aantal problemen op het werk.
+We have a few problems at work.
+
+sommige: some (contrast)
+Sommige van mijn vrienden komen uit Nederland, en sommige van mijn vrienden komen uit Amerika.
+Some of my friends are from the Netherlands, and some of my friends are from America.
+
+Sommige mensen houden van reggae.
+Some people like reggae.
+
+Ik heb sommige appels weggegooid.
+I threw out some apples.
+
+Ze eet op sommige dagen veel chocola.
+She eats a lot of chocolat on some days.
+
+In sommige landen is het normaal om vroeg te trouwen.
+In some countries, it is normal to get married early.
+
+Sommige studenten hebben hun huiswerk gemaakt, anderen niet.
+Some students made their homework, others didn't.
+
+alles: everything
+Heb je alles?
+Do you have everything?
+
+Ik eet alles.
+I eat anything.
+
+Ze heeft alles geprobeerd.
+She's tried everything.
+
+Kan ik iets meenemen uit de supermarkt? Alles is goed!
+Can I bring you anything from the supermarket? Anything is okay!
+
+alle: all (for plurals or uncountables that get the article 'de')
+Alle kinderen zijn aanwezig.
+All kids are present.
+
+Op dit moment zijn alle huizen duur.
+At this moment all houses are expensive.
+
+Ze heeft alle melk opgedronken.
+She's finished all the milk.
+
+Alle chocola is lekker.
+All chocolat is tasty.
+
+al: all (for uncountables that get the article 'het' or possessives or specific with deze, etc.)
+Al het geld is op.
+All the money is gone.
+
+Hij heeft al het snoep opgegeten.
+He ate all the candy.
+
+Al mijn vrienden zijn op vakantie.
+All my friends are on holiday.
+
+Hij heeft al zijn geld uitgegeven.
+He's spent all his money.
+
+Ik heb al deze films gezien.
+I've seen all these movies.
+
+Waar komen al die mensen vandaan.
+Where are all those people coming from.
+
+iedere: every/ elke: each (for singular nouns)
+We eten elke dag brood.
+We eat bread every day.
+
+ledere student heeft zijn eigen laptop.
+Every student has his own laptop.
+
+Ik heb elke bladzijde gelezen.
+I've read every page.
+
+allemaal: all (used when not together with a countable noun. when + allemaal + who/what)
+Alle kinderen zijn aanwezig. De kinderen zijn allemaal aanwezig.
+All children are present. The children are all present.
+
+Alle huizen zijn op dit moment duur. De huizen zijn op dit moment allemaal duur.
+All houses are expensive at the moment. The houses are all expensive at the moment.
+
+Iedereen gaat naar het strand. We gaan allemaal naar het strand.
+Everybody's going to the beach. We are all going to the beach.
+
+Ze komen allemaal naar mijn verjaardag. Iedereen komt naar mijn verjaardag.
+They're all coming to my birthday party. Everybody's coming to my birthday party.
+
+Ik ga alle boeken morgen met de studenten in de klas lezen. Ik ga de boeken morgen allemaal met de studenten in de klas lezen.
+I'm going to read all the books tomorrow with the students in class.
+
+helemaal: completely (used for uncountable nouns. milk in general = alle melk, specific unit for example a glass = helemaal)
+Ze heeft alle melk opgedronken. Ze heeft de melk helemaal opgedronken.
+She's drunk all the milk. She's drunk the milk completely.
+
+alles: alle dingen. iedereen: alle mensen
+Alle sneeuw is gesmolten. De sneeuw is helemaal gesmolten.
+All snow has melted. The snow has completely melted.
+
+Gaat alles goed?
+Is everything going well?
+
+Ik heb alles gezien.
+I've seen it all.
+
+Iedereen komt.
+Everyone comes.
+
+Ik zie iedereen.
+I see everybody.
+
+in front of noun: alle/al de
+Alle boeken zijn interessant. Al de boeken zijn interessant.
+All the books are interesting.
+
+Alle groene boeken zijn daar.
+All the green books are there.
+
+al de boeken. al mijn boeken. al die boeken.
+all the books. all my books. All those books
+
+Heb je al die boeken gelezen? Heb je die boeken al gelezen?
+Have you read all those books? Have you read those books yet?
+
+behind the plural noun: allemaal/allen (for example to say "all of them")
+Ze zijn allen gekomen. Ze zijn allemaal gekomen.
+They have all come.
+
+Allen: (alternative for Iedereen, DO NOT USE allemaal)
+Allen kwamen.
+All came.
+
+Allen, allemaal: (as object)
+We zien ze allemaal.
+We see them all.
+
+(implied noun)
+Heb je ze gelezen? Ja, allemaal.
+Have you read them? Yes, all of them.
+
+(implied noun in email)
+Dag allemaal. Dag allen.
+Hi all.
+
+Hij wil alleen naar Nederland gaan.
+He only wants to go to the Netherlands.
+
+(can't use allemaal because "Ik" is singular)
+Ik ben helemaal klaar.
+I'm all done.
+
+Die oefening is helemaal verkeerd.
+That exercise is all wrong.
+
+We zijn allemaal/helemaal klaar.
+We're all done.
+
+Dit is niet alles!
+This is not all!
+
+Ik werk... -iedere dag -elke dag -alle dagen
+I work every day
+
+(the whole)
+Ik werk de hele dag
+I work all day
+
+Dat is heel goed.
+That's very good.
+
+a few: wat, enkele, een paar
+Ik heb enkele boeken.
+I have a few books.
+
+certain or contrast: sommige, bepaalde
+Sommige/Bepaalde vruchten zijn gezond.
+Certain fruits are healthy.
+
+iets
+something
+
+ergens
+somewhere
+
+iemand
+somebody
+
+Soms
+Sometimes
+
+
