@@ -2795,8 +2795,23 @@ Always fill in "want" or "omdat". Look carefully at the position of the verb.
 Klaar? Hier komen de antwoorden!
 Ready? Here come the answers!
 
-Ik eet een broodje, omdat ik honger heb. Michiel gaat naar huis, want hij is moe. Je moet je haasten, want het is laat. Ik bestel een cola, want ik heb dorst. Zij gaan zwemmen, omdat het heet is. Ik krijg een cadeau, omdat ik jarig ben.
-I'm eating a sandwich because I'm hungry. Michiel goes home because he is tired. You have to hurry because it's late. I order a coke because I'm thirsty. They go swimming because it is hot. I'm getting a present because it's my birthday.
+Ik eet een broodje, omdat ik honger heb.
+I'm eating a sandwich because I'm hungry.
+
+Michiel gaat naar huis, want hij is moe.
+Michiel goes home because he is tired.
+
+Je moet je haasten, want het is laat.
+You have to hurry because it's late.
+
+Ik bestel een cola, want ik heb dorst.
+I order a coke because I'm thirsty.
+
+Zij gaan zwemmen, omdat het heet is.
+hey go swimming because it is hot.
+
+Ik krijg een cadeau, omdat ik jarig ben.
+I'm getting a present because it's my birthday.
 
 Vandaag ben ik vrij, maar morgen moet ik werken.
 Today I am free, but tomorrow I have to work.
