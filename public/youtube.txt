@@ -2808,7 +2808,7 @@ Ik bestel een cola, want ik heb dorst.
 I order a coke because I'm thirsty.
 
 Zij gaan zwemmen, omdat het heet is.
-hey go swimming because it is hot.
+They go swimming because it is hot.
 
 Ik krijg een cadeau, omdat ik jarig ben.
 I'm getting a present because it's my birthday.
