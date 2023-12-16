@@ -2866,3 +2866,40 @@ You can park here if you have a permit.
 
 Je mag deze film zien, tenzij je jonger bent dan zestien jaar.
 You are allowed to see this film unless you are under the age of sixteen.
+
+Waarom werk je nu? Omdat hij later komt.
+Why are you working now? Because he comes later.
+
+Wanneer eet je? Wanneer de gasten buiten zijn.
+When do you eat? When the guests are outside.
+
+Wanneer eet je? Wanneer de gasten buiten zullen zijn.
+When do you eat? When the guests will be outside.
+
+We gaan op restaurant als jij de rekening betaalt.
+We'll go to a restaurant if you pay the bill.
+
+We gaan op restaurant als jij de rekening hebt betaalt.
+We'll go to a restaurant if you've paid the bill.
+
+Terwijl de gasten buiten zijn, eet ik.
+While the guests are outside, I eat.
+
+Als je de rekening betaalt, gaan we op restaurant.
+If you pay the bill, we'll go to a restaurant.
+
+Omdat ik nu werk, vertrek ik vroeger.
+Because I work now, I leave earlier.
+
+Omdat ik nu werk, kan ik vroeger vertrekken?
+Because I'm working now, can I leave earlier?
+
+Omdat ik nu ga werken, kan ik vroeger vertrekken?
+Because I'm going to work now, can I leave earlier?
+
+
+
+
+
+
+
