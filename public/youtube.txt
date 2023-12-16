@@ -2612,4 +2612,242 @@ somebody
 Soms
 Sometimes
 
+De jongen is klein. Het meisje is kleiner. De baby is het kleinst.
+The boy is small. The girl is smaller. The baby is the smallest.
 
+Het meisje is kleiner dan de jongen.
+The girl is smaller than the boy.
+
+Het meisje is mooi. Het model is mooier. Miss World is het mooist!
+The girl is beautiful. The model is more beautiful. Miss World is the most beautiful!
+
+De eerste oefening is moeilijk. De tweede oefening is moeilijker. De laatste oefening is het moeilijkst!
+The first exercise is difficult. The second exercise is more difficult. The last exercise is the hardest!
+
+Arnhem is groot. Utrecht is groter. Amsterdam is het grootst.
+Arnhem is big. Utrecht is bigger. Amsterdam is the biggest.
+
+hoog. hoger. hoogst. laag. lager. laagst.
+high. higher. highest. low. lower. lowest.
+
+dik. dikker. dikst. dun. dunner. dunst.
+fat. fatter. fattest. thin. thinner. thinnest.
+
+lief. liever. liefst. vies. viezer. viest.
+lovely. lovelier. loveliest. dirty. dirtier. dirtiest.
+
+Klaas Jan Huntelaar speelt goed. Wesley Sneijder speelt beter. Arjen Robben speelt het best.
+Klaas Jan Huntelaar plays well. Wesley Sneijder plays better. Arjen Robben plays the best.
+
+Ik drink graag thee. Ik drink liever koffie. Ik drink het liefst een biertje!
+I love to drink tea. I would rather drink coffee. I like to drink a beer the most!
+
+Een kilo suiker is weinig. Een pond (500 gram) is minder. Een ons (100 gram) is het minst.
+A kilogram of sugar is little. One pound (500 grams) is less. One ounce (100 grams) is the least.
+
+Jan heeft veel geld. Koning Willem-Alexander heeft meer geld. Charlène de Carvalho-Heineken heeft het meeste geld.
+Jan has a lot of money. King Willem-Alexander has more money. Charlène de Carvalho-Heineken has the most money.
+
+het meeste geld. de kleinste auto. het grootste huis. de liefste moeder
+the most money. the smallest car. the largest house. the sweetest mother
+
+Hij heeft een kleinere auto. Hij heeft een groter huis. Hij heeft een jongere vrouw.
+He has a smaller car. He has a bigger house. He has a younger wife.
+
+(with or without e at the end. both correct)
+De baby is het kleinste. Miss World is het mooiste. De laatste oefening is het moeilijkste.
+The baby is the smallest. Miss World is the most beautiful. The last exercise is the most difficult.
+
+Peter is groot. Maaike is even groot. Maaike is even groot als Peter.
+Peter is tall. Maaike is just as tall. Maaike is as tall as Peter.
+
+Het meisje is even mooi. Het meisje is even mooi als Miss World.
+The girl is equally beautiful. The girl is as beautiful as Miss World.
+
+Ik heb een huis in Amsterdam. Ik woon er al lang.
+I have a house in Amsterdam. I've lived there for a long time.
+
+Wat vind je ervan?
+What do you think about it?
+
+Er zijn nog een paar lessen deze cursus.
+There are a few more lessons this course.
+
+We moeten er nog 7 doen.
+We still have 7 to do.
+
+Wie gaat er hierna een nieuwe cursus doen?
+Who's going to do a new course next?
+
+(unstressed daar → er)
+Ik ga naar de winkel. Ik koop daar/er een fles cola.
+I 'm going to the store. I buy a bottle of coke there.
+
+Ellen woont in Amsterdam. Zij vindt het daar/er leuk.
+Ellen lives in Amsterdam. She likes it there.
+
+(unstressed hier → er)
+Ik woon in Hilversum. Ik woon hier/er graag.
+I live in Hilversum. I like living here.
+
+(when you need to point with your finger, it is stressed)
+Zijn auto staat daar. Haar sleutels liggen hier.
+His car is there. Her keys are here.
+
+(depending on how you say the sentence, if daar/hier is not the most important information of it, then they are unstressed → er)
+Louis gaat naar Amsterdam. Hij volgt daar/er een cursus.
+Louis goes to Amsterdam. He is taking a course there.
+
+Pablo loopt naar het meertje. Hij gaat daar/er varen.
+Pablo walks to the lake. He's going sailing there.
+
+Sandra heeft een taart gemaakt.
+Sandra has made a cake.
+
+We hebben de taart gegeten.
+We have eaten the cake.
+
+De kinderen zijn veel gegroeid.
+The children have grown a lot.
+
+Ik ben voor het examen geslaagd.
+I've passed the exam.
+
+(transitive verbs = verbs that can have direct object → use hebben for present perfect)
+Hij leest het boek. Hij gooit de bal. Zij geeft een cadeau. Hij ziet een vogel. Zij eet een boterham.
+He reads the book. He throws the ball. She gives a gift. He sees a bird. She eats a sandwich.
+
+Hij heeft het boek gelezen. Hij heeft de bal gegooid. Zij heeft een cadeau gegeven. Hij heeft een vogel gezien. Zij heeft een boterham gegeten.
+He has read the book. He has thrown the ball. She has given a present. He has seen a bird. She has eaten a sandwich.
+
+Hij heeft gekookt. Zij hebben de hele middag gelezen.
+He has cooked. They have read all afternoon.
+
+(intransitive verb = can not have direct object)
+Hij lacht. Hij gaat. Hij begint.
+He smiles. He goes. He begins.
+
+(intransitive verbs that change situation for subject → use zijn for present perfect)
+De lessen zijn begonnen. Oma is gestorven. Hoe zijn jullie op dat feest gekomen? Het kind is 10 centimeter gegroeid. Ik ben vorige week met mijn fiets gevallen.
+The lessons have started. Grandma has died. How have you come to that party? The child has grown 10 centimeters. I have fallen off my bike last week.
+
+(intransitive verbs that don't change situation for subject → use hebben for present perfect)
+Hij heeft gelachen.
+He has laughed.
+
+Ik verander. Ik ben veranderd. Hij verandert het antwoord. Hij heeft het antwoord veranderd.
+I change. I have changed. He changes the answer. He has changed the answer.
+
+Ik genees. Ik ben genezen. De dokter geneest de patiënt. De dokter heeft de patiënt genezen.
+I heal. I have healed. The doctor heals the patient. The doctor has healed the patient.
+
+(always with zijn for present perfect)
+zijn. beginnen. blijven. blijken. gebeuren. lukken. slagen. mislukken.
+are. to start. to stay. to turn out. to happen. succeed. to succeed. fail.
+
+Hij is in Amsterdam geweest. Zij is aan een cursus begonnnen. Wij zijn op het feestje gebleven. Dat is achteraf gebleken. Het is om 10 uur gebeurd. Hij is voor het examen geslaagd. De tekening is goed gelukt. De taart is mislukt.
+He has been to Amsterdam. She has started a course. We have stayed at the party. That has turned out afterwards. It has happened at 10 o'clock. He has passed the exam. The drawing has been done well. The cake has failed.
+
+Spreek jij al een beetje Nederlands?
+Do you already speak some Dutch?
+
+Kun je al gezellige gesprekken voeren?
+Can you already have pleasant conversations?
+
+maar wil je nog beter worden?
+but do you want to get even better?
+
+Tessa kan vandaag niet werken.
+Tessa can't work today.
+
+dan is het tijd voor...
+then it's time for...
+
+Vandaag gaat onze les over...
+Today our lesson is about...
+
+Dit is Tessa.
+This is Tessa.
+
+Tessa kan vandaag niet werken.
+Tessa can't work today.
+
+Ik kan niet werken omdat ik ziek ben.
+I can't work because I'm sick.
+
+Wat is er?
+What's wrong?
+
+Ik kan niet werken, want ik ben ziek.
+I can't work because I'm sick.
+
+(Conjuncties uit deze categorie: maar, en, of, want, dus. MEOW + D)
+Het werkwoord staat op de normale plaats in de zin. "Want" introduceert een hoofdzin.
+The verb is in its normal place in the sentence. “Want” introduces a main clause.
+
+(Conjuncties uit deze categorie: omdat, als, terwijl, hoewel, zodra, voordat, nadat, totdat, zodat, toen, mits, indien, tenzij)
+Het werkwoord staat aan het einde van de zin. "Omdat" introduceert een bijzin.
+The verb is at the end of the sentence. “Omdat” introduces a dependent clause.
+
+Vul steeds "want" of "omdat" in. Kijk goed naar de plaats van het werkwoord.
+Always fill in "want" or "omdat". Look carefully at the position of the verb.
+
+Klaar? Hier komen de antwoorden!
+Ready? Here come the answers!
+
+Ik eet een broodje, omdat ik honger heb. Michiel gaat naar huis, want hij is moe. Je moet je haasten, want het is laat. Ik bestel een cola, want ik heb dorst. Zij gaan zwemmen, omdat het heet is. Ik krijg een cadeau, omdat ik jarig ben.
+I'm eating a sandwich because I'm hungry. Michiel goes home because he is tired. You have to hurry because it's late. I order a coke because I'm thirsty. They go swimming because it is hot. I'm getting a present because it's my birthday.
+
+Vandaag ben ik vrij, maar morgen moet ik werken.
+Today I am free, but tomorrow I have to work.
+
+Het is koud en het waait hard.
+It is cold and the wind is blowing hard.
+
+Vanavond ga ik koken of ik bestel een pizza. Ik weet het nog niet.
+Tonight I'm going to cook or I'll order a pizza. I do not know yet.
+
+Ik kan geen boodschappen doen, want de winkels zijn dicht.
+I can't go shopping because the shops are closed.
+
+Het regent, dus blijf ik binnen.
+It's raining, so I stay inside.
+
+Ik moet naar school lopen, omdat mijn fiets kapot is.
+I have to walk to school because my bike is broken.
+
+We gaan naar het strand, als het lekker weer is.
+We go to the beach when the weather is nice.
+
+Jij kookt, terwijl ik de was doe.
+You cook while I do the laundry.
+
+Hij is gelukkig, hoewel hij niet rijk is.
+He is happy, although he is not rich.
+
+Het programma start automatisch, zodra u uw computer opstart.
+The program starts automatically as soon as you start your computer.
+
+Je moet een examen doen, voordat je een diploma krijgt.
+You have to take an exam before you receive a diploma.
+
+Hij vertrekt naar Australië, nadat hij afscheid heeft genomen.
+He leaves for Australia after saying goodbye.
+
+We waren arm, tot(dat) mijn moeder een goede baan kreeg.
+We were poor until my mother got a good job.
+
+Ik zet een wekker, zodat ik op tijd wakker word.
+I set an alarm so I wake up on time.
+
+Ik had geen mobiele telefoon, toen ik tien jaar oud was.
+I didn't have a cell phone when I was ten years old.
+
+Je mag deze film zien, mits je zestien jaar of ouder bent.
+You can see this film if you are sixteen years or older.
+
+Je kunt hier parkeren, indien je een vergunning hebt.
+You can park here if you have a permit.
+
+Je mag deze film zien, tenzij je jonger bent dan zestien jaar.
+You are allowed to see this film unless you are under the age of sixteen.
