@@ -830,7 +830,7 @@ The doctor and nurse are taking an X-ray of the patient's chest.
 Het is hier in januari erg koud.
 It's very cold here in January.
 
-Negenentwintig (29) februari is een schrikkeldag.
+Negenentwintig «29» februari is een schrikkeldag.
 Leap year day is February 29th.
 
 Het is nu april dus vorige maand was het maart.
@@ -854,7 +854,7 @@ The school is closed in August.
 Vandaag is het zaterdag tien september.
 Today is Saturday, September 10th.
 
-op dertien (13) oktober
+op dertien «13» oktober
 on October 13th
 
 Op 24 november 1642 ontdekte Abel Tasman een eiland dat nu beter bekend is als Tasmanie.
@@ -2361,7 +2361,7 @@ liter: liter
 De fles bevat 2 liter cola.
 The bottle contains 2 liters of cola.
 
-weinig: little/few (negative)
+weinig: little/few «negative»
 Ik heb vandaag weinig tijd.
 I have little time today.
 
@@ -2391,7 +2391,7 @@ I read something about stars.
 Wat heb je vandaag gedaan? Ik heb wat geslapen en ik heb wat gelezen.
 What have you done today? I've slept a bit and I've read something.
 
-een beetie: a little bit (positive/uncountable nouns)
+een beetie: a little bit «positive/uncountable nouns»
 Ik heb een beetje tijd.
 I have a little bit of time.
 
@@ -2402,11 +2402,11 @@ We hebben gisteren een beetje gesport.
 We worked out a little yesterday.
 
 
-enkele: a few/some (countable nouns)
+enkele: a few/some «countable nouns»
 Heb je enkele minuten voor mij?
 Do you have a few minutes for me?
 
-een paar: a few/a couple of (countable nouns)
+een paar: a few/a couple of «countable nouns»
 Ze hebben een paar nieuwe studenten gesproken.
 They talked to a few new students.
 
@@ -2419,11 +2419,11 @@ I bought a few new pairs of shoes.
 een echtpaar
 a married couple
 
-een aantal: a few/a number of (countable nouns)
+een aantal: a few/a number of «countable nouns»
 We hebben een aantal problemen op het werk.
 We have a few problems at work.
 
-sommige: some (contrast)
+sommige: some «contrast»
 Sommige van mijn vrienden komen uit Nederland, en sommige van mijn vrienden komen uit Amerika.
 Some of my friends are from the Netherlands, and some of my friends are from America.
 
@@ -2455,7 +2455,7 @@ She's tried everything.
 Kan ik iets meenemen uit de supermarkt? Alles is goed!
 Can I bring you anything from the supermarket? Anything is okay!
 
-alle: all (for plurals or uncountables that get the article 'de')
+alle: all «for plurals or uncountables that get the article 'de'»
 Alle kinderen zijn aanwezig.
 All kids are present.
 
@@ -2468,7 +2468,7 @@ She's finished all the milk.
 Alle chocola is lekker.
 All chocolat is tasty.
 
-al: all (for uncountables that get the article 'het' or possessives or specific with deze, etc.)
+al: all «for uncountables that get the article 'het' or possessives or specific with deze, etc.»
 Al het geld is op.
 All the money is gone.
 
@@ -2487,7 +2487,7 @@ I've seen all these movies.
 Waar komen al die mensen vandaan.
 Where are all those people coming from.
 
-iedere: every/ elke: each (for singular nouns)
+iedere: every/ elke: each «for singular nouns»
 We eten elke dag brood.
 We eat bread every day.
 
@@ -2497,7 +2497,7 @@ Every student has his own laptop.
 Ik heb elke bladzijde gelezen.
 I've read every page.
 
-allemaal: all (used when not together with a countable noun. when + allemaal + who/what)
+allemaal: all «used when not together with a countable noun. when + allemaal + who/what»
 Alle kinderen zijn aanwezig. De kinderen zijn allemaal aanwezig.
 All children are present. The children are all present.
 
@@ -2513,7 +2513,7 @@ They're all coming to my birthday party. Everybody's coming to my birthday party
 Ik ga alle boeken morgen met de studenten in de klas lezen. Ik ga de boeken morgen allemaal met de studenten in de klas lezen.
 I'm going to read all the books tomorrow with the students in class.
 
-helemaal: completely (used for uncountable nouns. milk in general = alle melk, specific unit for example a glass = helemaal)
+helemaal: completely «used for uncountable nouns. milk in general = alle melk, specific unit for example a glass = helemaal»
 Ze heeft alle melk opgedronken. Ze heeft de melk helemaal opgedronken.
 She's drunk all the milk. She's drunk the milk completely.
 
@@ -2546,30 +2546,30 @@ all the books. all my books. All those books
 Heb je al die boeken gelezen? Heb je die boeken al gelezen?
 Have you read all those books? Have you read those books yet?
 
-behind the plural noun: allemaal/allen (for example to say "all of them")
+behind the plural noun: allemaal/allen «for example to say "all of them"»
 Ze zijn allen gekomen. Ze zijn allemaal gekomen.
 They have all come.
 
-Allen: (alternative for Iedereen, DO NOT USE allemaal)
-Allen kwamen.
+Allen: «alternative for Iedereen, DO NOT USE allemaal»
+Iedereen kwam. Allen kwamen.
 All came.
 
-Allen, allemaal: (as object)
+Allen, allemaal: «as object»
 We zien ze allemaal.
 We see them all.
 
-(implied noun)
+«implied noun»
 Heb je ze gelezen? Ja, allemaal.
 Have you read them? Yes, all of them.
 
-(implied noun in email)
+«implied noun in email»
 Dag allemaal. Dag allen.
 Hi all.
 
 Hij wil alleen naar Nederland gaan.
 He only wants to go to the Netherlands.
 
-(can't use allemaal because "Ik" is singular)
+«can't use allemaal because "Ik" is singular»
 Ik ben helemaal klaar.
 I'm all done.
 
@@ -2585,7 +2585,7 @@ This is not all!
 Ik werk... -iedere dag -elke dag -alle dagen
 I work every day
 
-(the whole)
+«the whole»
 Ik werk de hele dag
 I work all day
 
@@ -2642,8 +2642,8 @@ Klaas Jan Huntelaar plays well. Wesley Sneijder plays better. Arjen Robben plays
 Ik drink graag thee. Ik drink liever koffie. Ik drink het liefst een biertje!
 I love to drink tea. I would rather drink coffee. I like to drink a beer the most!
 
-Een kilo suiker is weinig. Een pond (500 gram) is minder. Een ons (100 gram) is het minst.
-A kilogram of sugar is little. One pound (500 grams) is less. One ounce (100 grams) is the least.
+Een kilo suiker is weinig. Een pond «500 gram» is minder. Een ons «100 gram» is het minst.
+A kilogram of sugar is little. One pound «500 grams» is less. One ounce «100 grams» is the least.
 
 Jan heeft veel geld. Koning Willem-Alexander heeft meer geld. Charlène de Carvalho-Heineken heeft het meeste geld.
 Jan has a lot of money. King Willem-Alexander has more money. Charlène de Carvalho-Heineken has the most money.
@@ -2654,7 +2654,7 @@ the most money. the smallest car. the largest house. the sweetest mother
 Hij heeft een kleinere auto. Hij heeft een groter huis. Hij heeft een jongere vrouw.
 He has a smaller car. He has a bigger house. He has a younger wife.
 
-(with or without e at the end. both correct)
+«with or without e at the end. both correct»
 De baby is het kleinste. Miss World is het mooiste. De laatste oefening is het moeilijkste.
 The baby is the smallest. Miss World is the most beautiful. The last exercise is the most difficult.
 
@@ -2679,26 +2679,26 @@ We still have 7 to do.
 Wie gaat er hierna een nieuwe cursus doen?
 Who's going to do a new course next?
 
-(unstressed daar → er)
-Ik ga naar de winkel. Ik koop daar/er een fles cola.
+«unstressed daar → er»
+Ik ga naar de winkel. Ik koop daar een fles cola. Ik koop er een fles cola.
 I 'm going to the store. I buy a bottle of coke there.
 
-Ellen woont in Amsterdam. Zij vindt het daar/er leuk.
+Ellen woont in Amsterdam. Zij vindt het daar leuk. Zij vindt het er leuk.
 Ellen lives in Amsterdam. She likes it there.
 
-(unstressed hier → er)
-Ik woon in Hilversum. Ik woon hier/er graag.
+«unstressed hier → er»
+Ik woon in Hilversum. Ik woon hier graag. Ik woon er graag.
 I live in Hilversum. I like living here.
 
-(when you need to point with your finger, it is stressed)
+«when you need to point with your finger, it is stressed»
 Zijn auto staat daar. Haar sleutels liggen hier.
 His car is there. Her keys are here.
 
-(depending on how you say the sentence, if daar/hier is not the most important information of it, then they are unstressed → er)
-Louis gaat naar Amsterdam. Hij volgt daar/er een cursus.
+«depending on how you say the sentence, if daar/hier is not the most important information of it, then they are unstressed → er»
+Louis gaat naar Amsterdam. Hij volgt daar een cursus. Hij volgt er een cursus.
 Louis goes to Amsterdam. He is taking a course there.
 
-Pablo loopt naar het meertje. Hij gaat daar/er varen.
+Pablo loopt naar het meertje. Hij gaat daar varen. Hij gaat er varen.
 Pablo walks to the lake. He's going sailing there.
 
 Sandra heeft een taart gemaakt.
@@ -2713,25 +2713,49 @@ The children have grown a lot.
 Ik ben voor het examen geslaagd.
 I've passed the exam.
 
-(transitive verbs = verbs that can have direct object → use hebben for present perfect)
-Hij leest het boek. Hij gooit de bal. Zij geeft een cadeau. Hij ziet een vogel. Zij eet een boterham.
-He reads the book. He throws the ball. She gives a gift. He sees a bird. She eats a sandwich.
+«transitive verbs = verbs that can have direct object → use hebben for present perfect»
+Hij leest het boek. Hij heeft het boek gelezen.
+He reads the book. He has read the book.
 
-Hij heeft het boek gelezen. Hij heeft de bal gegooid. Zij heeft een cadeau gegeven. Hij heeft een vogel gezien. Zij heeft een boterham gegeten.
-He has read the book. He has thrown the ball. She has given a present. He has seen a bird. She has eaten a sandwich.
+Hij gooit de bal. Hij heeft de bal gegooid.
+He throws the ball. He has thrown the ball.
 
-Hij heeft gekookt. Zij hebben de hele middag gelezen.
-He has cooked. They have read all afternoon.
+Zij geeft een cadeau. Zij heeft een cadeau gegeven.
+She gives a gift. She has given a gift.
 
-(intransitive verb = can not have direct object)
+Hij ziet een vogel. Hij heeft een vogel gezien.
+He sees a bird. He has seen a bird.
+
+Zij eet een boterham. Zij heeft een boterham gegeten.
+She eats a sandwich. She has eaten a sandwich.
+
+Hij heeft gekookt.
+He has cooked.
+
+Zij hebben de hele middag gelezen.
+They have read all afternoon.
+
+«intransitive verb = can not have direct object»
 Hij lacht. Hij gaat. Hij begint.
 He smiles. He goes. He begins.
 
-(intransitive verbs that change situation for subject → use zijn for present perfect)
-De lessen zijn begonnen. Oma is gestorven. Hoe zijn jullie op dat feest gekomen? Het kind is 10 centimeter gegroeid. Ik ben vorige week met mijn fiets gevallen.
-The lessons have started. Grandma has died. How have you come to that party? The child has grown 10 centimeters. I have fallen off my bike last week.
+«intransitive verbs that change situation for subject → use zijn for present perfect»
+De lessen zijn begonnen.
+The lessons have started.
 
-(intransitive verbs that don't change situation for subject → use hebben for present perfect)
+Oma is gestorven.
+Grandma has died.
+
+Hoe zijn jullie op dat feest gekomen?
+How have you come to that party?
+
+Het kind is 10 centimeter gegroeid.
+The child has grown 10 centimeters.
+
+Ik ben vorige week met mijn fiets gevallen.
+I have fallen off my bike last week.
+
+«intransitive verbs that don't change situation for subject → use hebben for present perfect»
 Hij heeft gelachen.
 He has laughed.
 
@@ -2741,12 +2765,54 @@ I change. I have changed. He changes the answer. He has changed the answer.
 Ik genees. Ik ben genezen. De dokter geneest de patiënt. De dokter heeft de patiënt genezen.
 I heal. I have healed. The doctor heals the patient. The doctor has healed the patient.
 
-(always with zijn for present perfect)
-zijn. beginnen. blijven. blijken. gebeuren. lukken. slagen. mislukken.
-are. to start. to stay. to turn out. to happen. succeed. to succeed. fail.
+«always with zijn for present perfect»
+zijn.
+are.
 
-Hij is in Amsterdam geweest. Zij is aan een cursus begonnnen. Wij zijn op het feestje gebleven. Dat is achteraf gebleken. Het is om 10 uur gebeurd. Hij is voor het examen geslaagd. De tekening is goed gelukt. De taart is mislukt.
-He has been to Amsterdam. She has started a course. We have stayed at the party. That has turned out afterwards. It has happened at 10 o'clock. He has passed the exam. The drawing has been done well. The cake has failed.
+beginnen.
+to start.
+
+blijven.
+to stay.
+
+blijken.
+to turn out.
+
+gebeuren.
+to happen.
+
+lukken.
+succeed.
+
+slagen.
+to succeed.
+
+mislukken.
+fail.
+
+Hij is in Amsterdam geweest.
+He has been to Amsterdam.
+
+Zij is aan een cursus begonnen.
+She has started a course.
+
+Wij zijn op het feestje gebleven.
+We have stayed at the party.
+
+Dat is achteraf gebleken.
+That has turned out afterwards.
+
+Het is om 10 uur gebeurd.
+It has happened at 10 o'clock.
+
+Hij is voor het examen geslaagd.
+He has passed the exam.
+
+De tekening is goed gelukt.
+The drawing has been done well.
+
+De taart is mislukt.
+The cake has failed.
 
 Spreek jij al een beetje Nederlands?
 Do you already speak some Dutch?
@@ -2781,11 +2847,11 @@ What's wrong?
 Ik kan niet werken, want ik ben ziek.
 I can't work because I'm sick.
 
-(Conjuncties uit deze categorie: maar, en, of, want, dus. MEOW + D)
+«Conjuncties uit deze categorie: maar, en, of, want, dus. MEOW + D»
 Het werkwoord staat op de normale plaats in de zin. "Want" introduceert een hoofdzin.
 The verb is in its normal place in the sentence. “Want” introduces a main clause.
 
-(Conjuncties uit deze categorie: omdat, als, terwijl, hoewel, zodra, voordat, nadat, totdat, zodat, toen, mits, indien, tenzij)
+«Conjuncties uit deze categorie: omdat, als, terwijl, hoewel, zodra, voordat, nadat, totdat, zodat, toen, mits, indien, tenzij»
 Het werkwoord staat aan het einde van de zin. "Omdat" introduceert een bijzin.
 The verb is at the end of the sentence. “Omdat” introduces a dependent clause.
 
@@ -2849,7 +2915,7 @@ You have to take an exam before you receive a diploma.
 Hij vertrekt naar Australië, nadat hij afscheid heeft genomen.
 He leaves for Australia after saying goodbye.
 
-We waren arm, tot(dat) mijn moeder een goede baan kreeg.
+We waren arm, tot«dat» mijn moeder een goede baan kreeg.
 We were poor until my mother got a good job.
 
 Ik zet een wekker, zodat ik op tijd wakker word.
