@@ -2491,7 +2491,7 @@ iedere: every/ elke: each (for singular nouns)
 We eten elke dag brood.
 We eat bread every day.
 
-ledere student heeft zijn eigen laptop.
+Iedere student heeft zijn eigen laptop.
 Every student has his own laptop.
 
 Ik heb elke bladzijde gelezen.
