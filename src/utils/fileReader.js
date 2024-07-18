@@ -1,6 +1,6 @@
 export const processTextFile = async () => {
   return new Promise((resolve) => {
-    fetch("youtube.txt")
+    fetch("/youtube.txt")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Network response was not ok");

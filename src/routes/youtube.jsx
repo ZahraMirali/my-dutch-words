@@ -12,8 +12,6 @@ export default function Youtube() {
   const [selectedWords, setSelectedWords] = useState(difficultWords);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
-  console.log(selectedWords);
-
   const cleanWord = (word) => {
     return word.replace(/[^a-zA-Z0-9]+$/, "");
   };
