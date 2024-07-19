@@ -61,7 +61,7 @@ export default function YoutubeQuiz() {
   };
 
   return (
-    <div className="p-4 flex flex-col justify-between min-h-screen pb-16">
+    <div className="p-4 flex flex-col justify-between min-h-screen pb-10">
       <div className="flex flex-col gap-4">
         <div className="font-semibold">
           #{questionIndex}: {objectsArray[questionIndex]?.meaning}
@@ -114,7 +114,7 @@ export default function YoutubeQuiz() {
             {isChecked && !feedback ? (
               <button
                 onClick={handleCheckSentence}
-                className="px-4 py-2 bg-blue-500 text-white rounded"
+                className="px-4 py-2 bg-blue-500 text-white rounded w-32"
               >
                 Check
               </button>
