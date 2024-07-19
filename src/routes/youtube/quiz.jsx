@@ -126,7 +126,7 @@ export default function YoutubeQuiz() {
                     ? "bg-green-500"
                     : feedback
                     ? "bg-red-500"
-                    : ""
+                    : "bg-blue-500"
                 }`}
               >
                 Go
