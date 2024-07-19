@@ -61,7 +61,7 @@ export default function YoutubeQuiz() {
   };
 
   return (
-    <div className="p-4 flex flex-col justify-between min-h-screen pb-10">
+    <div className="p-4 flex flex-col justify-between min-h-screen pb-16">
       <div className="flex flex-col gap-4">
         <div className="font-semibold">
           #{questionIndex}: {objectsArray[questionIndex]?.meaning}
