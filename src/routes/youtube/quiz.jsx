@@ -8,6 +8,7 @@ export default function YoutubeQuiz() {
   const [feedback, setFeedback] = useState("");
   const [inputIndex, setInputIndex] = useState(0);
   const [isChecked, setIsChecked] = useState(true);
+  const [clickedWords, setClickedWords] = useState([]);
 
   useEffect(() => {
     async function initializeState() {
@@ -21,20 +22,22 @@ export default function YoutubeQuiz() {
     () =>
       objectsArray[questionIndex]?.example
         .split(" ")
+        .map((word, index) => ({ word, id: index }))
         .sort(() => Math.random() - 0.5) || [],
     [objectsArray, questionIndex]
   );
 
-  const handleWordClick = (word) => {
-    setConstructedSentence([...constructedSentence, word]);
+  const handleWordClick = (wordObj) => {
+    setConstructedSentence([...constructedSentence, wordObj.word]);
+    setClickedWords([...clickedWords, wordObj.id]);
   };
 
   const handleCheckSentence = () => {
     const sentence = constructedSentence.join(" ");
     if (sentence === objectsArray[questionIndex].example) {
-      setFeedback("Correct!");
+      setFeedback("correct");
     } else {
-      setFeedback("Try again.");
+      setFeedback("wrong");
     }
   };
 
@@ -43,20 +46,22 @@ export default function YoutubeQuiz() {
       inputIndex && parseInt(inputIndex, 10) !== questionIndex
         ? parseInt(inputIndex, 10)
         : questionIndex + 1;
-    if (index < objectsArray.length - 1) {
+    if (index < objectsArray.length) {
       setQuestionIndex(index);
       setInputIndex(index);
     }
     setConstructedSentence([]);
     setFeedback("");
+    setClickedWords([]);
   };
 
   const handleClearSentence = () => {
     setConstructedSentence([]);
+    setClickedWords([]);
   };
 
   return (
-    <div className="p-4 flex flex-col justify-between min-h-screen">
+    <div className="p-4 flex flex-col justify-between min-h-screen pb-10">
       <div className="flex flex-col gap-4">
         <div className="font-semibold">
           #{questionIndex}: {objectsArray[questionIndex]?.meaning}
@@ -65,9 +70,9 @@ export default function YoutubeQuiz() {
           {constructedSentence.join(" ")}
           <button
             onClick={handleClearSentence}
-            className="absolute top-2 right-2 px-2 py-1 bg-red-500 text-white rounded hover:bg-red-600"
+            className="absolute top-1 right-1 h-5 w-5 bg-red-500 text-white rounded text-sm"
           >
-            Clear
+            X
           </button>
         </div>
         {feedback && (
@@ -78,28 +83,19 @@ export default function YoutubeQuiz() {
       </div>
       <div className="flex flex-col gap-4">
         <div className="flex flex-wrap gap-2">
-          {shuffledWords.map((word, index) => (
+          {shuffledWords.map((wordObj) => (
             <button
-              key={index}
-              className="px-3 py-2 border rounded hover:bg-gray-200"
-              onClick={() => handleWordClick(word)}
+              key={wordObj.id}
+              className={`px-3 py-2 border rounded ${
+                clickedWords.includes(wordObj.id) ? "bg-neutral-200" : ""
+              }`}
+              onClick={() => handleWordClick(wordObj)}
             >
-              {word}
+              {wordObj.word}
             </button>
           ))}
         </div>
 
-        <div
-          className={`font-semibold h-6 self-start px-3 rounded text-white ${
-            feedback === "Correct!"
-              ? "bg-green-500"
-              : feedback
-              ? "bg-red-500"
-              : ""
-          }`}
-        >
-          {feedback}
-        </div>
         <div className="flex justify-between items-center">
           <div>
             <input
@@ -107,7 +103,6 @@ export default function YoutubeQuiz() {
               checked={isChecked}
               onChange={() => setIsChecked(!isChecked)}
             />
-            <label className="ml-2">Check?</label>
           </div>
           <div className="flex gap-2">
             <input
@@ -119,14 +114,20 @@ export default function YoutubeQuiz() {
             {isChecked && !feedback ? (
               <button
                 onClick={handleCheckSentence}
-                className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 w-32"
+                className="px-4 py-2 bg-blue-500 text-white rounded"
               >
                 Check
               </button>
             ) : (
               <button
                 onClick={handleNextQuestion}
-                className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600 w-32"
+                className={`px-4 py-2 text-white rounded w-32 ${
+                  feedback === "correct"
+                    ? "bg-green-500"
+                    : feedback
+                    ? "bg-red-500"
+                    : ""
+                }`}
               >
                 Go
               </button>
