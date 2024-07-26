@@ -47,8 +47,9 @@ export default function YoutubeQuiz() {
   const handleCheckSentence = () => {
     const sentence = constructedSentence
       .map((wordObj) => wordObj.word)
-      .join(" ");
-    if (sentence === objectsArray[questionIndex].example) {
+      .join(" ")
+      .toLowerCase();
+    if (sentence === objectsArray[questionIndex].example.toLowerCase()) {
       setFeedback("correct");
     } else {
       setFeedback("wrong");
@@ -78,7 +79,7 @@ export default function YoutubeQuiz() {
   };
 
   return (
-    <div className="p-2 flex flex-col justify-between min-h-screen pb-14">
+    <div className="p-2 flex flex-col justify-between min-h-screen pb-16">
       <div className="flex flex-col gap-4">
         <div className="font-semibold">
           #{questionIndex}: {objectsArray[questionIndex]?.meaning}
