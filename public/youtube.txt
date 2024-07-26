@@ -59,65 +59,65 @@ Hij ziet heel weinig.
 He doesn't see much.
 
 komen: to come
-Ze komen morgen op visite. 
+Ze komen morgen op visite.
 They will come visit us tomorrow.
 
-Ik kom eraan. 
+Ik kom eraan.
 I'm coming.
 
 denken: to think
-Ik denk aan lekker eten. 
+Ik denk aan lekker eten.
 I am thinking of delicious food.
 
-Ik denk aan je. 
+Ik denk aan je.
 I'm thinking of you.
 
 Ik denk dat het de blauwe is.
 I believe it's the blue one.
 
 kijken: to look
-Ik kijk naar het huis. 
+Ik kijk naar het huis.
 I'm looking at the house.
 
 willen: to want
-Zij wil een hond. 
+Zij wil een hond.
 She wants a dog.
 
 ik wil / jij wil / zij wil
 I want / He wants / She wants
 
 geven: to give
-Ik geef mijn vriend een verjaardagscadeau. 
+Ik geef mijn vriend een verjaardagscadeau.
 I'm giving my friend a birthday present.
 
-Pas op! op ik geef je een schop. 
+Pas op! op ik geef je een schop.
 Watch out! Or I'll give you a kick.
 
 gebruiken: to use
-Hij gebruikt de auto. 
+Hij gebruikt de auto.
 He is using the car.
 
 vinden: to find
-Ik kan mijn haarborstel niet vinden. 
+Ik kan mijn haarborstel niet vinden.
 I can't find my hairbrush.
 
 uitgaan: to go out
 Morgen gaan we uit! 
 We will go out tomorrow!
 
-Ik ga eruit. 
+Ik ga eruit.
 I'm getting up.
 
 vragen: to ask
-Vraag het aan je moeder. 
+Vraag het aan je moeder.
 Ask your mother.
 
 werken: to work
-Zij werkt bij de bank. 
+Zij werkt bij de bank.
 She works at a bank.
 
 binnengaan: to enter
-Het restaurant binnengaan. 
+Het restaurant binnengaan.
 To enter the restaurant.
 
 binnenlopen 
@@ -126,22 +126,22 @@ walk in there
 binnenkomen 
 to enter
 
-Hij komt binnen. Hij gaat naar binnen. 
+Hij komt binnen. Hij gaat naar binnen.
 He is entering. He goes inside.
 
 voelen: to feel
-Ik voel het in mijn tenen. 
+Ik voel het in mijn tenen.
 I feel it in my toes.
 
 proberen: to try
-We proberen het gewoon nog eens. 
+We proberen het gewoon nog eens.
 We will just try it again.
 
 verlaten: to leave
-Hij verlaat het feest. 
+Hij verlaat het feest.
 He is leaving the party.
 
-Ik voel me verlaten. 
+Ik voel me verlaten.
 I am feeling abandoned / lonely.
 
 bellen: to call
@@ -149,7 +149,7 @@ Kun je mij bellen?
 Can you call me?
 
 rennen: to run
-Het kind rent naar huis. 
+Het kind rent naar huis.
 The child runs home.
 
 praten: to talk
@@ -210,15 +210,15 @@ Ik lees een boek.
 I'm reading a book.
 
 schrijven: to write
-Ik schrijf een verhaal. 
+Ik schrijf een verhaal.
 I'm writing a story.
 
 oefenen: to practice
-U oefent niet genoeg. 
+U oefent niet genoeg.
 You don't practice enough.
 
 proberen: to try
-Ik probeer een nieuw gerecht. 
+Ik probeer een nieuw gerecht.
 I try a new dish.
 
 weten: to know
@@ -226,11 +226,11 @@ Ik weet het niet.
 I don't know.
 
 lopen: to walk
-Zij lopen naar huis. 
+Zij lopen naar huis.
 They're walking home.
 
 fietsen: to cycle
-Nederlanders fietsen veel. 
+Nederlanders fietsen veel.
 Dutch people cycle a lot.
 
 reizen: to travel
@@ -242,15 +242,15 @@ Zij geeft me een kus.
 She gives me a kiss.
 
 gaan: to go
-Ik ga naar school. 
+Ik ga naar school.
 I am going to school.
 
 werken: to work
-Ik werk elke dag. 
+Ik werk elke dag.
 I work every day.
 
 betalen: to pay
-Ik betaal de rekening. 
+Ik betaal de rekening.
 I pay the bill.
 
 lopen: to walk
@@ -2122,7 +2122,7 @@ Frisdrank bevat veel suiker
 Soda contains a lot of sugar.
 
 negende: ninth
-Ramadan is op de negende maand van het moslim-jaar.
+Ramadan is de negende maand van het moslim-jaar.
 Ramadan is the ninth month of the Muslim year.
 
 tiende: tenth
@@ -2302,7 +2302,7 @@ Ik kocht een nieuw bed.
 I bought a new bed.
 
 spiegel: mirror
-De spiegel hangt aan de de muur.
+De spiegel hangt aan de muur.
 The mirror is hanging on the wall.
 
 dressoir: dresser

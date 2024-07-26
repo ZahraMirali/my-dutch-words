@@ -18,22 +18,36 @@ export default function YoutubeQuiz() {
     initializeState();
   }, []);
 
-  const shuffledWords = useMemo(
-    () =>
-      objectsArray[questionIndex]?.example
-        .split(" ")
-        .map((word, index) => ({ word, id: index }))
-        .sort(() => Math.random() - 0.5) || [],
-    [objectsArray, questionIndex]
-  );
+  const shuffledWords = useMemo(() => {
+    if (!objectsArray[questionIndex]) return [];
+
+    const currentWords = objectsArray[questionIndex].example
+      .split(" ")
+      .map((word, index) => ({ word, id: `${questionIndex}-${index}` }));
+
+    const otherWords = objectsArray
+      .flatMap((obj, index) =>
+        index !== questionIndex
+          ? obj.example
+              .split(" ")
+              .map((word) => ({ word, id: `${index}-${word}` }))
+          : []
+      )
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 3);
+
+    return [...currentWords, ...otherWords].sort(() => Math.random() - 0.5);
+  }, [objectsArray, questionIndex]);
 
   const handleWordClick = (wordObj) => {
-    setConstructedSentence([...constructedSentence, wordObj.word]);
+    setConstructedSentence([...constructedSentence, wordObj]);
     setClickedWords([...clickedWords, wordObj.id]);
   };
 
   const handleCheckSentence = () => {
-    const sentence = constructedSentence.join(" ");
+    const sentence = constructedSentence
+      .map((wordObj) => wordObj.word)
+      .join(" ");
     if (sentence === objectsArray[questionIndex].example) {
       setFeedback("correct");
     } else {
@@ -55,25 +69,30 @@ export default function YoutubeQuiz() {
     setClickedWords([]);
   };
 
-  const handleClearSentence = () => {
-    setConstructedSentence([]);
-    setClickedWords([]);
+  const handleRemoveWord = (id) => {
+    const newSentence = constructedSentence.filter(
+      (wordObj) => wordObj.id !== id
+    );
+    setConstructedSentence(newSentence);
+    setClickedWords(clickedWords.filter((clickedId) => clickedId !== id));
   };
 
   return (
-    <div className="p-4 flex flex-col justify-between min-h-screen pb-16">
+    <div className="p-2 flex flex-col justify-between min-h-screen pb-14">
       <div className="flex flex-col gap-4">
         <div className="font-semibold">
           #{questionIndex}: {objectsArray[questionIndex]?.meaning}
         </div>
-        <div className="relative p-4 border rounded h-56">
-          {constructedSentence.join(" ")}
-          <button
-            onClick={handleClearSentence}
-            className="absolute top-1 right-1 h-5 w-5 bg-red-500 text-white rounded text-sm"
-          >
-            X
-          </button>
+        <div className="flex flex-wrap gap-2 rounded border h-40 items-start p-2">
+          {constructedSentence.map((wordObj) => (
+            <button
+              key={wordObj.id}
+              className="px-3 py-2 border rounded"
+              onClick={() => handleRemoveWord(wordObj.id)}
+            >
+              {wordObj.word}
+            </button>
+          ))}
         </div>
         {feedback && (
           <div className="font-semibold">
@@ -89,6 +108,7 @@ export default function YoutubeQuiz() {
               className={`px-3 py-2 border rounded ${
                 clickedWords.includes(wordObj.id) ? "bg-neutral-200" : ""
               }`}
+              disabled={clickedWords.includes(wordObj.id)}
               onClick={() => handleWordClick(wordObj)}
             >
               {wordObj.word}
