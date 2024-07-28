@@ -2670,8 +2670,8 @@ I have a house in Amsterdam. I've lived there for a long time.
 Wat vind je ervan?
 What do you think about it?
 
-Er zijn nog een paar lessen deze cursus.
-There are a few more lessons this course.
+Er zijn nog een paar lessen in deze cursus.
+There are a few more lessons in this course.
 
 We moeten er nog 7 doen.
 We still have 7 to do.
