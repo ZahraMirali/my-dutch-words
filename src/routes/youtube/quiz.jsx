@@ -1,12 +1,14 @@
 import { useEffect, useMemo, useState } from "react";
+import { useSearchParams } from "react-router-dom";
 import { processTextFile } from "../../utils/fileReader";
 
 export default function YoutubeQuiz() {
-  const [questionIndex, setQuestionIndex] = useState(0);
+  const [searchParams, setSearchParams] = useSearchParams();
   const [objectsArray, setObjectsArray] = useState([]);
   const [constructedSentence, setConstructedSentence] = useState([]);
   const [feedback, setFeedback] = useState("");
-  const [inputIndex, setInputIndex] = useState(0);
+  const questionIndex = parseInt(searchParams.get("questionIndex"), 10) || 0;
+  const [inputIndex, setInputIndex] = useState(questionIndex);
   const [isChecked, setIsChecked] = useState(true);
   const [clickedWords, setClickedWords] = useState([]);
 
@@ -62,12 +64,12 @@ export default function YoutubeQuiz() {
         ? parseInt(inputIndex, 10)
         : questionIndex + 1;
     if (index < objectsArray.length) {
-      setQuestionIndex(index);
+      setSearchParams({ questionIndex: index });
       setInputIndex(index);
+      setConstructedSentence([]);
+      setFeedback("");
+      setClickedWords([]);
     }
-    setConstructedSentence([]);
-    setFeedback("");
-    setClickedWords([]);
   };
 
   const handleRemoveWord = (id) => {
