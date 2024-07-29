@@ -1414,7 +1414,7 @@ A doctor works in a hospital.
 
 portemonnee: wallet
 Zijn portemonnee was een paar dagen geleden op het treinstation gestolen.
-His wallet was stolen in the train station a couple of months ago.
+His wallet was stolen in the train station a couple of days ago.
 
 handtas: purse
 Dit is een grote handtas.

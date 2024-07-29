@@ -8,6 +8,7 @@ import Words from "./routes/words";
 import Quiz from "./routes/quiz";
 import Youtube from "./routes/youtube";
 import YoutubeQuiz from "./routes/youtube/quiz";
+import Xxxx from "./routes/xxxx";
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
   {
     path: "/youtube/quiz",
     element: <YoutubeQuiz />,
+  },
+  {
+    path: "/xxxx",
+    element: <Xxxx />,
   },
   {
     path: "/:quizIndex",
