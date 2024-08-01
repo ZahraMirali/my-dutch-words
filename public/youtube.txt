@@ -2963,6 +2963,327 @@ Because I'm working now, can I leave earlier?
 Omdat ik nu ga werken, kan ik vroeger vertrekken?
 Because I'm going to work now, can I leave earlier?
 
+rijst: rice
+Rijst is een belangrijke bron van koolhydraten in veel diëten.
+Rice is an important source of carbohydrates in many diets.
+
+brood: bread
+Elke zondag kopen we bij de bakkerij brood, cake en koekjes.
+Every Sunday morning we buy bread, cake, and cookies at the bakery.
+
+ei: egg
+Ik kook een ei.
+I boil an egg.
+
+noedel: noodle
+Kant-en-klare noedels zijn een populaire lichte maaltijd.
+Instant noodles are a popular light meal.
+
+wekker: alarm clock
+De wekker staat op 5 uur 's ochtends.
+The alarm clock is set for 5 a.m.
+
+deur: door
+De man is de deur aan het dichtdoen.
+The man is closing the door.
+
+afstandsbediening: remote control
+Kun je me alsjeblieft de afstandsbediening geven.
+Please pass me the remote control.
+
+vegen: wipe
+Vergeet niet om de vloer te vegen.
+Don't forget to wipe the floor.
+
+menu: menu
+Mag ik het menu zien alstublieft?
+Can I see the menu, please?
+
+tijdschrift: magazine
+De vrouw is een tijdschrift aan het lezen.
+The woman is reading a magazine.
+
+audioboek: audiobook
+Als ik naar het werk pendel luister ik naar audioboeken.
+I listen to audiobooks during my commute to work.
+
+videospel: video game
+Ik ga dit weekend een nieuw videospel kopen.
+I'm going to buy a new video game this weekend.
+
+goedkoop: cheap
+Het polshorloge is niet goedkoop.
+The wristwatch is not cheap.
+
+duur: expensive
+De lunch is hier goedkoop maar het diner is erg duur.
+The lunch menu here is cheap, but dinner is very expensive.
+
+vriendelijk: kind
+Een oudere vrouw bloemen geven is een vriendelijke daad.
+Giving the elderly woman flowers is a kind act.
+
+eng: scary
+Wanneer hij dat masker draagt ziet hij er eng uit.
+He looks scary when he wears that mask.
+
+ontspannen: relaxing
+Zondagen zijn erg ontspannen.
+Sundays are very relaxing.
+
+pond: pound
+Een pond is zestien ons.
+One pound is sixteen ounces.
+
+mijl: mile
+Een mijl is ruwweg 1,6 kilometer.
+One mile is roughly 1.6 kilometers.
+
+voet: foot
+In een voet gaan twaalf inches.
+There are twelve inches in a foot.
+
+ziekte: illness
+Ik ben vanwege die ziekte veel gewicht verloren.
+I lost a lot of weight because of the illness.
+
+verkoudheid: cold
+Dat is een nare verkoudheid.
+That is a nasty cold.
+
+letsel: injury
+Auto-ongelukken zijn een hoofdoorzaak bij letsel.
+Car accidents are a leading cause of injury.
+
+medicijn: medicine
+De dokter gaf me een medicijn tegen mijn maagpijn.
+The doctor gave me medicine for my stomach pain.
+
+pijn: pain
+De vrouw heeft pijn.
+The woman is in pain.
+
+koorts: fever
+Hij heeft 39 graden koorts.
+He has a fever of 39 degrees.
+
+raam: window
+De man is het raam aan het dichtdoen.
+The man is closing the window.
+
+alcohol: alcohol
+Deze drankjes bevatten alcohol.
+These drinks contain alcohol.
+
+maaltijd: meal
+De chef is een maaltijd aan het maken.
+The chef is making a meal.
+
+mist: fog
+De stad is bedekt met mist.
+The city is covered in fog.
+
+hagel: hail
+Er is hagel aan het vallen.
+Hail is falling.
+
+onweersbui: thunderstorm
+De onweersbui licht het donkere bos op.
+The thunderstorm is lighting up the dark forest.
+
+aquarium: aquarium
+Ik vind het leuk om te zien hoe alle vissen in het aquarium zwemmen.
+I love to watch all the fish swim at the aquarium.
+
+voetbal: soccer
+Voetbal is 's werelds meest populaire sport.
+Soccer is the world's most popular sport.
+
+
+dierentuin: zoo
+De bezoekers van de dierentuin kijken naar de giraffe.
+The zoo visitors are watching the giraffe.
+
+ritprijs: fare
+Hoeveel bedraagt de ritprijs van de bus?
+How much is the bus fare?
+
+bushalte: bus stop
+De vrouwen wachten bij een bushalte
+The women are waiting at the bus stop.
+
+gram: gram
+De appel weegt 157 gram.
+The apple weighs 157 grams.
+
+meter: meter
+De benen van de volwassen vrouw meten een meter lang.
+The adult woman's leg measures one meter.
+
+kilometer: kilometer
+Hij liep tien kilometer.
+He walked ten kilometers.
+
+diarree: diarrhea
+Dit medicijn zal de diarree stoppen.
+This medicine will stop the diarrhea.
+
+symptoom: symptom
+Wat zijn de symptomen?
+What are your symptoms?
+
+buikpijn: stomachache
+Gisteren had ik een nare buikpijn.
+Yesterday, I had a bad stomachache.
+
+schoonmaken: clean
+De huishoudster is de ramen aan het schoonmaken.
+The housekeeper is cleaning the window.
+
+drogen: dry
+Ik ben aan het wachten tot de verf droog is.
+I am waiting for the paint to dry.
+
+stof: dust
+De vrouw stoft met een stofdoek.
+The woman is dusting with a dust cloth.
+
+stofzuigen: vacuum
+Voordat de gasten komen moet ik de hal stofzuigen.
+I have to vacuum the hallway before the guests come.
+
+kruispunt: intersection
+Sla af bij het kruispunt van Main Street en First Avenue.
+Turn at the intersection of Main Street and First Avenue.
+
+snelweg: highway
+De verkeersomstandigheden op de snelweg zijn deze ochtend normaal.
+Traffic conditions on the highway are normal this morning.
+
+weg: road
+Er ligt ijs op de weg.
+There is ice on the road.
+
+straat: street
+De auto's bewegen over de straat in de stad.
+The cars are moving down the city street.
+
+interessant: interesting
+De vrouw luistert naar een interessant verhaal.
+The woman is listening to an interesting story.
+
+gemeen: mean
+De gemene vrouw schreeuwde tegen de kinderen.
+The mean woman yelled at the children.
+
+verveeld: bored
+De groep mensen is extreem verveeld.
+The group of people are extremely bored.
+
+zevenhonderd: seven hundred
+Ijsberen kunnen wel zevenhonderd kilogram wegen.
+Polar bears can weigh up to seven hundred kilograms.
+
+achthonderd: eight hundred
+Ik heb achthonderd euro op een dag uitgegeven.
+I spent eight hundred euros in one day.
+
+tweehonderd: two hundred
+Wij hebben hier meer dan tweehonderd boeken.
+We have over two hundred books here.
+
+driehonderd: three hundred
+Deze stad is driehonderd jaar oud.
+This city is three hundred years old.
+
+zeshonderd: six hundred
+In dit dorp wonen zeshonderd mensen.
+Six hundred people live in this town.
+
+buitenzetten: take out
+Kun je de vuilnis buitenzetten?
+Can you take out the trash, please?
+
+ober: waiter
+De ober levert roomservice.
+The waiter is delivering room service.
+
+weerbericht: weather report
+Check het weerbericht voor je gaat zeilen.
+Check the weather report before going sailing.
+
+Celsius: Celsius
+De temperatuur van vandaag is dertig graden Celsius.
+Today's temperature is 30 degrees Celsius.
+
+TV show: TV show
+Vanavond komt haar favoriete tv-show.
+Her favorite TV show is on tonight.
+
+hardlopen: jogging
+Sinds ik ben begonnen met hardlopen ben ik 3 kilo afgevallen.
+I've lost three kilograms since I started jogging.
+
+fastfood: fast food
+Ik hunker zo af en toe naar fastfood.
+I crave fast food every once in a while.
+
+park: park
+Het stel is aan het wandelen in het park.
+The couple is walking in the park.
+
+stoplicht: traffic light
+De hevige storm beschadigde het stoplicht.
+The severe storm damaged the traffic light.
+
+verkeersbord: sign
+Stop wanneer je het stopbord ziet.
+Stop when you see the stop sign.
+
+metro: subway
+Ik neem naar het kantoor de metro.
+I take the subway to the office.
+
+treinstation: train station
+Pardon, waar is het treinstation?
+Excuse me, where is the train station?
+
+vijfhonderd: five hundred
+Er werken vijfhonderd werknemers in ons bedrijf.
+There are five hundred employees working in our company.
+
+negenhonderd negenennegentig: nine hundred ninety-nine
+We kochten voor het evenement negenhonderdnegenennegentig stoelen.
+We bought nine hundred ninety-nine chairs for the event.
+
+honderdeen: one hundred and one
+Mijn score was honderdeen.
+My score was one hundred and one.
+
+vierhonderd: four hundred
+Het boek was vierhonderd pagina's dik.
+The book was four hundred pages thick.
+
+negenhonderd: nine hundred
+De antieke lepel was negenhonderd jaar oud.
+The antique spoon was nine hundred years old.
+
+inch: inch
+Ik heb zojuist een 40 inch flatscreen gekocht.
+I just bought a 40-inch flat screen television.
+
+kilogram: kilogram
+Een kilogram is duizend gram.
+One kilogram is one thousand grams.
+
+centimeter: centimeter
+De stapel munten meet bijna acht centimeter.
+The stacked coins measure almost eight centimeters.
+
+
+
+
+
 
 
 
