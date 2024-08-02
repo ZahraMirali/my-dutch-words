@@ -3280,6 +3280,488 @@ centimeter: centimeter
 De stapel munten meet bijna acht centimeter.
 The stacked coins measure almost eight centimeters.
 
+restaurant: restaurant
+Dat is een goed restaurant.
+That's a good restaurant.
+
+café: café
+De cafés in mijn straat gingen begin van de lente open.
+The cafes in my street opened in early spring.
+
+coffeeshop: coffee shop
+Zullen we even langs een coffeeshop gaan?
+Shall we stop by a coffee shop?
+
+bar: bar
+Mijn favoriete bar was dicht.
+My favorite bar was closed.
+
+meubel: furniture
+Na de brand moesten we al onze meubels vervangen.
+We had to replace all of our furniture after the fire.
+
+gras: grass
+Het groene gras ruikt fris.
+The green grass smells fresh.
+
+aarde: soil
+Vanwege de droogte kraakte de aarde.
+The soil cracked due to the drought.
+
+vuil: dirt
+De wormen kronkelen in het vuil.
+The worms are squirming in the dirt.
+
+steen: rock
+Hij gooit een steen.
+He throws a rock.
+
+boom: tree
+Een vogel in de boom.
+A bird in the tree.
+
+Taoisme: Taoism
+Taoisme is ook wel bekend als Daoisme.
+Taoism is also known as Daoism.
+
+Bijbel: Bible
+Openbaringen is een boek uit de bijbel.
+Revelation is a book from the bible.
+
+Koran: Quran
+De koran is een heilig boek in de moslim religie.
+The Quran is the holy book of the Muslim religion.
+
+priester: priest
+Hij kreeg advies van een priester.
+He got advice from a priest.
+
+judaïsme: Judaism
+Judaïsme wordt al meer dan drieduizend jaar gepraktiseerd.
+Judaism has been practiced for over three thousand years.
+
+duizend: one thousand
+Ik heb duizend euro gevonden!
+I found one thousand euro!
+
+tweeduizend: two thousand
+Het kost tweeduizend dollar.
+It costs two thousand dollars.
+
+achtduizend: eight thousand
+In dat dorp wonen achtduizend mensen.
+Eight thousand people live in that village.
+
+tienduizend: ten thousand
+Ze hebben tienduizend euro voor het goede doel bijeengebracht.
+They raised ten thousand euro for charity.
+
+vierduizend: four thousand
+Het stadion is vierduizend vierkante meter.
+The stadium is four thousand square meters.
+
+huisbaas: landlord
+De huisbaas van mijn broer accepteert geen cheque.
+My brother's landlord will not accept a check.
+
+studentenhuis: dormitory
+Tijdens mijn vier jaar college heb ik in een studentenhuis gewoond.
+I lived in the dormitory for all four years of college.
+
+appartement encomplex: apartment building
+Er bevinden zich 24 appartementen in dit appartementencomplex.
+There are 24 apartments in this apartment building.
+
+stad: city
+Deze stad is driehonderd jaar oud.
+This city is three hundred years old.
+
+boerderij: farm
+De geiten spelen op de borderij.
+The goats are playing on the farm.
+
+tsunami: tsunami
+De tsunami trof de stad.
+The tsunami hit the city.
+
+lawine: avalanche
+De lawine verwoestte het skiresort maar gelukkig raakte er niemand gewond.
+The avalanche destroyed the ski resort, but luckily, nobody was hurt.
+
+vuur: fire
+Waar rook is, is vuur.
+Where there's smoke, there's fire.
+
+aardbeving: earthquake
+In deze stad bestaat altijd het gevaar van een aardbeving.
+In this city, there's always the danger of an earthquake.
+
+zandstorm: sandstorm
+De zandstorm is gaan liggen.
+The sandstorm has touched down.
+
+handschoen: glove
+Ik heb nieuwe handschoenen nodig voor de herfst.
+I need new gloves for autumn.
+
+paraplu: umbrella
+Het regent en ik heb geen paraplu.
+I don't have an umbrella, and it's raining.
+
+hoed: hat
+Een rode sjaal zou leuk staan bij die hoed.
+A red scarf would look nice with that hat.
+
+lange mouwen: long-sleeved
+Shirts met lange mouwen zijn geschikt voor koud weer.
+Long-sleeved shirts are good for cold weather.
+
+korte mouwen: short-sleeved
+Shirts met korte mouwen zijn beter wanneer het warm is.
+Short-sleeved shirts are better when it's hot.
+
+pijnlijk: painful
+De beet van een kwal is erg pijnlijk.
+A jellyfish sting is very painful.
+
+verlegen: shy
+Ik ben verlegen.
+I am shy.
+
+nerveus: nervous
+Ik ben nerveus voor mijn examen uitslag.
+I am nervous about my exam results.
+
+opgewonden: excited
+Mijn vader was opgewonden toen hij het wedstrijdschema bekeek.
+My father was excited checking the game schedule.
+
+schamen: embarrassed
+Wanneer ik me schaam wordt mijn gezicht altijd rood.
+My face turns red when I am embarrassed.
+
+platteland: country
+Zij hebben een groot huis op het platteland.
+They have a big house in the country.
+
+dorp: village
+Ik groeide op in een klein dorp.
+I grew up in a small village.
+
+stad: town
+Ik wil een wandeling in de stad maken.
+I want to go for a walk in town.
+
+buitenwijk: suburb
+Hij werk in de stad maar woont in een buitenwijk.
+He works in the city, but he lives in the suburbs.
+
+kamer: room
+De kamer is stoffig.
+This room is dusty.
+
+brandwond: burn
+Mijn brandwond doet erg veel pijn.
+My burn hurts a lot.
+
+schaken: chess
+Schaken is een spel van strategie en concentratie.
+Chess is a game of strategy and concentration.
+
+taal: language
+Koreans is een officiele taal
+Korean is the official language.
+
+föhnen: blow-dry
+De haar-styliste is het haar van de vrouw aan het föhnen.
+The hair stylist is blow-drying the woman's hair.
+
+vechtsport: martial arts
+Onze vechtsportinstructeur heeft vijfentwintig jaar ervaring.
+Our martial arts instructor has practiced for twenty five years.
+
+tevreden: satisfied
+De man is tevreden.
+The man is satisfied.
+
+kalm: calm
+De oceaan is kalm.
+The ocean is calm.
+
+kammen: comb
+Ik kam mijn hond elke dag.
+I comb my dog every day.
+
+gorgelen: gargle
+Ik gorgel een paar keer per dag.
+I gargle several times a day.
+
+ontevreden: dissatisfied
+De man is ontevreden met dit product.
+The man is dissatisfied with the product.
+
+vijfduizend: five thousand
+Op het plein waren vijfduizend mensen aan het protesteren.
+Five thousand people were protesting on the square.
+
+drieduizend: three thousand
+Er bestaan in Peru meer dan drieduizend soorten aardappelen.
+In Peru, more than three thousand types of potatoes exist.
+
+zesduizend: six thousand
+Er zijn zo'n zesduizend Griekse eilanden.
+There are around six thousand islands in Greece.
+
+zevenduizend: seven thousand
+Ze verkocht zevenduizend albums.
+She sold seven thousand albums.
+
+negenduizend: nine thousand
+Negenduizend troepen trokken zich terug uit het land.
+Nine thousand troops withdrew from the country.
+
+roos: rose
+Er werd aan mij een witte roos gegeven.
+I was given a white rose.
+
+bloem: flower
+Deze bloemen alstublieft.
+These flowers, please.
+
+lelie: lily
+Ze nam onderweg naar huis wat lelies mee.
+She bought some lilies on her way home.
+
+zonnebloem: sunflower
+Zonnebloemen worden ongeveer 2.5m tot 3.5m groot.
+Sunflowers grow to heights between 8-12 feet.
+
+paardebloem: dandelion
+Paardebloemen worden op sommige plekken gegeten in de soep of salade.
+Dandelions are eaten in soups and salads in some places.
+
+reizen: traveling
+Wij houden van reizen.
+We love traveling.
+
+oefenen: exercising
+De vrouw doet oefeningen op de vloer.
+The woman is exercising on the floor.
+
+workout: workout
+Elke dag een workout van 30 minuten kan je gezondheid verbeteren.
+A 30-minute workout every day can improve your health.
+
+lezen: reading
+Ik hou er erg van om boeken te lezen.
+I really like reading books.
+
+kaarten: playing cards
+Op een warme zomeravond gaan we vaak kaarten.
+We often play cards on a warm summer evening.
+
+oorbel: earring
+Grote oorbellen zijn hip.
+Big earrings are fashionable.
+
+ketting: necklace
+Hoeveel kost die diamanten ketting?
+How much is that diamond necklace?
+
+ring: ring
+We kochten onze trouwringen in een juwelierswinkel.
+We bought our wedding rings at the jewelry store.
+
+boxershort: boxer shorts
+Een boxershort is een onderkledingstuk voor mannen.
+Boxer shorts are an undergarment for men.
+
+rok: skirt
+Ze draagt een gele rok.
+She is wearing a yellow skirt.
+
+hamburger: hamburger
+Ik heb zojuist een hamburger besteld.
+I have just ordered a hamburger.
+
+cheeseburger: cheeseburger
+Een cheeseburger is een hamburger met een plak kaas.
+A cheeseburger is a hamburger with a slice of cheese.
+
+pizza: pizza
+Pizza is gezond, is het niet?
+Pizza is healthy, isn't it?
+
+hotdog: hot dog
+Bij een bbq geef ik de voorkeur aan hotdogs.
+I prefer hot dogs at a BBQ.
+
+fooi: tip
+In een restaurant geef je altijd fooi.
+In restaurants, you always tip.
+
+overstroming: flood
+De overstroming vernietigde het dorp.
+The flood destroyed the town.
+
+tyfoon: typhoon
+De tyfoon heeft toegeslagen.
+The typhoon has hit.
+
+orkaan: hurricane
+De orkaan blaast vanaf zee.
+The hurricane is blowing in from the sea.
+
+tornado: tornado
+De tornado nadert het dorp.
+The tornado is approaching the town.
+
+droogte: drought
+Droogte is een plaag voor boeren.
+Drought is a real trouble for farmers.
+
+islam: Islam
+Het geloof islam werd gesticht door de profeet Mohammed.
+Islam was founded by the prophet Muhammad.
+
+protestantisme: Protestantism
+Het protestantisme verscheen als breuk met de Rooms-Katholieke Kerk.
+Protestantism came as a break from the Roman Catholic Church.
+
+katholicisme: Catholicism
+Katholicisme is de religie van degenen die het leiderschap van de Paus accepteren.
+Catholicism is the religion of those who accept the leadership of the Pope.
+
+hindoeisme: Hinduism
+Het hindoeisme uit India houdt zich bezig met het geloof in reincarnatie en vele goden.
+Hinduism, from India, involves the belief in reincarnation and many gods.
+
+boeddhisme: Buddhism
+Boeddhisme is gebaseerd op de wijsheden van Boeddha, de 'verlichtende.'
+Buddhism is based on the teachings of the Buddha, the enlightened one.
+
+enkel: ankle
+De atleet verstuikte zijn enkel.
+The athlete sprained his ankle.
+
+elleboog: elbow
+Een arm buigt bij de elleboog maar een kant op.
+The arm only bends one way at the elbow.
+
+pols: wrist
+De meest normale plek om een polsslag op te nemen is in de nek of bij de pols.
+The most common places to take a pulse are the neck and wrist.
+
+knie: knee
+Ik speelde met de baby op mijn knie.
+I played with the baby on my knee.
+
+huid: skin
+Mijn huid jeukt.
+My skin itches.
+
+scheren: shave
+Hij vergat zich vanmorgen te scheren.
+He forgot to shave this morning.
+
+chef: chef
+De chef bereidt een maaltijd.
+The chef is making a meal.
+
+niet-roken: non-smoking
+Mijn voorkeur gaat er naar uit om in het niet-roken gedeelte te gaan zitten.
+My preference is to sit in the non-smoking section.
+
+roken: smoking
+Er zit aan het restaurant een aparte patio vast om te kunnen roken.
+There is a separate patio for smoking attached to the restaurant.
+
+bloed: blood
+De haaien worden gelokt door de geur van bloed.
+The sharks are lured in by the smell of blood.
+
+breken: break
+Ik heb een van mijn borden gebroken tijdens het afwassen.
+I broke one of my plates while washing the dishes.
+
+snee: cut
+De jongen viel en heeft een diepe snee in zijn been.
+The boy fell and has a deep cut on his leg.
+
+verstuiken: sprain
+De atleet verstuikte zijn enkel.
+The athlete sprained his ankle.
+
+magnetron: microwave oven
+Het meest handige keukenapparaat is de magnetron.
+The most convenient kitchen appliance is the microwave oven.
+
+koelkast: refrigerator
+De koelkast zit vol met eten voor de vakantie.
+The refrigerator is full of food for the holiday.
+
+stofzuiger: vacuum cleaner
+Gebruik de stofzuiger om het tapijt schoon te houden.
+Use the vacuum cleaner to keep the carpets clean.
+
+zweet: sweat
+De atleten waren bedekt met zweet na de wedstrijd.
+The athletes were covered in sweat after the game.
+
+check-in: check in
+Hoe laat is de check-in?
+What time is check-in?
+
+kamernummer: room number
+We verblijven in het City Hotel, kamernummer 717.
+We'll be staying at the City Hotel, room number 717.
+
+kamersleutel: room key
+Ik heb mijn kamersleutel verloren.
+I lost my room key.
+
+wekoproep: wake-up call
+Hallo, ik zou graag een wekoproep willen hebben om kwart voor zes 's ochtends.
+Hi, I'd like a wake-up call at fifteen minutes to six in the morning.
+
+uitchecken: check out
+Gelieve uit te checken voor 10 uur 's ochtends.
+Please check out before 10 AM.
+
+licht: light
+Lichte kleuren staan je goed.
+Light colors really suit you well.
+
+goud: gold
+Ik wil een goudkleurige handtas.
+I want a gold-colored purse.
+
+roze: pink
+Het roze glazuur op een aardbeientaart is mijn favoriet.
+The pink frosting on a strawberry cake is my favorite.
+
+zilver: silver
+De zilverkleurige pen ziet er duur uit.
+The silver-colored pen looks expensive.
+
+beige: beige
+Beige is een lichte crème kleur met een geelachtige tint.
+Beige is a pale cream color with a yellowish tint.
+
+framboos: raspberry
+Ik ben gewoon een grote fan van frambozen.
+I'm simply a huge fan of raspberries.
+
+hoesten: cough
+Ze heeft de hele nacht lopen hoesten.
+She has been coughing all night.
+
+knoflook: garlic
+De smaak en de geur zijn de kookkenmerken van knoflook.
+The taste and odor of garlic are its cooking trademarks.
+
+
+
 
 
 
