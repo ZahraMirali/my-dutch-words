@@ -3760,15 +3760,322 @@ knoflook: garlic
 De smaak en de geur zijn de kookkenmerken van knoflook.
 The taste and odor of garlic are its cooking trademarks.
 
+snor: mustache
+De man heeft eten op zijn snor zitten.
+The man has food on his mustache.
 
+wasmachine: washing machine
+Waarom plaats je de wasmachine niet daar?
+Why don't you put the washing machine over there?
 
+DVD-speler: DVD player
+Elke woensdagavond kijken we films met de dvd-speler.
+We watch movies on the DVD player every Wednesday night.
 
+ventilator: fan
+Toen ik de ventilator aanzette, bliezen mijn papieren de hele kamer door.
+When I turned on the fan, my papers blew all over the room.
 
+airconditioner: air conditioner
+Externe airconditioners zijn vrij goedkoop.
+External air conditioners are quite cheap.
 
+fornuis: stove
+De ketel staat op het fornuis.
+The kettle is on the stove.
 
+basisschool: elementary school
+Wanneer gaat zij naar de basisschool?
+When is she going to elementary school?
 
+basisschool: middle school
+Mijn twaalf jaar oude broer gaat naar de basisschool.
+My twelve-year-old brother goes to middle school.
 
+middelbare school: high school
+We hebben al sinds de middelbare school geen goede film meer gekeken.
+We haven't watched a good movie since high school.
 
+universiteit: university
+Ik heb het op de universiteit geleerd.
+I learned it at university.
 
+schoolhoofd: principal
+Mijn grootvader was een schoolhoofd.
+My grandfather used to be a principal.
 
+fel: bright
+Ze droeg een felgekleurd shirt.
+She wore a bright-colored shirt.
 
+laptop: laptop computer
+Ik kocht een nieuwe laptop.
+I bought a new laptop computer.
+
+muis: mouse
+Een draadloze muis is erg handig.
+A wireless mouse is very convenient.
+
+speaker: speaker
+Deze fabriek produceert speakers.
+This factory manufactures speakers.
+
+webcam: webcam
+Mijn webcam werkt niet.
+My webcam is not working.
+
+microfoon: microphone
+Geef me de microfoon.
+Give me the microphone.
+
+desktop: desktop computer
+Ik heb alleen een desktop.
+I only have a desktop computer.
+
+chilipeper: chili pepper
+Ik hou niet van chilipepers.
+I don't like chili peppers.
+
+mais: corn
+Ik hou van gestoomde mais.
+I like steamed corn.
+
+eenpersoonsbed: single bed
+De kamer had een eenpersoonsbed.
+The room came with a single bed.
+
+tweepersoonsbed: double bed
+Het tweepersoonsbed is erg ruim.
+The double bed is very spacious.
+
+hotel: hotel
+Ik zal twee hotelkamers boeken.
+I'll book two hotel rooms.
+
+receptie: front desk
+We hebben in- en uitgecheckt bij de receptie.
+We checked in and out at the front desk.
+
+Stille Oceaan: Pacific Ocean
+De Stille Oceaan is de grootste ocean ter wereld.
+The Pacific Ocean is the biggest ocean on earth.
+
+Atlantische Oceaan: Atlantic Ocean
+Het grootste gebergte ter wereld ligt in het midden van de Atlantische Oceaan.
+The world's largest mountain range is actually in the middle of the Atlantic Ocean.
+
+Indische Oceaan: Indian Ocean
+Ten oosten van Zuid-Afrika ligt de Indische Oceaan en ten westen de Atlantische Oceaan.
+To the east of South Africa is the Indian Ocean, and to the west: the Atlantic Ocean.
+
+Australië: Australia
+Sydney is de grootste stad van Australië.
+Sydney is the largest city in Australia.
+
+Antarctica: Antarctica
+Zeehonden en pinguins leven op Antarctica.
+Seals and penguins live on Antarctica.
+
+Azië: Asia
+Azië is de grootste van de zeven continenten op aarde.
+Asia is the largest of Earth's seven continents.
+
+Afrika: Africa
+Afrika, het op een na grootste continent op aarde, heeft enorme natuurlijke bronnen.
+Africa, Earth's second biggest continent, has vast natural resources.
+
+Europa: Europe
+Azie en Europa worden samen ook wel Eurazie genoemd.
+Together, Asia and Europe are sometimes called Eurasia.
+
+Noord-Amerika: North America
+Wat is de hoogste berg van Noord-Amerika?
+What is the highest mountain in North America?
+
+Zuid-Amerika: South America
+Ik ben nog nooit naar Zuid-Amerika geweest.
+I have never been to South America.
+
+indigo: indigo
+Indigo ontleent zijn naam aan de plant genaamd indigo.
+Indigo gets its name from the plant named indigo.
+
+perzik: peach
+Welke kleur meubilair past bij perzikkleurige muren?
+What color furniture goes with peach walls?
+
+donker: dark
+De jongen heeft zwart haar en donkere ogen.
+The boy has black hair and dark eyes.
+
+irritant: annoying
+Het is erg irritant als je steeds gelijk hebt.
+It is very annoying when you are right all the time.
+
+romp: torso
+De romp is het bovenste deel van het lichaam, dat aan de armen, benen en het hoofd vastzit.
+The torso is the upper part of the body, which attaches to the arms, legs, and head.
+
+borst: breast
+Pijn in de borsten kan een symptoom van kanker zijn.
+Breast pain can be a symptom of cancer.
+
+rugzak: backpack
+Je hebt een rugzak nodig voor school.
+You need a backpack for school.
+
+potloodlood: pencil lead
+Potloodlood is niet gemaakt van lood, maar is eigenlijk een koolstofmateriaal dat grafiet wordt genoemd.
+Pencil lead does not come from lead, but it's actually a carbon material called graphite.
+
+lijm: glue
+Doe lijm op het papier.
+Apply glue to the paper.
+
+rekenmachine: calculator
+Ik gebruik altijd een rekenmachine om het uit te rekenen.
+I always use a calculator to do the math.
+
+puntenslijper: pencil sharpener
+Ik heb een puntenslijper.
+I have a pencil sharpener.
+
+breed: wide
+De nieuwe snelweg is zes banen breed.
+The new highway is six lanes wide.
+
+nauw: narrow
+De man wandelt over een nauw pad.
+The man is hiking on a narrow path.
+
+hard: hard
+Een schildpad heeft een hard schild ter bescherming.
+A turtle has a hard shell for protection.
+
+zacht: soft
+Haar nieuwe badhanddoeken waren gemaakt van zacht katoen.
+Her new bath towels were made of soft cotton.
+
+abrikoos: apricot
+Een gedroogde abrikoos is een erg gezonde en handige snack.
+A dried apricot makes a very healthy and convenient snack.
+
+ananas: pineapple
+Ananas is een tropische vrucht met geel vlees en een zoetzure smaak.
+Pineapple is a tropical fruit with yellow meat and a tangy sweet-tart flavor.
+
+meloen: melon
+Er zijn meer dan honderd soorten meloen, maar allemaal zijn ze sappig en goed van smaak.
+There are over one hundred varieties of melon, but all are juicy and good tasting.
+
+vijg: fig
+Eenmaal gedroogd, kunnen vijgen lang meegaan.
+Once they are dried, figs can last a long time.
+
+pruim: plum
+Pruimedanten zijn gedroogde pruimen.
+Prunes are dried plums.
+
+bloemkool: cauliflower
+We eten bloemkool gedoopt in ranchdressing.
+We eat cauliflower dipped in ranch dressing.
+
+kool: cabbage
+Ik heb gisteravond kool gegeten.
+I ate a cabbage last night.
+
+selderie: celery
+Je hebt meer calorieën nodig om selderie te eten dan dat je er mee binnenkrijgt.
+It takes more calories to eat celery than you get by eating it.
+
+aubergine: eggplant
+Aubergines komen in verscheidene kleuren voor, zoals paars, wit en groen.
+Eggplant comes in various colors including purple, white and green.
+
+taugé: bean sprout
+Kan ik een taugé salade krijgen?
+Can I get a bean sprout salad?
+
+ongeluk: accident
+Wat een ongeluk! Ze is er slecht aan toe!
+What an accident! She is in bad shape!
+
+hoopvol: hopeful
+Ik ben hoopvol, maar ik denk niet dat ze komen.
+I don't think they'll come, but l'm hopeful.
+
+diep: deep
+De wond is erg diep.
+The wound is very deep.
+
+ondiep: shallow
+Maak je geen zorgen, het is ondiep water.
+Don't worry-it's shallow water.
+
+rijk: rich
+Zijn vader is een rijke man.
+His father is a rich man.
+
+arm: poor
+Lang geleden waren er veel arme mensen.
+There were many poor people a long time ago.
+
+beeldscherm: monitor
+Ik zou graag een groter beeldscherm willen.
+I'd like to have a bigger monitor.
+
+toetsenbord: keyboard
+Mijn toetsenbord is kapot.
+My keyboard is broken.
+
+koptelefoon: headphones
+Deze koptelefoon is erg duur.
+Those headphones are really expensive.
+
+hikken: hiccup
+Stel je voor dat je begint te hikken en niet kan stoppen.
+Imagine that you begin to hiccup and can't stop.
+
+bosbes: blueberry
+Bosbessen zijn rond.
+Blueberries are round.
+
+pruimedant: prune
+Pruimedanten zijn gedroogde pruimen.
+Prunes are dried plums.
+
+mango: mango
+Er worden meer mango's gegeten dan welk ander fruit ter wereld dan ook.
+More mangoes are eaten than any other fruit in the world.
+
+citroen: lemon
+Ik hou van citroentaart.
+I love lemon pie.
+
+billen: buttocks
+Ze viel achterover en landde hard op haar billen.
+She fell backwards, landing hard on her buttocks.
+
+schouder: shoulder
+Hij brak zijn schouder tijdens het voetballen.
+He broke his shoulder whilst playing football.
+
+spier: muscle
+Je kunt je spieren kweken met gewichtheffen.
+If you lift weights, you can build your muscles.
+
+bot: bone
+röntgenfoto van een bot
+X-ray of a bone
+
+baard: beard
+Deze oude man heeft een lange witte baard.
+This old man has a long white beard.
+
+zoete aardappel: sweet potato
+Zoete aardappel smaakt heerlijk gebakken of gefrituurd.
+The sweet potato is great baked or fried.
+
+paddenstoel: mushroom
+Een paddenstoel is eigenlijk een schimmel.
+A mushroom is actually a fungus.
