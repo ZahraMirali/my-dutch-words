@@ -391,7 +391,7 @@ Zij zijn op zoek naar een goed restaurant. Kan jij ze adviseren? Ja, dat wil ik 
 They are looking for a good restaurant. Can you advise them? Yes, I want to do that. No problem.
 
 fietsen:
-Ik ga vandaag fietsen naar min werk. OK. Maar ik ga vandaag met de auto naar mijn werk. Het regent namelijk.
+Ik ga vandaag fietsen naar mijn werk. OK. Maar ik ga vandaag met de auto naar mijn werk. Het regent namelijk.
 I am going to cycle to work today. OK. But today I go to work by car. It's raining actually.
 
 geven:
@@ -399,7 +399,7 @@ Wat geef jij Ronald voor zin verjaardag? Dat weet ik nog niet. Ik laat het je mo
 What do you give Ronald for his birthday? I do not know yet. I will let you know tomorrow.
 
 zoeken:
-Wat ben jij aan het zoeken? Ik zoek min autosleutels.
+Wat ben jij aan het zoeken? Ik zoek mijn autosleutels.
 What are you looking for? I'm looking for my car keys.
 
 wijzen:
@@ -432,7 +432,7 @@ Ik ga liever lopen dan met de bus. Jij? Ik loop met je mee. OK?
 I'd rather walk than take the bus. You? I walk with you. OK?
 
 staan:
-Voor min werk moet ik de hele dag staan. Wat vervelend. Je kan met mi meerijden als je dat wilt.
+Voor mijn werk moet ik de hele dag staan. Wat vervelend. Je kan met mi meerijden als je dat wilt.
 I have to stand for work all day. How annoying. You can ride with me if you want.
 
 ruiken:
