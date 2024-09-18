@@ -12,6 +12,7 @@ export default function YoutubeQuiz() {
   const [inputIndex, setInputIndex] = useState(questionIndex);
   const [isChecked, setIsChecked] = useState(true);
   const [clickedWords, setClickedWords] = useState([]);
+  const [randomMode, setRandomMode] = useState(false);
 
   useEffect(() => {
     async function initializeState() {
@@ -61,10 +62,12 @@ export default function YoutubeQuiz() {
   };
 
   const handleNextQuestion = () => {
-    const index =
-      inputIndex && parseInt(inputIndex, 10) !== questionIndex
-        ? parseInt(inputIndex, 10)
-        : questionIndex + 1;
+    const index = randomMode
+      ? Math.floor(Math.random() * objectsArray.length)
+      : inputIndex && parseInt(inputIndex, 10) !== questionIndex
+      ? parseInt(inputIndex, 10)
+      : questionIndex + 1;
+
     if (index < objectsArray.length) {
       setSearchParams({ questionIndex: index });
       setInputIndex(index);
@@ -130,12 +133,20 @@ export default function YoutubeQuiz() {
           </div>
 
           <div className="flex justify-between items-center">
-            <input
-              type="checkbox"
-              checked={isChecked}
-              onChange={() => setIsChecked(!isChecked)}
-              className="form-checkbox h-5 w-5 text-blue-500"
-            />
+            <div className="flex gap-1">
+              <input
+                type="checkbox"
+                checked={isChecked}
+                onChange={() => setIsChecked(!isChecked)}
+                className="form-checkbox h-5 w-5"
+              />
+              <input
+                type="checkbox"
+                checked={randomMode}
+                onChange={() => setRandomMode(!randomMode)}
+                className="form-checkbox h-5 w-5 accent-pink-500"
+              />
+            </div>
             <div className="flex gap-4 items-center">
               <input
                 type="number"

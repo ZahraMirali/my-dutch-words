@@ -102,7 +102,7 @@ Ik kan mijn haarborstel niet vinden.
 I can't find my hairbrush.
 
 uitgaan: to go out
-Morgen gaan we uit! 
+Morgen gaan we uit!
 We will go out tomorrow!
 
 Ik ga eruit.
@@ -145,7 +145,7 @@ Ik voel me verlaten.
 I am feeling abandoned / lonely.
 
 bellen: to call
-Kun je mij bellen? 
+Kun je mij bellen?
 Can you call me?
 
 rennen: to run
