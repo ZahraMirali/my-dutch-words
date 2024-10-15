@@ -12,7 +12,7 @@ export default function Xxxx() {
 
   const dates = Array.from({ length: 9 }, (_, i) => {
     const newDate = new Date(startDate);
-    newDate.setDate(newDate.getDate() + 28 * i);
+    newDate.setDate(newDate.getDate() + 26 * i);
     return formatDate(newDate);
   });
 
