@@ -4079,3 +4079,533 @@ The sweet potato is great baked or fried.
 paddenstoel: mushroom
 Een paddenstoel is eigenlijk een schimmel.
 A mushroom is actually a fungus.
+
+#START
+Who are you waiting for?
+Op wie ben je aan het wachten?
+
+Are you waiting for someone?
+Wacht je op iemand?
+
+I'm waiting for a friend.
+Ik wacht op een vriend.
+
+I'm sorry I'm late. How long have you been waiting?
+Sorry dat ik te laat ben. Hoe lang heb je gewacht?
+
+I've been waiting here for fifteen minutes.
+Ik wacht hier al vijftien minuten.
+
+Are you leaving now?
+Ga je nu weg?
+
+I'll wait five more minutes, then I'll leave.
+Ik wacht nog vijf minuten, daarna ga ik weg.
+
+Is there someone waiting for you?
+Wacht er iemand op je?
+
+I have to go. My children are waiting.
+Ik moet gaan. Mijn kinderen wachten.
+
+Welcome to our store!
+Welkom in onze winkel!
+
+How can I help you?
+Hoe kan ik u helpen?
+
+I'm looking for a gift for a friend.
+Ik ben op zoek naar een cadeau voor een vriend.
+
+I need a new dress for a party.
+Ik heb een nieuwe jurk nodig voor een feest.
+
+Is there a sale on this?
+Is deze in de aanbieding?
+
+Do you have this in a different color?
+Heeft u deze in een andere kleur?
+
+I'm just looking around.
+Ik ben alleen aan het kijken.
+
+Can I try it on?
+Mag ik het passen?
+
+Excuse me, where is the fitting room?
+Pardon, waar is het pashokje?
+
+There's a fitting room over there.
+Daar is een pashokje.
+
+What size do you wear?
+Welke maat hebt u?
+
+I wear medium size.
+Mijn maat is medium.
+
+I'm sorry, this doesn't fit me.
+Het spijt me, deze past niet.
+
+Do you like this one?
+Vindt u deze leuk?
+
+I will take this.
+Ik neem deze.
+
+How much does it cost?
+Hoeveel kost deze?
+
+Is that all?
+Is dat alles?
+
+Can I get a bag for this?
+Mag ik hier een tasje bij?
+
+Do you accept credit cards?
+Accepteert u creditcards?
+
+I'd like a receipt, please.
+Ik wil graag het bonnetje, alstublieft.
+
+Do you know him?
+Ken je hem?
+
+Yes, I know him.
+Ja, ik ken hem.
+
+No, I don't know him.
+Nee, ik ken hem niet.
+
+How do you know him?
+Hoe ken je hem?
+
+I know him from school.
+Ik ken hem van school.
+
+She looks very familiar.
+Zij ziet er erg bekend uit.
+
+I don't recognize them.
+Ik herken hun niet.
+
+We know them very well.
+Wij kennen hun erg goed.
+
+Is this your house?
+Is dit jouw huis?
+
+Yes, this is my house.
+Ja, dit is mijn huis.
+
+No, it's my parents' house.
+Nee, dat is mijn ouders huis.
+
+Were you born here?
+Ben je hier geboren?
+
+I was born here.
+Ik ben hier geboren.
+
+I was born in a city far from here.
+Ik ben in een stad ver weg geboren.
+
+Did you grow up here?
+Ben je hier opgegroeid?
+
+I grew up here.
+Ik ben hier opgegroeid.
+
+I moved here when I was three years old.
+Ik ben hiernaartoe verhuisd toen ik drie was.
+
+What do you like to watch on TV?
+Wat kijk je graag op TV?
+
+I like to watch TV shows that are based on true stories.
+Ik kijk graag waargebeurde TV-series.
+
+Do you have any favorite TV shows?
+Heb je favoriete TV-series?
+
+Between you and me
+Tussen jou en mij
+
+Between you and me, I like to watch romantic comedies on TV.
+Tussen jou en mij, ik kijk graag naar romantische comedy’s op TV.
+
+I don't think I've ever seen this show before.
+Ik denk dat ik deze serie nog niet heb gezien.
+
+I'm so excited for the new season of that show!
+Ik kijk heel erg uit naar het volgende seizoen van die serie!
+
+I can't wait until next week's episode!
+Ik kan niet wachten tot de aflevering van volgende week!
+
+I don't have time to watch TV.
+Ik heb geen tijd om TV te kijken.
+
+Do you go to school?
+Ga je naar school?
+
+Yes, I go to school.
+Ja, ik ga naar school.
+
+What grade are you in at school?
+In welke klas zit je?
+
+What subjects do you like the most at school?
+Welke vakken op school vind je het leukst?
+
+I like mathematics and science the most.
+Ik vind wiskunde en natuurkunde het leukst.
+
+What classes do we have today?
+Welke lessen hebben we vandaag?
+
+Today we have biology and chemistry classes.
+Vandaag hebben we biologie en scheikunde.
+
+It smells delicious!
+Het ruikt heerlijk!
+
+What's for dinner?
+Wat eten we?
+
+It's my favorite dish.
+Dit is mijn favoriete gerecht.
+
+My wife is making dinner.
+Mijn vrouw is aan het koken.
+
+She is an amazing cook.
+Ze is een geweldige kok.
+
+Do you like to cook?
+Houd je ervan om te koken?
+
+I like to cook, but I'm not good at it.
+Ik houd ervan om te koken, maar ik ben er niet goed in.
+
+Does it taste good?
+Smaakt het lekker?
+
+It tastes very good.
+Het smaakt erg lekker.
+
+Could I have the recipe?
+Mag ik het recept?
+
+What are you wearing?
+Wat draag je?
+
+I'm wearing jeans and a t-shirt.
+Ik draag een spijkerbroek en een t-shirt.
+
+He's wearing a shirt and a green tie.
+Hij draagt een overhemd en een groene stropdas.
+
+I'm not sure what to wear today.
+Ik weet niet zeker wat ik vandaag ga dragen.
+
+By the way...
+Trouwens...
+
+By the way, what is she wearing?
+Trouwens, wat heeft zij aan?
+
+She's wearing a white dress.
+Zij heeft een witte jurk aan.
+
+I don't have anything to wear!
+Ik heb niets om te dragen!
+
+I wish I could go to the beach.
+Ik wou dat ik naar het strand kon.
+
+He wishes he had studied more for the test.
+Hij wou dat hij meer had gestudeerd voor de test.
+
+I wish you could be here with us.
+Ik wou dat jij hier bij ons kon zijn.
+
+They wish they could afford to travel more.
+Ze wensen dat ze zich meer reizen konden veroorloven.
+
+She wishes she could be more confident in herself.
+Zij wenste dat ze meer zelfvertrouwen zou hebben.
+
+We hope to see you at the party.
+We hopen je op het feest te zien.
+
+He hopes to find a job soon.
+Hij hoopt snel een baan te vinden.
+
+I hope you can forgive me.
+Ik hoop dat je mij kan vergeven.
+
+She hopes to learn a new language.
+Zij hoopt een nieuwe taal te leren.
+
+Do you know how to get to the hairdresser?
+Weet je hoe je bij de kapper komt?
+
+Turn right at the traffic lights.
+Rechtsaf bij de verkeerslichten.
+
+Is it close to the supermarket?
+Is het dichtbij de supermarkt?
+
+It's not far from the nail salon.
+Het is niet ver van de nagelsalon.
+
+Continue straight ahead.
+Blijf rechtdoor lopen.
+
+It's across the street from the police station.
+Het is tegenover het politiebureau.
+
+Is it behind that building?
+Is het achter dat gebouw?
+
+No, it's in front of that building over there.
+Nee, het is voor dat gebouw daar.
+
+The flower shop is opposite the train station.
+De bloemenwinkel is tegenover het treinstation.
+
+It's that way.
+Het is die kant op.
+
+I'm going to check my email.
+Ik ga mijn e-mail checken.
+
+How do I connect to the internet?
+Hoe verbind ik met het internet?
+
+I need to charge my phone.
+Ik moet mijn mobiel opladen.
+
+Is this the right charger for my phone?
+Is dit de juiste oplader voor mijn telefoon?
+
+I'm downloading an app.
+Ik ben een app aan het downloaden.
+
+Can you show me how to use this app?
+Kun je me laten zien hoe je deze app gebruikt?
+
+What is the password?
+Wat is het wachtwoord?
+
+I can't remember my password.
+Ik kan mijn wachtwoord niet herinneren.
+
+I'm going to turn off my phone.
+Ik ga mijn telefoon uitzetten.
+
+I'm going to turn on my computer.
+Ik ga mijn computer aanzetten.
+
+I can't seem to find that website.
+Ik kan die website niet vinden.
+
+I think my computer has a virus.
+Ik denk dat mijn computer een virus heeft.
+
+My computer crashed and I lost everything.
+Mijn computer is gecrasht en ik ben alles kwijt.
+
+Have you tried turning it off and on again?
+Heb je geprobeerd om het opnieuw uit en aan te zetten?
+
+I forgot my phone at home.
+Ik ben mijn telefoon thuis vergeten.
+
+What is your e-mail address?
+Wat is jouw e-mailadres?
+
+My e-mail address is...
+Mijn e-mailadres is...
+
+Please be quiet!
+Wees stil alsjeblieft!
+
+I'm trying to concentrate.
+Ik probeer me te concentreren.
+
+Stop talking!
+Stop met praten!
+
+It's very distracting.
+Het leidt heel erg af.
+
+I'm trying to sleep.
+Ik probeer te slapen.
+
+I need some peace and quiet.
+Ik heb rust en stilte nodig.
+
+We can't concentrate because of the noise.
+We kunnen ons niet concentreren vanwege de herrie.
+
+I tried to be quiet.
+Ik probeerde stil te zijn.
+
+They like silence.
+Zij houden van stilte.
+
+I can hardly hear him.
+Ik kan hem nauwelijks horen.
+
+It's a beautiful day, isn't it?
+Het is een mooie dag, toch?
+
+The birds are chirping.
+De vogels fluiten.
+
+The sun is shining.
+De zon schijnt.
+
+The flowers are blooming.
+De bloemen staan in bloei.
+
+I'm happy.
+Ik ben gelukkig.
+
+Spring is here.
+De lente is hier.
+
+It's my favorite season.
+Het is mijn favoriete seizoen.
+
+In spring, the days get longer.
+In de lente worden de dagen langer.
+
+Winter is finally over.
+De winter is eindelijk voorbij.
+
+Summer is on the way.
+De zomer komt eraan.
+
+Why are you laughing?
+Waarom lach je?
+
+What's so funny?
+Wat is er zo grappig?
+
+I just heard a funny joke.
+Ik hoorde net een leuke grap.
+
+It's funny.
+Dat is grappig.
+
+It's not funny.
+Dat is niet grappig.
+
+At first...
+Eerst...
+
+At first, I thought they were joking.
+Eerst dacht ik dat ze een grapje maakten.
+
+Don't make me laugh.
+Laat me niet lachen.
+
+You're fantastic!
+Je bent fantastisch!
+
+You're very talented!
+Je bent erg getalenteerd!
+
+I like the way you think!
+Ik houd van hoe jij denkt!
+
+You're very thoughtful!
+Je bent erg attent!
+
+That's very kind of you to say.
+Dat is heel lief om te zeggen.
+
+I appreciate your compliment.
+Ik waardeer je compliment.
+
+That means a lot.
+Dat betekent heel veel.
+
+Thank you so much!
+Heel erg bedankt!
+
+He is quite shy.
+Hij is best verlegen.
+
+She has dark, curly hair and green eyes.
+Zij heeft donker krullend haar en groene ogen.
+
+My grandfather is rather short.
+Mijn opa is best klein.
+
+She is strong.
+Zij is sterk.
+
+They are so lazy.
+Zij zijn erg lui.
+
+She seems extremely confident.
+Zij lijkt extreem zelfverzekerd.
+
+Do you think I look like my grandmother?
+Vind je dat ik op mijn oma lijk?
+
+She's a thin woman with blonde hair.
+Zij is een dunne vrouw met blond haar.
+
+Do you have any plans for tomorrow?
+Heb je plannen voor morgen?
+
+Let me see...
+Even kijken...
+
+Let me see... I think I'm free tomorrow.
+Even kijken... Ik denk dat ik morgen vrij ben.
+
+Do you want to do something together?
+Wil je samen iets doen?
+
+Have you got any ideas?
+Heb je ideeën?
+
+How about a bike ride?
+Wat dacht je van een fietstocht?
+
+Let's go on a picnic.
+Laten we gaan picknicken.
+
+Sure, that sounds fun!
+Prima, dat klinkt leuk!
+
+Can you help me?
+Kan je mij helpen?
+
+I don't know what to do.
+Ik weet niet wat ik moet doen.
+
+I need help.
+Ik heb hulp nodig.
+
+Can you give me some advice?
+Kan je mij wat advies geven?
+
+I'm struggling with this.
+Ik heb hier moeite mee.
+
+I can help you.
+Ik kan je helpen.
+
+That being said,
+Dat gezegd hebbende,
+
+#END
+That being said, I'm not sure if I can help you.
+Dat gezegd hebbende, weet ik niet zeker of ik je kan helpen.
