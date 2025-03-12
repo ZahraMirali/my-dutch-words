@@ -4081,6 +4081,483 @@ Een paddenstoel is eigenlijk een schimmel.
 A mushroom is actually a fungus.
 
 #START
+Heb je al lunch gegeten?
+Have you eaten lunch yet?
+
+Nee, ik heb nog niet gegeten.
+No, I haven't eaten yet.
+
+Ik heb een uur geleden lunch gegeten.
+I ate lunch an hour ago.
+
+Wat heb je gegeten?
+What did you eat?
+
+Ik heb vis gegeten.
+I ate fish.
+
+Eet je elke dag ontbijt?
+Do you eat breakfast every day?
+
+Ja, ik eet elke dag ontbijt.
+Yes, I eat breakfast every day.
+
+Ik heb honger.
+I'm hungry.
+
+Ik heb dorst.
+I'm thirsty.
+
+Wat denk je?
+What do you think?
+
+Je hebt gelijk.
+You are right.
+
+Je hebt het fout.
+You are wrong.
+
+Wat is jouw mening?
+What's your opinion?
+
+Het is waar.
+It's true.
+
+Het is niet waar.
+It's not true.
+
+Ik weet het.
+I know.
+
+Ik weet het niet.
+I don't know.
+
+Jammer genoeg
+Unfortunately
+
+Jammer genoeg weet ik het niet.
+Unfortunately, I don't know.
+
+Hoe laat begin je met werken?
+What time do you start work?
+
+Ik begin met werken om negen uur.
+I start work at nine o'clock.
+
+Hoe laat ben je klaar met werken?
+What time do you finish work?
+
+Ik ben om vijf uur klaar met werken.
+I finish work at five o'clock.
+
+Ze werkt tot vier uur.
+She works until four o'clock.
+
+Hij werkt zes dagen per week.
+He works for six days a week.
+
+Ze houdt van haar baan.
+She likes her job.
+
+Ik haat mijn baan.
+I hate my job.
+
+Ik wil een nieuwe baan vinden.
+I want to find a new job.
+
+Waar wil je heen gaan op vakantie?
+Where do you want to go on vacation?
+
+Dit jaar wil ik naar India.
+This year I want to visit India.
+
+Ben je vorig jaar naar Egypte geweest?
+Did you go to Egypt last year?
+
+Ik ben een week geweest.
+I went for one week.
+
+Ik heb vorige week Rome bezocht.
+I visited Rome last week.
+
+Hoe lang ging je?
+How long did you go for?
+
+Ik ben in de zomer drie weken in New York geweest.
+I spent three weeks in New York in the summer.
+
+Ik heb een vakantie nodig.
+I need a vacation.
+
+Word je vroeg wakker?
+Do you wake up early?
+
+Ik word om zes uur wakker.
+I wake up at six o'clock.
+
+Ik sta om zeven uur op.
+I get up at seven o'clock.
+
+Ik drink altijd sap als ontbijt.
+For breakfast, I always drink juice.
+
+Na het ontbijt ga ik naar werk.
+After breakfast, I go to work.
+
+Ik verlaat mijn huis om acht uur.
+I leave my house at eight o'clock.
+
+Ik kom om half tien aan op werk.
+I arrive at work at half-past nine.
+
+Soms kom ik te laat op werk.
+Sometimes I am late to work.
+
+Ik eet altijd lunch om twaalf uur.
+I always eat lunch at twelve o'clock.
+
+Ik eet vaak vis als lunch.
+I often eat fish for lunch.
+
+Ik ga terug naar huis om kwart over zes.
+I return home at quarter past six.
+
+Wanneer ga je naar bed?
+When do you go to bed?
+
+Ik ga naar bed om 11 uur 's avonds.
+I go to bed at 11 o'clock at night.
+
+Ik sta nooit vroeg op in de ochtend.
+I never get up early in the morning.
+
+Zij staan vroeg op in de ochtend.
+They get up early in the morning.
+
+Waar werk je?
+Where do you work?
+
+Ik werk in het centrum van de stad.
+I work in the center of the city.
+
+Ik werk in een kantoor.
+I work in an office.
+
+Ik werk vanuit huis.
+I work from home.
+
+Rijd je naar werk?
+Do you drive to work?
+
+Ik ga naar werk met de auto.
+I go to work by car.
+
+Ik ga naar werk met de bus.
+I go to work by bus.
+
+Ik loop naar werk.
+I walk to work.
+
+Waar heb je zin in?
+What do you feel like doing?
+
+Ik heb zin om een bad te nemen.
+I feel like taking a bath.
+
+Ik heb zin om vanavond uit te gaan.
+I feel like going out tonight.
+
+Trouwens
+Anyway
+
+Trouwens, ik heb zin om het nu te doen.
+Anyway, I feel like doing it now.
+
+Ik heb geen zin om naar huis te gaan.
+I don't feel like going home.
+
+Ik had vanmorgen zin om te wandelen.
+I felt like taking a walk this morning.
+
+Hij heeft zin om wat te eten.
+He feels like eating something.
+
+Wat heb je nodig?
+What do you need?
+
+Ik heb een taxi nodig.
+I need a taxi.
+
+Heb je iets nodig?
+Do you need anything?
+
+Nee, ik heb niets nodig.
+No, I don't need anything.
+
+Ik heb wat tijd nodig om na te denken.
+I need some time to think.
+
+Hij heeft hulp nodig.
+He needs help.
+
+Ze hebben bloemen nodig voor een bruiloft.
+They need flowers for a wedding.
+
+Ik had dit nodig.
+I needed this.
+
+Voor zover als ik weet
+As far as I know
+
+Voor zover als ik weet, heeft hij geen hulp nodig.
+As far as I know, he doesn't need any help.
+
+Wat ben je van plan te gaan doen?
+What are you planning to do?
+
+Ik ben van plan te gaan vissen.
+I'm planning to go fishing.
+
+Ik ben van plan te gaan studeren.
+I'm planning to study.
+
+Hij is van plan om terug naar huis te gaan.
+He is planning to return home.
+
+In feite
+As a matter of fact
+
+In feite ben ik van plan om met hem mee te gaan.
+As a matter of fact, I'm planning to go with him.
+
+Ik ben niets van plan.
+I'm not planning to do anything.
+
+Om eerlijk te zijn
+To tell the truth
+
+Om eerlijk te zijn, was ik toch al van plan om het te doen.
+To tell the truth, I was planning to do it anyway.
+
+Sorry dat ik je lastigval, maar ...
+I'm sorry to bother you, but...
+
+… dat is mijn zitplaats.
+... that is my seat.
+
+… weet jij wanneer de trein vertrekt?
+...do you know when the train is leaving?
+
+… zou je mij kunnen helpen om een dokter te vinden?
+... could you help me find a doctor?
+
+… weet jij wanneer de winkel opengaat?
+... do you know when the shop is opening?
+
+Geen probleem.
+It's no bother.
+
+Waar ben je bang voor?
+What are you scared of?
+
+Ik ben bang voor het donker.
+I'm scared of the dark.
+
+Eerlijk gezegd
+Frankly speaking
+
+Eerlijk gezegd, ben ik bang voor vliegen.
+Frankly speaking, I'm scared of flying.
+
+Zoals je al weet
+As you already know
+
+Zoals je al weet, is zij bang voor spinnen.
+As you already know, she is scared of spiders.
+
+Ik ben niet bang voor vliegen.
+I'm not scared of flying.
+
+Zij zijn bang voor clowns.
+They are scared of clowns.
+
+Ik was bang om hem de waarheid te vertellen.
+I was scared of telling him the truth.
+
+Waar denk je aan?
+What are you thinking about?
+
+Ik denk na over wat ik nu ga doen.
+I am thinking about what to do next.
+
+Ik denk er niet over na.
+I'm not thinking about it.
+
+Ik denk aan mijn familie.
+I am thinking about my family.
+
+Ik denk aan haar.
+I am thinking about her.
+
+Hij denkt eraan om terug naar Mexico te gaan.
+He is thinking about going back to Mexico.
+
+Wij denken aan onze kinnderen.
+We are thinking about our children.
+
+Hoe was het feest?
+How was the party?
+
+Het feest was geweldig.
+The party was great.
+
+We hadden het allemaal leuk.
+We all had a good time.
+
+Het was saai.
+It was boring.
+
+Ik ging vroeg weg.
+I left early.
+
+Ik ben lang gebleven.
+I stayed for a long time.
+
+We hebben veel uren gedanst.
+We danced for many hours.
+
+We zouden dit nog een keer moeten doen.
+We should do this again sometime.
+
+Wat is er aan de hand?
+What's the matter?
+
+Ik voel me ziek.
+I feel ill.
+
+Ik heb hoofdpijn.
+I've got a headache.
+
+Mijn ogen doen pijn.
+My eyes hurt.
+
+Ik heb een verkoudheid.
+I've got a cold.
+
+Hij ziet er moe uit.
+He looks tired.
+
+Hoe gaat het vandaag met hem?
+How is he today?
+
+Het gaat niet goed met hem.
+He is not well.
+
+Wat heb je vannacht gedaan?
+What did you do last night?
+
+Niets. Ik ben thuis gebleven.
+Nothing. I stayed at home.
+
+Ik ben thuis gebleven en heb televisie gekeken.
+I stayed at home and watched television.
+
+Ik ben thuis gebleven met mijn familie.
+I stayed at home with my family.
+
+Ik ben met vrienden op stap geweest.
+I went out with friends.
+
+Ik heb mijn grootouders bezocht.
+I visited my grandparents.
+
+Ik heb een hele interessante documentaire gekeken.
+I watched a very interesting documentary.
+
+Tot ziens!
+Goodbye!
+
+Doei!
+Bye!
+
+Zie je later!
+See you later!
+
+Fijne dag!
+Have a nice day!
+
+Zie je morgen!
+See you tomorrow!
+
+Hou je taai!
+Take care!
+
+Leuk om je te ontmoeten!
+Nice to meet you!
+
+Hoe is zij?
+What is she like?
+
+Zij is aardig en vriendelijk.
+She is nice and friendly.
+
+Hoe ziet hij eruit?
+What does he look like?
+
+Hij is best lang.
+He is quite tall.
+
+Hij heeft bruin haar en blauwe ogen.
+He has got brown hair and blue eyes.
+
+Lijkt hij op zijn moeder of zijn vader?
+Does he look like his mother or his father?
+
+Hij lijkt op zijn vader.
+He looks like his father.
+
+Heb je een huisdier?
+Do you have a pet?
+
+Ik heb een hond.
+I have a dog.
+
+Ik heb een kat.
+I have a cat.
+
+Ik heb twee katten en een hond.
+I have two cats and a dog.
+
+Kan je piano spelen?
+Can you play the piano?
+
+Nee, ik kan geen piano spelen.
+No, I can't play the piano.
+
+Ik kan gitaar spelen.
+I can play the guitar.
+
+Hoe laat is het?
+What time is it?
+
+Weet jij hoe laat het is?
+Do you know what time it is?
+
+Het is kwart voor twee.
+It's a quarter to two.
+
+Hoe laat begint het concert?
+What time does the concert start?
+
+Het begint om negen uur.
+It starts at nine o'clock.
+
+Laten we er vroeg heen gaan.
+Let's get there early.
+
+Laten we om kwart over zeven in het park afspreken.
+Let's meet at the park at quarter past seven.
+
 Op wie ben je aan het wachten?
 Who are you waiting for?
 
