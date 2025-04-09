@@ -9576,3 +9576,674 @@ yourselves (plural)
 
 zij / ze ⇒ zich
 themselves
+
+ik ⇒ mijn
+my
+
+jij / je ⇒ jouw / je
+your (singular)
+
+u ⇒ uw
+your (formal)
+
+hij ⇒ zijn
+his / its
+
+zij / ze ⇒ haar
+her
+
+het ⇒ zijn
+its
+
+wij / we ⇒ ons / onze
+our
+
+jullie ⇒ jullie / je
+your (plural)
+
+zij / ze ⇒ hun
+their
+
+Dat is ons huis.
+That is our house.
+
+Dit zijn onze boeken.
+These are our books.
+
+Dit is onze poes.
+This is our cat.
+
+Dit zijn onze poezen.
+These are our cats.
+
+Heeft u een pen? Die van mij ligt thuis.
+Do you have a pen? Mine’s at home.
+
+Heeft u een pen? De mijne ligt thuis.
+Do you have a pen? Mine is at home.
+
+Mijn huis is klein: dat van hem is erg groot.
+My house is small: his is very large.
+
+Mijn huis is klein: het zijne is erg groot.
+My house is small: his is very large.
+
+Die pen is van mij.
+That pen is mine.
+
+De auto staat voor het huis.
+The car is in front of the house.
+
+Het boek staat in de boekenkast.
+The book is in the bookcase.
+
+De krant ligt op tafel.
+The newspaper is on the table.
+
+De pen ligt op de grond.
+The pen is on the floor.
+
+De pen zit in de tas.
+The pen is in the bag.
+
+al
+already
+
+de broer
+brother
+
+de dochter
+daughter
+
+dragen
+carry
+
+geloven
+believe, think
+
+haast hebben
+be in a hurry
+
+de ingang
+entrance
+
+de kaart
+ticket
+
+klaar
+ready
+
+de koffer
+suitcase
+
+de krant
+newspaper
+
+het kwartier
+quarter, quarter of an hour
+
+het loket
+ticket office, ticket window
+
+de man
+man, husband
+
+nodig hebben
+need
+
+over
+over, above, in
+
+het pakje
+packet, package
+
+het perron
+platform
+
+het retourtje
+return ticket
+
+de sigaret
+cigarette
+
+het spoor
+track
+
+spoor vijf
+platform five
+
+de tas
+bag
+
+vaak
+often
+
+vergeten
+forget
+
+vertrekken
+depart
+
+volgens
+according to
+
+de vriend
+friend, boyfriend
+
+de vrouw
+woman, wife
+
+de wc
+lavatory, loo, etc
+
+zoeken
+look for
+
+de zoon
+son
+
+zwaar
+heavy
+
+Deze auto is van ons. → Deze auto is de onze.
+This car is ours.
+
+Deze boeken zijn van hen. → Deze boeken zijn de hunne.
+These books are theirs.
+
+Dit stuk taart is van haar. → Dit stuk taart is het hare.
+This piece of cake is hers.
+
+Die fietsen zijn van ons. → Die fietsen zijn de onze.
+Those bikes are ours.
+
+Dit kopje thee is van jou. → Dit kopje thee is het jouwe.
+This cup of tea is yours.
+
+Deze krant is van mij. → Deze krant is het mijne.
+This newspaper is mine.
+
+Die paraplu is van u. → Die paraplu is het uwe.
+That umbrella is yours.
+
+Dat geld is van hem. → Dat geld is het zijne.
+That money is his.
+
+---
+
+Kent u mijn man?  
+Do you know my husband?
+
+---
+
+Zijn vrouw is erg aardig.  
+His wife is very kind.
+
+---
+
+Uw krant ligt op tafel.  
+Your newspaper is on the table.
+
+---
+
+Heb jij je mobieltje bij je?  
+Do you have your mobile (phone) with you?
+
+---
+
+Haar schoenen liggen op de grond.  
+Her shoes are on the ground.
+
+---
+
+Onze koffers staan daar op het perron.  
+Our suitcases are there on the platform.
+
+---
+
+Ik vind hun tuin erg mooi.  
+I find their garden very beautiful.
+
+---
+
+Waar staat jullie auto?  
+Where is your car parked?
+
+---
+
+Ik ben met mijn moeders auto vanavond.  
+I am with my mother's car tonight.
+
+---
+
+Haar broers vriendin komt uit Utrecht.  
+Her brother’s girlfriend comes from Utrecht.
+
+---
+
+De poes van de buren speelt in onze tuin.  
+The neighbours' cat is playing in our garden.
+
+---
+
+Hij heeft de fiets van zijn zus.  
+He has his sister's bike.
+
+---
+
+Zij hebben geld nodig.  
+They need money.
+
+---
+
+Heeft u een pen nodig? Neemt u die van mij.  
+Do you need a pen? Take mine.
+
+---
+
+Dat boek van jou ligt op de stoel.  
+That book of yours is on the chair.
+
+---
+
+Ik zoek een tas. Waar is die van jullie?  
+I’m looking for a bag. Where is yours?
+
+---
+
+Hier zijn jouw pakjes.  
+Here are your (singular) packages.
+
+---
+
+Mijn koffer is daar.  
+My case is over there.
+
+---
+
+Kennen jullie hun dochter?  
+Do you (plural) know their daughter?
+
+---
+
+Zijn die kinderen van haar?  
+Are those children hers?
+
+---
+
+Ons huis is veel te groot voor ons.  
+Our house is much too big for us.
+
+---
+
+We hebben uw treinkaartjes. Wie heeft de onze?  
+We’ve got your (formal) train tickets. Who has ours?
+
+---
+
+Zijn vrouw is erg aardig. Ken jij haar?  
+His wife is very kind. Do you (singular) know her?
+
+---
+
+Is dit boek van jou? Ja, het is mijn boek.  
+Is this book yours? Yes, it is my book.
+
+---
+
+Is deze pen van mij? Ja, het is jouw pen.  
+Is this pen mine? Yes, it is your pen.
+
+---
+
+Is deze paraplu van hen? Ja, het is hun paraplu.  
+Is this umbrella theirs? Yes, it is their umbrella.
+
+---
+
+Zijn deze koffers van ons? Ja, het zijn jullie koffers.  
+Are these suitcases ours? Yes, they are your (plural) suitcases.
+
+---
+
+Is deze tas van haar? Ja, het is haar tas.  
+Is this bag hers? Yes, it is her bag.
+
+---
+
+Zijn deze kranten van hem? Ja, het zijn zijn kranten.  
+Are these newspapers his? Yes, they are his newspapers.
+
+---
+
+Is dit pakje sigaretten van ons? Ja, het is jullie pakje sigaretten.  
+Is this packet of cigarettes ours? Yes, it is your (plural) packet of cigarettes.
+
+---
+
+Ik heb een pen nodig. Neem die van mij.  
+I need a pen. Take mine.
+
+---
+
+Ik heb geld nodig. Neem dat van mij.  
+I need money. Take mine.
+
+---
+
+Wij hebben een paraplu nodig. Neem die van mij.  
+We need an umbrella. Take mine.
+
+---
+
+Wij hebben kaarten nodig. Neem die van mij.  
+We need tickets. Take mine.
+
+---
+
+Ik heb een glas nodig. Neem dat van mij.  
+I need a glass. Take mine.
+
+---
+
+Wij hebben twee koffers nodig. Neem die van mij.  
+We need two suitcases. Take mine.
+
+---
+
+Ik heb een tas nodig. Neem die van mij.  
+I need a bag. Take mine.
+
+---
+
+Ik heb de treinkaarten.  
+I’ve got the train tickets.  
+
+---
+
+Twee retourtjes naar den Haag.  
+Two returns to The Hague.  
+
+---
+
+Volgens de man achter het loket vertrekt de trein over een kwartier van spoor vijf.  
+According to the man behind the ticket window, the train leaves in a quarter of an hour from platform 5.  
+
+---
+
+Goed zo. Ik ga even naar de wc.  
+Right. I’m just going to the loo.  
+
+---
+
+Weet jij waar die is?  
+Do you know where it is?  
+
+---
+
+Ja. Daar bij de ingang.  
+Yes. Over there by the entrance.  
+
+---
+
+Ik blijf hier bij de koffers.  
+I’m staying here with the cases.  
+
+---
+
+Ik ben zo terug.  
+I won’t be a minute.  
+
+---
+
+Klaar?  
+Ready?  
+
+---
+
+Ik koop eerst even een krant.  
+I’m just going to buy a newspaper first.  
+
+---
+
+Waarom lees je die van mij niet?  
+Why don’t you read mine?  
+
+---
+
+Ik heb ook een boek bij me.  
+I’ve got a book with me too.  
+
+---
+
+Ja, goed. Maar ik heb een pakje sigaretten nodig.  
+All right. But I need a packet of cigarettes.  
+
+---
+
+Heb je nu alles?  
+Have you got everything now?  
+
+---
+
+Gaan we naar het perron?  
+Shall we go to the platform?  
+
+---
+
+Is deze koffer van mij of van jou?  
+Is this case mine or yours?  
+
+---
+
+Hij is erg zwaar.  
+It’s very heavy.  
+
+---
+
+Die is van jou, geloof ik.  
+It’s yours, I think.  
+
+---
+
+Neem jij hem en schiet op!  
+You take it, and get a move on.  
+
+---
+
+We hebben haast.  
+We’re in a hurry.  
+
+---
+
+Vergeet je tas niet!  
+Don’t forget your bag!  
+
+---
+
+O, wat is deze zwaar.  
+Oh, this one’s so heavy.  
+
+---
+
+Daar heb je spoor vijf en daar staat onze trein.  
+There’s platform 5 and there’s our train.  
+
+---
+
+Waarom haast je je niet?  
+Why don’t you hurry?  
+
+---
+
+Draag jij dan deze koffer.  
+You carry this case, then.  
+
+---
+
+Ik stop even.  
+I’m stopping for a minute.  
+
+---
+
+Geef hem aan mij en neem de mijne.  
+Give it to me and take mine.  
+
+---
+
+Ik zie de trein niet.  
+I can’t see the train.  
+
+---
+
+Hij is er toch nog niet.  
+It isn’t there yet after all.  
+
+---
+
+Hij is al weg! Idioot!  
+It’s gone, you idiot!  
+
+---
+
+Wij hehhen gisteren veel foto's gemaakt.
+We took a lot of photographs yesterday.
+
+hopen → gehoopt
+hope → hoped
+
+praten → gepraat
+talk → talked
+
+koken → gekookt
+cook → cooked
+
+missen → gemist
+miss → missed
+
+blaffen → geblaft
+bark → barked
+
+kuchen → gekucht
+cough → coughed
+
+bouwen → gebouwd
+build → built
+
+horen → gehoord
+hear → heard
+
+bellen → gebeld
+ring → rang
+
+branden → gebrand
+burn → burned
+
+bedoelen → bedoeld
+mean → meant
+
+bepraten → bepraat
+discuss → discussed
+
+geloven → geloofd
+believe → believed
+
+verbranden → verbrand
+burn → burned
+
+verhuizen → verhuisd
+move house → moved house
+
+beginnen
+begin
+
+binnenkort
+soon
+
+daarna
+afterwards
+
+de doos
+box
+
+het eind
+end
+
+gisteren
+yesterday
+
+hard
+hard, fast, loud
+
+heel / hele
+whole
+
+de hond
+dog
+
+het huiswerk
+homework
+
+iets
+something, anything
+
+de juf
+teacher
+
+kloppen
+knock; be right, be correct
+
+de les
+lesson
+
+oma
+grandma
+
+ontmoeten
+meet
+
+opa
+grandpa
+
+over
+about (after verbs like praten)
+
+het park
+park
+
+de rekenles
+arithmetic lesson
+
+de school
+school
+
+op school
+at school
+
+de stapel
+pile
+
+het station
+station
+
+op het station
+at the station
+
+uitstekend
+excellent
+
+vertellen
+say, tell
+
+vragen
+ask
+
+werken
+work
+
+zeggen
+say
+
+zelf
+myself, yourself, etc (when verb not reflexive)
+
