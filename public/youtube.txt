@@ -5370,52 +5370,32 @@ That dress is very short. This one is short too.
 Mensjes kijken  
 People-watching  
 
----
-
 Zie je die twee vrouwen daar?  
 Do you see those two women over there?  
-
----
 
 Bedoel je die met de jurk en die met het haar?  
 Do you mean the one with the dress and the one with the hair?  
 
----
-
 Ja. Dat haar is veel te kort. Ze is bijna kaal.  
 Yes. That hair is much too short. She’s almost bald.  
-
----
 
 Wel nee! Nou … Maar zie je die met de jurk!  
 No it isn’t. Well … But do you see the one with the dress!  
 
----
-
 Die is wel een beetje dik maar het haar is tenminste normaal.  
 She’s a bit fat, but at least her hair’s normal.  
-
----
 
 De jurk is te kort.  
 That dress is too short.  
 
----
-
 Nou, de jurk is niet zo slecht – zie je die schoenen?  
 Mm, the dress isn’t so bad – do you see those shoes?  
-
----
 
 Die zijn wel erg versleten. Het is geen gezicht!  
 They’re very down at heel. Not a pretty sight!  
 
----
-
 Bedoel je die met de jurk of die met het haar?  
 Do you mean the one with the dress or the one with the hair?  
-
----
 
 Allebei eigenlijk. Wat jammer! Ze zijn weg!  
 Both, really. What a pity! They’ve gone.
@@ -5438,87 +5418,53 @@ Are you really going to wear that? No! That was a joke.
 wolf, wolven  
 Wolf, wolves  
 
----
-
 het bed, bedden  
 Bed, beds  
-
----
 
 de dag, dagen  
 Day, days  
 
----
-
 het dak, daken  
 Roof, roofs  
-
----
 
 het glas, glazen  
 Glass, glasses  
 
----
-
 het schip, schepen  
 Ship, ships  
-
----
 
 de stad, steden  
 Town, towns  
 
----
-
 de weg, wegen  
 Road, roads  
-
----
 
 de tafel, tafels  
 Table, tables  
 
----
-
 de bezem, bezems  
 Broom, brooms  
-
----
 
 het laken, lakens  
 Sheet, sheets  
 
----
-
 de vader, vaders  
 Father, fathers  
-
----
 
 het meisje, meisjes  
 Girl, girls  
 
----
-
 de foto, foto's  
 Photograph, photographs  
-
----
 
 de paraplu, paraplu's  
 Umbrella, umbrellas  
 
----
-
 de tante, tantes  
 Aunt, aunts  
 
----
-
 de ambitie, ambities  
 Ambition, ambitions  
-
----
 
 het perron, perrons  
 Platform, platforms  
@@ -5526,27 +5472,17 @@ Platform, platforms
 het blad, bladeren  
 Leaf, leaves  
 
----
-
 het ei, eieren  
 Egg, eggs  
-
----
 
 het kind, kinderen  
 Child, children  
 
----
-
 het lied, liederen  
 Song, songs  
 
----
-
 het volk, volkeren, volken  
 Nation, nations, people  
-
----
 
 het been, beenderen  
 Bone, bones
@@ -5554,67 +5490,41 @@ Bone, bones
 boer — boerin  
 Farmer - farmer’s wife  
 
----
-
 leeuw — leeuwin  
 Lion - lioness  
-
----
 
 Rus — Russin  
 Russian man - Russian woman  
 
----
-
 koning — koningin  
 King - queen  
-
----
 
 leraar — lerares  
 Male teacher - female teacher  
 
----
-
 prins — prinses  
 Prince - princess  
-
----
 
 secret'aris — secretar'esse  
 Male secretary - female secretary  
 
----
-
 bibliothek'aris — bibliotheekar'esse  
 Male librarian - female librarian  
-
----
 
 stud'ent — stud'ente  
 Male student - female student  
 
----
-
 telefon'ist — telefon'iste  
 Male telephonist - female telephonist  
-
----
 
 Engels — Engelse  
 English - English woman  
 
----
-
 Nederlands — Nederlandse  
 Dutch - Dutch woman  
 
----
-
 schrijf — Schrijver — schrijfster  
 Write - author - authoress  
-
----
 
 verpleeg — verpleger — verpleegster  
 Nurse - male nurse - female nurse  
@@ -5697,3615 +5607,2191 @@ How do I know?
 Denk je dat hij boos op mij is? Wel nee! Hij is gewoon moe.  
 Do you think he is angry with me? Oh no! He’s just tired.  
 
----
-
 Ga je verhuizen naar België? Wel nee! Waar heb je dat gehoord?  
 Are you moving to Belgium? Oh no! Where did you hear that?  
-
----
 
 Was de toets moeilijk? Wel nee! Het was juist heel makkelijk.  
 Was the test difficult? Oh no! It was actually very easy.  
 
----
-
 Ik heb twee pennen.  
 I have two pens.  
-
----
 
 De boer heeft veel penen.  
 The farmer has many carrots.  
 
----
-
 Wolven en leeuwen zijn dieren.  
 Wolves and lions are animals.  
-
----
 
 Huizen hebben daken.  
 Houses have roofs.  
 
----
-
 De steden hebben veel wegen en straten.  
 The cities have many roads and streets.  
-
----
 
 De vrouwen hebben heel veel boeken.  
 The women have a lot of books.  
 
----
-
 Studenten hebben altijd veel boeken.  
 Students always have many books.  
-
----
 
 Biografieën zijn niet altijd saai.  
 Biographies are not always boring.  
 
----
-
 Dit zijn de jongens en meisjes van de buurvrouw.  
 These are the boys and girls of the neighbour (woman).  
-
----
 
 Zij heeft twee tantes en twee ooms.  
 She has two aunts and two uncles.  
 
----
-
 Deze foto’s zijn erg goed.  
 These photos are very good.  
-
----
 
 De vaders en de moeders van die kinderen hebben allebei veel ambities.  
 The fathers and the mothers of those children both have many ambitions.  
 
----
-
 Die liederen zijn erg mooi.  
 Those songs are very beautiful.  
-
----
 
 Deze paraplu’s zijn groot.  
 These umbrellas are big.  
 
----
-
 De stad heeft veel trams.  
 The city has many trams.  
-
----
 
 De tafels zijn nieuw.  
 The tables are new.  
 
----
-
 De bibliothecaresse heeft veel romans.  
 The female librarian has many novels.  
-
----
 
 De schrijfster heeft twee huizen.  
 The authoress has two houses.  
 
----
-
 De lerares is erg aardig.  
 The (female) teacher is very kind.  
-
----
 
 Dit is mijn secretaresse.  
 This is my secretary.  
 
----
-
 De vader van de studente heeft een boot.  
 The father of the (female) student has a boat.  
-
----
 
 De boerinnen zijn vriendelijk.  
 The female farmers are friendly.  
 
----
-
 Zijn prinsessen altijd mooi?  
 Are princesses always beautiful?  
-
----
 
 De Engelse is ziek: zij heeft koorts.  
 The Englishwoman is ill: she has a fever.  
 
----
-
 Deze peren zijn duur.  
 These pears are expensive.  
-
----
 
 Ik heb twee jurken.  
 I have two dresses.  
 
----
-
 Zijn die romans saai?  
 Are those novels dull?  
-
----
 
 De schrijfster heeft veel boeken.  
 The authoress has a lot of books.  
 
----
-
 Biografieën zijn moeilijk.  
 Biographies are difficult.  
-
----
 
 De Nederlandse heeft twee kinderen.  
 The Dutch woman has two children.  
 
----
-
 Verpleegsters zijn altijd vriendelijk.  
 Nurses are always kind.  
-
----
 
 De foto’s van de leeuwin zijn erg goed.  
 The photographs of the lioness are very good.  
 
----
-
 De jongens en meisjes zijn in de tuin.  
 The boys and girls are in the garden.  
-
----
 
 Zijn de wegen hier goed?  
 Are the roads good here?  
 
----
-
 Zie jij die rokken in de etalage?  
 Do you (singular) see those skirts in the shop window?  
-
----
 
 Ik heb een boek over schepen en boten.  
 I have a book about ships and boats.  
 
----
-
 Is de lerares erg moe?  
 Is the teacher (f) very tired?  
-
----
 
 Tantes en ooms zijn aardig.  
 Aunts and uncles are nice.  
 
----
-
 Heeft de prins een secretaris?  
 Does the prince have a secretary (m)?  
-
----
 
 Dit boek is saai. Deze boeken zijn ook saai.  
 This book is boring. These books are also boring.  
 
----
-
 Deze roman is slecht. Deze romans zijn ook slecht.  
 This novel is bad. These novels are also bad.  
-
----
 
 Deze weg is nieuw. Deze wegen zijn ook nieuw.  
 This road is new. These roads are also new.  
 
----
-
 Dit kind is aardig. Deze kinderen zijn ook aardig.  
 This child is kind. These children are also kind.  
-
----
 
 Deze etalage is groot. Deze etalages zijn ook groot.  
 This shop window is big. These shop windows are also big.  
 
----
-
 Dit huis is klein. Deze huizen zijn ook klein.  
 This house is small. These houses are also small.  
-
----
 
 zijn – to be  
 Ik ben thuis.  
 I am at home.  
 
----
-
 Zij is dokter.  
 She is a doctor.  
-
----
 
 hebben – to have  
 Wij hebben een auto.  
 We have a car.  
 
----
-
 Heb jij een pen?  
 Do you have a pen?  
-
----
 
 moeten – must / have to  
 Ik moet werken.  
 I have to work.  
 
----
-
 Jij moet naar school.  
 You must go to school.  
-
----
 
 kunnen – can / be able to  
 Ik kan goed zwemmen.  
 I can swim well.  
 
----
-
 Kun jij dit lezen?  
 Can you read this?  
-
----
 
 gaan – to go  
 Wij gaan naar huis.  
 We are going home.  
 
----
-
 Gaan jullie morgen mee?  
 Are you coming along tomorrow?  
-
----
 
 doen – to do  
 Wat doe je?  
 What are you doing?  
 
----
-
 Ik doe mijn huiswerk.  
 I am doing my homework.  
-
----
 
 weten – to know  
 Ik weet het niet.  
 I don’t know.  
 
----
-
 Hij weet mijn naam.  
 He knows my name.  
-
----
 
 worden – to become  
 Het wordt donker.  
 It is getting dark.  
 
----
-
 Zij wil dokter worden.  
 She wants to become a doctor.  
-
----
 
 zeggen – to say  
 Wat zeg je?  
 What are you saying?  
 
----
-
 Hij zegt niets.  
 He says nothing.  
-
----
 
 willen – to want  
 Ik wil koffie.  
 I want coffee.  
 
----
-
 Wil jij ook iets?  
 Do you also want something?  
-
----
 
 zullen – shall / will  
 Zullen we naar het park gaan?  
 Shall we go to the park?  
 
----
-
 Ik zal je morgen bellen.  
 I will call you tomorrow.  
-
----
 
 komen – to come  
 Hij komt uit België.  
 He comes from Belgium.  
 
----
-
 Kom je ook naar het feest?  
 Are you also coming to the party?  
-
----
 
 zitten – to sit  
 Ik zit op een stoel.  
 I am sitting on a chair.  
 
----
-
 Zij zitten in de klas.  
 They are sitting in the class.  
-
----
 
 maken – to make  
 Ik maak een tekening.  
 I am making a drawing.  
 
----
-
 Wat maak jij?  
 What are you making?  
-
----
 
 staan – to stand / to be (positioned)  
 De auto staat voor de deur.  
 The car is in front of the door.  
 
----
-
 Ik sta in de rij.  
 I am standing in the queue.  
-
----
 
 zien – to see  
 Ik zie een vogel.  
 I see a bird.  
 
----
-
 Zie jij de man daar?  
 Do you see the man there?  
-
----
 
 kijken – to look / to watch  
 Wij kijken naar een film.  
 We are watching a movie.  
 
----
-
 Kijk je graag tv?  
 Do you like watching TV?  
-
----
 
 mogen – may / to be allowed  
 Mag ik hier zitten?  
 May I sit here?  
 
----
-
 Jij mag niet roken.  
 You are not allowed to smoke.  
-
----
 
 laten – to let / to leave  
 Laat mij met rust.  
 Leave me alone.  
 
----
-
 Ik laat het boek op tafel.  
 I leave the book on the table.  
-
----
 
 denken – to think  
 Ik denk aan jou.  
 I think of you.  
 
----
-
 Wat denk jij?  
 What do you think?  
-
----
 
 krijgen – to get / to receive  
 Ik krijg een cadeau.  
 I am getting a gift.  
 
----
-
 Zij krijgt een brief.  
 She receives a letter.  
-
----
 
 vinden – to find / to think (opinion)  
 Ik vind deze film leuk.  
 I think this movie is nice.  
 
----
-
 Vind jij mijn jas mooi?  
 Do you think my jacket is beautiful?  
-
----
 
 leven – to live  
 Wij leven in Nederland.  
 We live in the Netherlands.  
 
----
-
 Hij leeft gezond.  
 He lives healthily.  
-
----
 
 vragen – to ask  
 Ik vraag iets aan de leraar.  
 I ask something to the teacher.  
 
----
-
 Mag ik je iets vragen?  
 May I ask you something?  
-
----
 
 geven – to give  
 Ik geef hem een boek.  
 I give him a book.  
 
----
-
 Geef jij mij je nummer?  
 Will you give me your number?  
-
----
 
 werken – to work  
 Mijn vader werkt in een winkel.  
 My father works in a store.  
 
----
-
 Werk jij op zaterdag?  
 Do you work on Saturdays?  
-
----
 
 lezen – to read  
 Ik lees een krant.  
 I read a newspaper.  
 
----
-
 Lees jij graag boeken?  
 Do you like reading books?  
-
----
 
 blijven – to stay  
 Ik blijf thuis.  
 I stay at home.  
 
----
-
 Blijf je hier slapen?  
 Are you staying here to sleep?  
-
----
 
 bestaan – to exist  
 God bestaat.  
 God exists.  
 
----
-
 Dat probleem bestaat niet.  
 That problem does not exist.  
-
----
 
 liggen – to lie (down)  
 De sleutels liggen op tafel.  
 The keys are on the table.  
 
----
-
 Ik lig op bed.  
 I am lying in bed.  
-
----
 
 blijken – to turn out / to appear  
 Het blijkt moeilijk te zijn.  
 It turns out to be difficult.  
 
----
-
 Dat blijkt uit het onderzoek.  
 That appears from the research.  
-
----
 
 houden – to hold / to love  
 Ik houd van muziek.  
 I love music.  
 
----
-
 Houd jij van pizza?  
 Do you love pizza?  
-
----
 
 kosten – to cost  
 Hoeveel kost dit boek?  
 How much does this book cost?  
 
----
-
 De tickets kosten 10 euro.  
 The tickets cost 10 euros.  
-
----
 
 geloven – to believe  
 Ik geloof in jou.  
 I believe in you.  
 
----
-
 Geloof jij in God?  
 Do you believe in God?  
-
----
 
 nemen – to take  
 Ik neem de bus.  
 I take the bus.  
 
----
-
 Neem jij suiker in je thee?  
 Do you take sugar in your tea?  
-
----
 
 eten – to eat  
 Wij eten brood.  
 We eat bread.  
 
----
-
 Wat eet jij vanavond?  
 What are you eating tonight?  
-
----
 
 lijken – to seem / to appear  
 Hij lijkt moe.  
 He seems tired.  
 
----
-
 Dat lijkt me leuk.  
 That seems fun to me.  
-
----
 
 beginnen – to start / to begin  
 De les begint om negen uur.  
 The lesson starts at nine o'clock.  
 
----
-
 Wanneer begin jij met werken?  
 When do you start working?  
-
----
 
 drinken – to drink  
 Ik drink water.  
 I drink water.  
 
----
-
 Drink jij koffie?  
 Do you drink coffee?  
-
----
 
 praten – to talk  
 Wij praten over school.  
 We talk about school.  
 
----
-
 Praat je met je buurman?  
 Are you talking to your neighbor?  
-
----
 
 zetten – to put  
 Ik zet het glas op tafel.  
 I put the glass on the table.  
 
----
-
 Zet jij de tas daar?  
 Do you put the bag there?  
-
----
 
 lopen – to walk  
 Ik loop naar school.  
 I walk to school.  
 
----
-
 Loop jij graag in het park?  
 Do you like walking in the park?  
-
----
 
 halen – to get / fetch  
 Ik haal mijn jas.  
 I get my coat.  
 
----
-
 Haal jij de kinderen op?  
 Are you picking up the kids?  
-
----
 
 spelen – to play  
 Wij spelen voetbal.  
 We play soccer.  
 
----
-
 Speel jij gitaar?  
 Do you play guitar?  
-
----
 
 vallen – to fall  
 Het kind valt.  
 The child falls.  
 
----
-
 Ik val van de trap.  
 I fall from the stairs.  
-
----
 
 gebeuren – to happen  
 Wat gebeurt er?  
 What is happening?  
 
----
-
 Er gebeurt iets raars.  
 Something strange is happening.  
-
----
 
 betreffen – to concern / be about  
 Deze regels betreffen studenten.  
 These rules concern students.  
 
----
-
 Wat betreft dit onderwerp?  
 What concerns this topic?  
-
----
 
 horen – to hear  
 Hoor je dat geluid?  
 Do you hear that sound?  
 
----
-
 Ik hoor niets.  
 I hear nothing.  
-
----
 
 kennen – to know (a person/place)  
 Ik ken hem goed.  
 I know him well.  
 
----
-
 Ken jij deze stad?  
 Do you know this city?  
-
----
 
 brengen – to bring  
 Ik breng de bloemen.  
 I bring the flowers.  
 
----
-
 Breng jij de kinderen naar school?  
 Do you bring the kids to school?  
-
----
 
 leren – to learn  
 Ik leer Nederlands.  
 I am learning Dutch.  
 
----
-
 Leer jij snel?  
 Do you learn quickly?  
-
----
 
 voorstellen – to introduce / to suggest  
 Ik stel mijn vriend voor.  
 I introduce my friend.  
 
----
-
 Mag ik iets voorstellen?  
 May I suggest something?  
-
----
 
 spreken – to speak  
 Ik spreek Engels.  
 I speak English.  
 
----
-
 Spreek jij Frans?  
 Do you speak French?  
-
----
 
 vertellen – to tell  
 Vertel mij een verhaal.  
 Tell me a story.  
 
----
-
 Hij vertelt een geheim.  
 He tells a secret.  
-
----
 
 slapen – to sleep  
 Ik slaap acht uur per nacht.  
 I sleep eight hours per night.  
 
----
-
 Slaap jij goed?  
 Do you sleep well?  
-
----
 
 stellen – to ask / to put / to state  
 Mag ik een vraag stellen?  
 May I ask a question?  
 
----
-
 Zij stelt een regel in.  
 She sets a rule.  
-
----
 
 groeien – to grow  
 Mijn zoon groeit snel.  
 My son is growing fast.  
 
----
-
 Planten groeien in de zon.  
 Plants grow in the sun.  
-
----
 
 gebruiken – to use  
 Ik gebruik een woordenboek.  
 I use a dictionary.  
 
----
-
 Gebruik jij deze laptop?  
 Do you use this laptop?  
-
----
 
 verwachten – to expect  
 Ik verwacht een brief.  
 I expect a letter.  
 
----
-
 Verwacht jij bezoek?  
 Are you expecting visitors?  
-
----
 
 betekenen – to mean  
 Wat betekent dit woord?  
 What does this word mean?  
 
----
-
 Liefde betekent veel.  
 Love means a lot.  
-
----
 
 betalen – to pay  
 Ik betaal de rekening.  
 I pay the bill.  
 
----
-
 Betaal jij met pinpas?  
 Do you pay with a card?  
-
----
 
 vormen – to form / to shape  
 We vormen een team.  
 We form a team.  
 
----
-
 Woorden vormen zinnen.  
 Words form sentences.  
-
----
 
 kopen – to buy  
 Ik koop een jas.  
 I buy a coat.  
 
----
-
 Koop jij vaak boeken?  
 Do you often buy books?  
-
----
 
 tellen – to count  
 Ik tel tot tien.  
 I count to ten.  
 
----
-
 Tellen de kinderen de appels?  
 Are the children counting the apples?  
-
----
 
 zorgen – to take care / to worry  
 Ik zorg voor mijn oma.  
 I take care of my grandma.  
 
----
-
 Maak je geen zorgen.  
 Don’t worry.  
-
----
 
 bieden – to offer  
 Hij biedt hulp aan.  
 He offers help.  
 
----
-
 Wat bied jij voor dit boek?  
 What do you offer for this book?  
-
----
 
 verkopen – to sell  
 Ik verkoop mijn fiets.  
 I sell my bike.  
 
----
-
 Verkoop jij groente?  
 Do you sell vegetables?  
-
----
 
 volgen – to follow  
 Ik volg een cursus.  
 I follow a course.  
 
----
-
 Volg jij mij op Instagram?  
 Do you follow me on Instagram?  
-
----
 
 trekken – to pull / to draw  
 Trek de deur open.  
 Pull the door open.  
 
----
-
 Hij trekt de kar.  
 He pulls the cart.  
-
----
 
 bepalen – to determine / to decide  
 Jij bepaalt wat we doen.  
 You decide what we do.  
 
----
-
 De regels bepalen het gedrag.  
 The rules determine the behavior.  
-
----
 
 zoeken – to search / to look for  
 Ik zoek mijn sleutel.  
 I’m looking for my key.  
 
----
-
 Zoek jij een baan?  
 Are you looking for a job?  
-
----
 
 leggen – to lay / to put down  
 Ik leg het boek op tafel.  
 I put the book on the table.  
 
----
-
 Leg jij de pen hier?  
 Will you lay the pen here?  
-
----
 
 schrijven – to write  
 Ik schrijf een brief.  
 I’m writing a letter.  
 
----
-
 Schrijf jij met de hand?  
 Do you write by hand?  
-
----
 
 beperken – to limit / to restrict  
 We moeten het geluid beperken.  
 We must limit the noise.  
 
----
-
 De regels beperken onze vrijheid.  
 The rules restrict our freedom.  
-
----
 
 gelden – to apply / to be valid  
 Deze regels gelden voor iedereen.  
 These rules apply to everyone.  
 
----
-
 De korting geldt alleen vandaag.  
 The discount is only valid today.  
-
----
 
 leiden – to lead  
 Hij leidt het project.  
 He leads the project.  
 
----
-
 Een goed idee leidt tot succes.  
 A good idea leads to success.  
-
----
 
 bedragen – to amount to  
 De prijs bedraagt 50 euro.  
 The price amounts to 50 euros.  
 
----
-
 De schade bedraagt veel geld.  
 The damage amounts to a lot of money.  
-
----
 
 wachten – to wait  
 Ik wacht op de bus.  
 I’m waiting for the bus.  
 
----
-
 Wacht jij op mij?  
 Are you waiting for me?  
-
----
 
 plaatsen – to place / to post  
 Ik plaats een foto op Facebook.  
 I post a photo on Facebook.  
 
----
-
 Plaats het bord op tafel.  
 Place the plate on the table.  
-
----
 
 plannen – to plan  
 We plannen een reis.  
 We are planning a trip.  
 
----
-
 Plan jij je week?  
 Do you plan your week?  
-
----
 
 starten – to start  
 We starten om acht uur.  
 We start at eight o'clock.  
 
----
-
 Start jij de computer?  
 Do you start the computer?  
-
----
 
 proberen – to try  
 Ik probeer Nederlands te leren.  
 I try to learn Dutch.  
 
----
-
 Probeer jij dit spel?  
 Are you trying this game?  
-
----
 
 voeren – to lead / to carry out  
 Hij voert een gesprek.  
 He is having a conversation.  
 
----
-
 Wij voeren het plan uit.  
 We are carrying out the plan.  
-
----
 
 bouwen – to build  
 Wij bouwen een huis.  
 We are building a house.  
 
----
-
 Bouw jij met LEGO?  
 Do you build with LEGO?  
-
----
 
 kiezen – to choose  
 Ik kies een kleur.  
 I choose a color.  
 
----
-
 Kies jij rood of blauw?  
 Do you choose red or blue?  
-
----
 
 voorzien – to provide / to foresee  
 Dit pakket voorziet in alles.  
 This package provides everything.  
 
----
-
 Ik voorzie een probleem.  
 I foresee a problem.  
-
----
 
 betrekken – to involve / to engage  
 Hij betrekt zijn kinderen bij het koken.  
 He involves his children in cooking.  
 
----
-
 De les betrekt iedereen.  
 The lesson involves everyone.  
-
----
 
 helpen – to help  
 Ik help mijn moeder.  
 I help my mother.  
 
----
-
 Help jij me even?  
 Can you help me for a moment?  
-
----
 
 bezoeken – to visit  
 Ik bezoek mijn oma.  
 I visit my grandma.  
 
----
-
 Bezoek jij vaak musea?  
 Do you often visit museums?  
-
----
 
 leveren – to deliver  
 De postbode levert de brief.  
 The mailman delivers the letter.  
 
----
-
 Wij leveren eten aan huis.  
 We deliver food to homes.  
-
----
 
 antwoorden – to answer  
 Ik antwoord op de vraag.  
 I answer the question.  
 
----
-
 Antwoord jij de leraar?  
 Are you answering the teacher?  
-
----
 
 noemen – to name / to call  
 Hij noemt zijn kat "Minoes".  
 He calls his cat “Minoes.”  
 
----
-
 Hoe noem jij dit?  
 What do you call this?  
-
----
 
 heten – to be called  
 Ik heet Ali.  
 My name is Ali.  
 
----
-
 Hoe heet jij?  
 What is your name?  
-
----
 
 veranderen – to change  
 Ik verander mijn plannen.  
 I change my plans.  
 
----
-
 Het weer verandert snel.  
 The weather changes quickly.  
-
----
 
 vertrouwen – to trust  
 Ik vertrouw je.  
 I trust you.  
 
----
-
 Vertrouw jij hem?  
 Do you trust him?  
-
----
 
 ontstaan – to arise / to emerge  
 Er ontstaat een probleem.  
 A problem is arising.  
 
----
-
 Hoe is dit ontstaan?  
 How did this come about?  
-
----
 
 stijgen – to rise / to increase  
 De prijs stijgt.  
 The price is rising.  
 
----
-
 De temperatuur stijgt snel.  
 The temperature rises quickly.  
-
----
 
 bezitten – to own  
 Ik bezit een huis.  
 I own a house.  
 
----
-
 Bezit jij een auto?  
 Do you own a car?  
-
----
 
 voelen – to feel  
 Ik voel me goed.  
 I feel good.  
 
----
-
 Voel jij pijn?  
 Do you feel pain?  
-
----
 
 Werk jij morgen?  
 Are you working tomorrow?  
 
----
-
 De leraar zit in de tuin. De lerares zit in de tuin.  
 The male teacher is sitting in the garden. The female teacher is sitting in the garden.  
-
----
 
 De bibliothekaris zit in de tuin. De bibliothekaresse zit in de tuin.  
 The (male) librarian is sitting in the garden. The (female) librarian is sitting in the garden.  
 
----
-
 De schrijver zit in de tuin. De schrijfster zit in de tuin.  
 The male writer is sitting in the garden. The female writer is sitting in the garden.  
-
----
 
 De boer zit in de tuin. De boerin zit in de tuin.  
 The farmer is sitting in the garden. The farmer’s wife is sitting in the garden.  
 
----
-
 De student zit in de tuin. De studente zit in de tuin.  
 The male student is sitting in the garden. The female student is sitting in the garden.  
-
----
 
 De telefonist zit in de tuin. De telefoniste zit in de tuin.  
 The (male) telephonist is sitting in the garden. The (female) telephonist is sitting in the garden.  
 
----
-
 Goede morgen. Heeft u dat boek over de prinses?  
 Good morning. Have you got that book about the princess?  
-
----
 
 Ik heb veel boeken over prinsessen.  
 I’ve got a lot of books about princesses.  
 
----
-
 Deze is Engelse.  
 This one is English.  
-
----
 
 Is het een biografie of een roman?  
 Is it a biography or a novel?  
 
----
-
 Biografieën zijn saai.  
 Biographies are boring.  
-
----
 
 Ook die over prinsen en prinsessen?  
 Even those about princes and princesses?  
 
----
-
 Heeft u een roman over een prinses uit Engeland?  
 Do you have a novel about a princess from England?  
-
----
 
 Jazeker, meneer. En de naam van de schrijver is ...?  
 Yes indeed. And the writer’s name is...?  
 
----
-
 Weet ik veel? U bent de bibliothekaresse.  
 How do I know? You’re the librarian.  
-
----
 
 Dat is een beetje moeilijk, meneer.  
 That makes it a bit difficult.  
 
----
-
 Luistert u eens. Het is niet voor mij. Het is voor mijn vrouw. Die is niet zo kieskeurig.  
 Listen here. It isn’t for me. It’s for my wife. She’s not that fussy.  
-
----
 
 Hier heeft u een biografie van een telefoniste. Is dat goed?  
 Here’s a biography of a telephonist. All right?  
 
----
-
 Ja. Alles is goed. Dag mevrouw.  
 Yes. Anything. Bye [madam].  
 
----
-
 Ben jij moe?  
 Are you tired?  
-
----
 
 Ja, ik ben erg moe.  
 Yes, I’m very tired.  
 
----
-
 Is hij ook moe?  
 Is he tired too?  
-
----
 
 Ja, hij is ook erg moe.  
 Yes, he’s very tired too.  
 
----
-
 Dus jullie zijn allebei moe.  
 So you’re both tired.  
-
----
 
 We hebben allebei hoofdpijn.  
 We’ve both got a headache.  
 
----
-
 Hebben jullie misschien ook koorts?  
 Perhaps you’ve got a temperature too.  
-
----
 
 Ja, en keelpijn.  
 Yes, and a sore throat.  
 
----
-
 Wat vreemd! Ik heb precies hetzelfde.  
 How funny! I’ve got exactly the same thing.  
-
----
 
 Ben jij ziek?  
 Are you ill?  
 
----
-
 Ja. Jullie zijn dus ook ziek.  
 Yes. So you are ill too.  
-
----
 
 Zijn de buren vriendelijk?  
 Are the neighbours friendly?  
 
----
-
 Hij is aardig.  
 He is nice.  
-
----
 
 Zij is erg ziek.  
 She is very ill.  
 
----
-
 Wij hebben een huis en een tuin.  
 We have a house and a garden.  
-
----
 
 Het huis is nieuw.  
 The house is new.  
 
----
-
 Heeft u een dier in de tuin?  
 Do you (formal) have an animal in the garden?  
-
----
 
 Ja, ik heb een leeuw.  
 Yes, I have a lion.  
 
----
-
 Jij hebt een pen en een paraplu.  
 You (singular) have a pen and an umbrella.  
-
----
 
 Zij zijn allebei nieuw.  
 They are both new.  
 
----
-
 Jullie zijn moe en ziek.  
 You (plural) are tired and ill.  
-
----
 
 Ik ben ook ziek.  
 I am also ill.  
 
----
-
 U bent erg mooi.  
 You (formal) are very beautiful.  
-
----
 
 De maan is ook mooi.  
 The moon is also beautiful.  
 
----
-
 Zij hebben een boot.  
 They have a boat.  
-
----
 
 Heb jij ook een boot?  
 Do you (singular) have a boat too?  
 
----
-
 Hij heeft een huis.  
 He has a house.  
-
----
 
 Het heeft een tuin.  
 It has a garden.  
 
----
-
 Hebben de buren een boot?  
 Do the neighbours have a boat?  
-
----
 
 Wij hebben een tuin en een boot.  
 We have a garden and a boat.  
 
----
-
 Heb jij een paraplu?  
 Do you (singular) have an umbrella?  
-
----
 
 Ik heb een peer.  
 I have a pear.  
 
----
-
 Jullie hebben keelpijn.  
 You (plural) have a sore throat.  
-
----
 
 Heeft de boer een leeuw in de tuin?  
 Does the farmer have a lion in the garden?  
 
----
-
 Leeuwen hebben poten.  
 Lions have paws.  
-
----
 
 Heeft u een pen?  
 Do you (formal) have a pen?  
 
----
-
 Is de man aardig?  
 Is the man nice?  
-
----
 
 Jullie zijn gek.  
 You (plural) are crazy.  
 
----
-
 Ik ben erg ziek.  
 I am very ill.  
-
----
 
 Zij is ook ziek.  
 She is ill too.  
 
----
-
 Ben jij moe?  
 Are you tired?  
-
----
 
 Wij zijn ook moe.  
 We are tired too.  
 
----
-
 De buren zijn vriendelijk.  
 The neighbours are friendly.  
-
----
 
 Zij zijn erg aardig.  
 They are very nice.  
 
----
-
 U bent erg vriendelijk.  
 You (formal) are very kind.  
-
----
 
 Jij bent sluw.  
 You (singular) are sly.  
 
----
-
 allebei  
 both  
-
----
 
 dus  
 so  
 
----
-
 en  
 and  
-
----
 
 erg  
 very  
 
----
-
 hebben  
 to have  
-
----
 
 hoofdpijn hebben  
 to have a headache  
 
----
-
 keelpijn hebben  
 to have a sore throat  
-
----
 
 koorts hebben  
 to have a temperature  
 
----
-
 hetzelfde  
 the same thing  
-
----
 
 ja  
 yes  
 
----
-
 misschien  
 perhaps  
-
----
 
 moe  
 tired  
 
----
-
 ook  
 too, also  
-
----
 
 precies  
 exactly, precisely  
 
----
-
 wat vreemd!  
 how funny! how odd!  
-
----
 
 ziek  
 ill  
 
----
-
----
-
 niet  
 not  
-
----
 
 nieuw  
 new  
 
----
-
 nu  
 now  
-
----
 
 paar  
 pair  
 
----
-
 de paraplu  
 umbrella  
-
----
 
 de peen  
 carrot  
 
----
-
 de peer  
 pear  
-
----
 
 de pen  
 pen  
 
----
-
 de pet  
 cap  
-
----
 
 de poel  
 pool  
 
----
-
 de poot  
 paw  
-
----
 
 de pot  
 pot  
 
----
-
 de sla  
 lettuce  
-
----
 
 sluw  
 sly  
 
----
-
 de straat  
 street  
-
----
 
 de stro  
 straw  
 
----
-
 taai  
 tough  
-
----
 
 de trein  
 train  
 
----
-
 de tuin  
 garden  
-
----
 
 vriendelijk  
 kind, friendly  
 
----
-
 het water  
 water  
-
----
 
 wit  
 white  
 
----
-
 de zee  
 sea  
-
----
 
 zit  
 sits, is sitting  
 
----
-
 aardig  
 nice  
-
----
 
 blauw  
 blue  
 
----
-
 de boer  
 farmer  
-
----
 
 de boot  
 boat  
 
----
-
 de bus  
 bus  
-
----
 
 de buur  
 neighbour  
 
----
-
 de buurman  
 male neighbour  
-
----
 
 de  
 the  
 
----
-
 de deur  
 door  
-
----
 
 het dier  
 animal  
 
----
-
 duur  
 expensive  
-
----
 
 een  
 a  
 
----
-
 fijn  
 fine  
-
----
 
 groei  
 growth  
 
----
-
 het huis  
 house  
 
----
-
 in  
 in  
 
----
-
 is  
 is  
-
----
 
 de leeuw  
 lion  
 
----
-
 de maan  
 moon  
-
----
 
 de man  
 man  
 
----
-
 mooi  
 beautiful  
-
----
-
----
 
 Hij slaat de bal.  
 He hits the ball.  
 
----
-
 Hoe maakt u het?  
 How do you do?  
 
----
-
 Vocabulary:  
-
----
 
 achter  
 behind  
 
----
-
 het bezoek  
 visit  
-
----
 
 op bezoek  
 on a visit  
 
----
-
 het bier  
 beer  
-
----
 
 denken  
 think  
 
----
-
 echt  
 real / really  
-
----
 
 het feest  
 party  
 
----
-
 gezellig  
 pleasant / cozy  
-
----
 
 het glas  
 glass  
 
----
-
 houden van  
 like, love  
-
----
 
 het idee  
 idea  
 
----
-
 ja'wel  
 oh yes, yes indeed  
-
----
 
 kennen  
 know, be acquainted with  
 
----
-
 leuk  
 nice  
-
----
 
 maken  
 make  
 
----
-
 na  
 after  
-
----
 
 naar  
 to  
 
----
-
 naar huis  
 home  
-
----
 
 nooit  
 never  
 
----
-
 het restaurant  
 restaurant  
-
----
 
 reuzegezellig  
 great fun  
 
----
-
 thuis  
 at home  
-
----
 
 uit  
 from, out of  
 
----
-
 vanavond  
 this evening  
-
----
 
 vinden  
 find  
 
----
-
 Hoe vind je ...?  
 What do you think of ...?  
-
----
 
 voor  
 for  
 
----
-
 vóór (stressed)  
 in front of  
-
----
 
 de wijn  
 wine  
 
----
-
 zo  
 so  
-
----
-
----
 
 Wij wonen in Londen.  
 We live in London.  
 
----
-
 Waar woon jij?  
 Where do you live?  
-
----
 
 Hij ligt in bed.  
 He is lying in bed.  
 
----
-
 Drinken jullie veel bier?  
 Do you (plural) drink a lot of beer?  
-
----
 
 Ik vind het feest erg gezellig.  
 I find the party very pleasant.  
 
----
-
 Zij zitten in de tuin achter het huis.  
 They are sitting in the garden behind the house.  
-
----
 
 Zij praat veel.  
 She talks a lot.  
 
----
-
 Wie woont in dat huis?  
 Who lives in that house?  
-
----
 
 Wij houden van feesten.  
 We love parties.  
 
----
-
 Hoe vindt u de wijn in dit restaurant?  
 How do you (formal) like the wine in this restaurant?  
-
----
 
 Waar gaan de studenten naartoe?  
 Where are the students going to?  
 
----
-
 Zie je die kinderen daar?  
 Do you see those children there?  
-
----
 
 Zij staan vóór het huis.  
 They are standing in front of the house.  
 
----
-
 Ik kom uit Londen.  
 I come from London.  
-
----
 
 Waar komen jullie vandaan?  
 Where do you (plural) come from?  
 
----
-
 Wat doen we vanavond?  
 What are we doing this evening?  
-
----
 
 Gaat u altijd naar dat restaurant?  
 Do you always go to that restaurant?  
 
----
-
 Zij ziet de buurvrouw in de bus.  
 She sees the neighbour (woman) in the bus.  
-
----
 
 Dag. Ik ga naar huis.  
 Bye. I am going home.  
 
----
-
 Deze jongen slaat de hond nooit.  
 This boy never hits the dog.  
-
----
 
 Wat doe jij na het feest?  
 What are you (singular) doing after the party?  
 
----
-
 Ik ga naar huis.  
 I am going home.  
-
----
 
 Waar komen zij vandaan?  
 Where do they come from?  
 
----
-
 Wij wonen in dat huis.  
 We live in that house.  
-
----
 
 Waarom zitten jullie in de tuin?  
 Why are you (plural) sitting in the garden?  
 
----
-
 Ik lees een boek.  
 I am reading a book.  
-
----
 
 Kent u Amsterdam?  
 Do you (formal) know Amsterdam?  
 
----
-
 Zij blijft thuis.  
 She is staying at home.  
-
----
 
 Wat drinken de kinderen?  
 What do the children drink?  
 
----
-
 Wie staat daar?  
 Who is standing over there?  
-
----
 
 De bibliothecaresse houdt van feesten.  
 The librarian loves parties.  
 
----
-
 Jij praat veel vanavond.  
 You (singular) are talking a lot this evening.  
-
----
-
----
 
 Drinkt u altijd bier? Ja, ik drink altijd bier.  
 Do you always drink beer? Yes, I always drink beer.  
 
----
-
 Woont u hier in Amsterdam? Ja, ik woon hier in Amsterdam.  
 Do you live here in Amsterdam? Yes, I live here in Amsterdam.  
-
----
 
 Houdt u van feesten? Ja, ik houd van feesten.  
 Do you like parties? Yes, I like parties.  
 
----
-
 Praat u veel? Ja, ik praat veel.  
 Do you talk a lot? Yes, I talk a lot.  
-
----
 
 Ziet u de kinderen? Ja, ik zie de kinderen.  
 Do you see the children? Yes, I see the children.  
 
----
-
 Gaat u naar huis? Ja, ik ga naar huis.  
 Are you going home? Yes, I’m going home.  
-
----
 
 Vindt u de tuin mooi? Ja, ik vind de tuin mooi.  
 Do you find the garden beautiful? Yes, I find the garden beautiful.  
 
----
-
 Kent u de bibliothekaresse? Ja, ik ken de bibliothekaresse.  
 Do you know the librarian? Yes, I know the librarian.  
-
----
 
 Dag Lies, hoe gaat het?  
 Hello Lies, how are things?  
 
----
-
 Heel goed, dank je. Ken je meneer de Groot?  
 Fine, thanks. Do you know Mr de Groot?  
-
----
 
 Ik denk het niet. Dag meneer de Groot. Anneke Smeets.  
 I don’t think so. Hello, Mr de Groot. I’m Anneke Smeets.  
 
----
-
 Dag mevrouw Smeets. Hoe maakt u het?  
 Hello, Ms Smeets. How do you do?  
-
----
 
 Meneer de Groot woont niet hier in Amsterdam. Hij woont in Leiden.  
 Mr de Groot doesn’t live here in Amsterdam. He lives in Leiden.  
 
----
-
 Wat leuk! Ik vind Leiden zo mooi. Hoe vindt u het feest?  
 How nice. I think Leiden is so lovely. What do you think of the party?  
-
----
 
 Reuzegezellig, hoor.  
 Oh, great fun.  
 
----
-
 Wat drinken jullie?  
 What are you drinking?  
-
----
 
 Ik een glas wijn.  
 A glass of wine for me.  
 
----
-
 En ik een bier, alstublieft.  
 And a beer for me, please.  
-
----
 
 Ik ben zo terug.  
 I won’t be long.  
 
----
-
 Zeg Anneke, vind je Leiden echt zo leuk?  
 Listen Anneke, do you really think Leiden is that nice?  
-
----
 
 Jazeker.  
 Yes, of course.  
 
----
-
 Waarom kom je dan niet op bezoek?  
 Why don’t you come for a visit, then?  
-
----
 
 Goed idee, meneer de Groot.  
 Good idea, Mr de Groot.  
 
----
-
 Mijn naam is Ton. Wanneer kom je?  
 My name is Ton. When are you coming?  
-
----
 
 Vanavond na het feest? Gaan we?  
 This evening after the party? Shall we go?  
 
----
-
 Hier ben ik ...  
 Here I am...  
-
----
-
----
 
 Wie is die man?  
 Who is that man?  
 
----
-
 Ken je die vrouw daar?  
 Do you know that woman over there?  
-
----
 
 Ze woont in dat huis.  
 She lives in that house.  
 
----
-
 Dat kind is erg moe.  
 That child is very tired.  
-
----
 
 Bent u de moeder van die kinderen?  
 Are you the mother of those children?  
 
----
-
 Ik vind die stad erg mooi.  
 I find that city very beautiful.  
-
----
 
 Zie je die jurk in de etalage?  
 Do you see that dress in the shop window?  
 
----
-
 Dat restaurant is veel te duur.  
 That restaurant is much too expensive.  
-
----
 
 Heeft u dat boek?  
 Do you have that book?  
 
----
-
 Die boeken zijn te moeilijk.  
 Those books are too difficult.  
-
----
 
 Deze romans zijn saai.  
 These novels are boring.  
 
----
-
 Hoe vind je dit restaurant?  
 How do you like this restaurant?  
-
----
 
 Dit huis heeft een tuin.  
 This house has a garden.  
 
----
-
 Ik vind deze schrijver erg goed.  
 I find this writer very good.  
-
----
 
 Deze schoenen zijn veel te klein.  
 These shoes are much too small.  
 
----
-
 Deze huizen zijn te duur.  
 These houses are too expensive.  
-
----
 
 Houd je van deze wijn?  
 Do you like this wine?  
 
----
-
 Deze jongen woont in Leiden.  
 This boy lives in Leiden.  
-
----
 
 Dit meisje houdt van feesten.  
 This girl loves parties.  
 
----
-
 Deze meisjes en deze jongens zijn erg vriendelijk.  
 These girls and these boys are very friendly.  
-
----
-
----
 
 Tante woont in Den Haag.  
 Aunt lives in The Hague.  
 
----
-
 Het kind leest een boek.  
 The child reads a book.  
-
----
 
 Bedoel je die man daar?  
 Do you mean that man there?  
 
----
-
 Wanneer gaan we naar Amsterdam?  
 When are we going to Amsterdam?  
-
----
 
 Jullie praten te veel.  
 You (plural) talk too much.  
 
----
-
 Welk huis zie je?  
 Which house do you see?  
-
----
 
 De studenten drinken bier.  
 The students drink beer.  
 
----
-
 Ik houd van feesten.  
 I love parties.  
-
----
 
 Tante drinkt wijn.  
 Aunt drinks wine.  
 
----
-
 De bibliothekaresse komt uit Utrecht. → De bibliothekaressen komen uit Utrecht.  
 The librarian comes from Utrecht. The librarians come from Utrecht.  
-
----
 
 Het meisje is aardig. → De meisjes zijn aardig.  
 The girl is nice. → The girls are nice.  
 
----
-
 Woont de student in Rotterdam? → Wonen de studenten in Rotterdam?  
 Does the student live in Rotterdam? → Do the students live in Rotterdam?  
-
----
 
 De jurk is te kort. → De jurken zijn te kort.  
 The dress is too short. → The dresses are too short.  
 
----
-
 Heb je misschien hoofdpijn? → Hebben jullie misschien hoofdpijn?  
 Do you (singular) perhaps have a headache? → Do you (plural) perhaps have a headache?  
-
----
 
 Dit is de jongen. → Dit zijn de jongens.  
 This is the boy. → These are the boys.  
 
----
-
 Een leeuw is een dier. → Leeuwen zijn dieren.  
 A lion is an animal. → Lions are animals.  
-
----
 
 Het kind gaat naar huis. → De kinderen gaan naar huis.  
 The child is going home. → The children are going home.  
 
----
-
 Wie is die man? → Wie zijn die mannen?  
 Who is that man? → Who are those men?  
-
----
-
----
 
 Ik ga naar huis. → Waar ga je naartoe?  
 I am going home. → Where are you going?  
 
----
-
 Ik kom uit Londen. → Waar kom je vandaan?  
 I come from London. → Where do you come from?  
-
----
 
 We gaan naar het feest. → Waar gaan jullie naartoe?  
 We are going to the party. → Where are you (plural) going?  
 
----
-
 Ja, ik houd van wijn. → Houd je van wijn?  
 Yes, I love wine. → Do you like wine?  
-
----
 
 Meneer de Vries woont in Leiden. → Waar woont meneer de Vries?  
 Mr. de Vries lives in Leiden. → Where does Mr. de Vries live?  
 
----
-
 Ze komt vrijdag op bezoek. → Wanneer komt ze op bezoek?  
 She is coming on Friday to visit. → When is she coming to visit?  
-
----
 
 Ja, hij vindt het restaurant gezellig. → Vindt hij het restaurant gezellig?  
 Yes, he finds the restaurant cozy. → Does he find the restaurant cozy?  
 
----
-
 Leest u altijd romans? → Ja, ik lees altijd romans.  
 Do you always read novels? → Yes, I always read novels.  
-
----
 
 Drinkt u altijd bier? → Ja, ik drink altijd bier.  
 Do you always drink beer? → Yes, I always drink beer.  
 
----
-
 Gaat u vanavond naar het restaurant? → Ja, ik ga vanavond naar het restaurant.  
 Are you going to the restaurant tonight? → Yes, I’m going tonight.  
-
----
 
 Zit u de hele dag hier? → Ja, ik zit de hele dag hier.  
 Do you sit here all day? → Yes, I sit here all day.  
 
----
-
 Praat u over de buren? → Ja, ik praat over de buren.  
 Do you talk about the neighbours? → Yes, I talk about the neighbours.  
-
----
 
 Woont u in dat huis? → Ja, ik woon in dat huis.  
 Do you live in that house? → Yes, I live in that house.  
 
----
-
 Houdt u van lezen? → Ja, ik houd van lezen.  
 Do you like reading? → Yes, I like reading.  
-
----
 
 Heeft u hoofdpijn? → Ja, ik heb hoofdpijn.  
 Do you have a headache? → Yes, I have a headache.  
 
----
-
 Bent u ziek? → Ja, ik ben ziek.  
 Are you ill? → Yes, I am ill.  
-
----
 
 De kinderen zijn ziek. Ze hebben hoofdpijn en ook koorts.  
 The children are ill. They have a headache and also a fever.  
 
----
-
 Ja, ze zijn moe. Ze liggen in bed. De dokter komt vanavond.  
 Yes, they are tired. They are lying in bed. The doctor is coming tonight.  
-
----
 
 Nou, goed zo. Ga je naar het feest vanavond?  
 Well, good. Are you going to the party tonight?  
 
----
-
 Nee, ik blijf thuis.  
 No, I’m staying at home.  
-
----
-
----
 
 Komt u binnen! → Come in!  
 Blijft u hier! → Stay here!  
 
----
-
 Niet roken. → Do not smoke.  
 Doorlopen. → Move on.  
-
----
 
 Het meisje gaat vanavond met de trein naar huis. → Vanavond gaat het meisje met de trein naar huis.  
 The girl is going home by train this evening.  
 
----
-
 Ik zie de man niet.  
 I can't see the man.  
-
----
 
 Zij komt vanavond niet.  
 She is not coming this evening.  
 
----
-
 De kinderen spelen niet boven.  
 The children are not playing upstairs.  
-
----
 
 Hij woont niet in Amsterdam.  
 He doesn't live in Amsterdam.  
 
----
-
----
-
 De klassieke literatuur.  
 Classical literature.  
-
----
 
 Hij is hoogleraar in de geschiedenis.  
 He is a professor of history.  
 
----
-
 De liefde is blind.  
 Love is blind.  
-
----
 
 Het leven is moeilijk.  
 Life is hard.  
 
----
-
 Ik houd meer van de zomer dan van de winter.  
 I like summer more than winter.  
-
----
 
 In de herfst. In het najaar.  
 In autumn.  
 
----
-
 In de lente. In het voorjaar.  
 In spring.  
-
----
 
 Ik woon in de Julianastraat.  
 I live in Juliana Street.  
 
----
-
 De tram stopt op het Rembrandtsplein.  
 The tram stops in Rembrandt Square.  
-
----
 
 in het Nederlands  
 in Dutch  
 
----
-
 in de stad  
 in town  
-
----
 
 in het zwart  
 in black  
 
----
-
 met de auto  
 by car  
-
----
 
 met de tijd  
 in time, with time  
 
----
-
 op tafel  
 on the table  
-
----
 
 in zee  
 in the sea  
 
----
-
 op kantoor  
 at the office  
-
----
 
 in bad  
 in the bath  
 
----
-
 op straat  
 in the street  
-
----
 
 Hij woont daar, niet waar?  
 He lives there, doesn't he?  
 
----
-
 Zij komt morgen, niet waar?  
 She's coming tomorrow, isn't she?  
-
----
 
 Ik zwem graag.  
 I like swimming.  
 
----
-
 Ik speel graag.  
 I like playing.  
-
----
-
----
 
 anders  
 otherwise  
 
----
-
 het bad  
 bath  
-
----
 
 beloven  
 promise  
 
----
-
 het Engels  
 English  
-
----
 
 eten  
 eat  
 
----
-
 de fiets  
 bicycle  
-
----
 
 gevaarlijk  
 dangerous  
 
----
-
 het kantoor  
 office  
-
----
 
 laten  
 let, leave  
 
----
-
 de mens  
 person (also: mankind)  
-
----
 
 met  
 with, by  
 
----
-
 morgen  
 tomorrow  
-
----
 
 het Nederlands  
 Dutch  
 
----
-
 op  
 on, in  
-
----
 
 de poes  
 cat  
 
----
-
 poesje  
 pussy  
-
----
 
 de rust  
 rest, peace  
 
----
-
 spelen  
 play  
-
----
 
 het strand  
 beach  
 
----
-
 stoppen  
 stop  
-
----
 
 studeren  
 study  
 
----
-
 vandaag  
 today  
-
----
 
 het vlees  
 meat  
 
----
-
 wees!  
 be! (imperative of zijn)  
-
----
 
 weten  
 know (a fact)  
 
----
-
 de zee  
 sea  
-
----
 
 zeuren  
 whine, go on  
 
----
-
 zoet  
 sweet, good  
-
----
 
 zwemmen  
 swim  
 
----
-
----
-
 Lees dat boek.  
 Read that book.  
-
----
 
 Maar ik houd niet van romans.  
 But I don’t like novels.  
 
----
-
 Die mensen hebben geen auto.  
 Those people don’t have a car.  
-
----
 
 Zij komt niet met de fiets; zij komt met de tram.  
 She doesn't come by bike; she comes by tram.  
 
----
-
 Jullie eten geen vlees, niet waar?  
 You don’t eat meat, do you?  
-
----
 
 Weet u dat echt niet?  
 Don’t you really know that?  
 
----
-
 De kinderen spelen niet op straat.  
 The children are not playing in the street.  
-
----
 
 Morgen gaan wij met de trein naar het strand.  
 Tomorrow we are going to the beach by train.  
 
----
-
 Deze bus stopt niet in de Beatrixstraat.  
 This bus does not stop in Beatrix Street.  
-
----
 
 In de zomer zit ik graag in de tuin.  
 In the summer I like sitting in the garden.  
 
----
-
 Wij gaan morgen naar huis.  
 We are going home tomorrow.  
-
----
 
 Ik zwem in de winter niet in zee.  
 I don’t swim in the sea in winter.  
 
----
-
 De Engelsman komt vandaag op bezoek.  
 The Englishman is visiting today.  
-
----
 
 Ze zit hier altijd.  
 She always sits here.  
 
----
-
 Zij wonen daar, niet waar?  
 They live there, don’t they?  
-
----
 
 De jongens spelen in de zomer graag buiten.  
 The boys like playing outside in the summer.  
 
----
-
 Ik blijf vanavond niet thuis.  
 I’m not staying home tonight.  
-
----
 
 Ik weet dat niet.  
 I don’t know that.  
 
----
-
 De tram stopt niet op het Koningsplein.  
 The tram doesn’t stop at Koningsplein.  
-
----
 
 Die man is aardig, niet?  
 That man is kind, isn’t he?  
 
----
-
----
-
 Doe dat.  
 Do that.  
-
----
 
 Doe dat niet.  
 Don’t do that.  
 
----
-
 Blijf hier.  
 Stay here.  
-
----
 
 Hij is op kantoor.  
 He is at the office.  
 
----
-
 Wij gaan met de trein naar Amsterdam.  
 We are going to Amsterdam by train.  
-
----
 
 Zij leest dat boek in het Nederlands.  
 She is reading that book in Dutch.  
 
----
-
 Zij komen vanavond niet naar het feest.  
 They aren’t coming to the party this evening.  
-
----
 
 Hij is professor in de geschiedenis, niet?  
 He is a professor of history, isn’t he?  
 
----
-
 Nee, ik ben geen professor in de geschiedenis.  
 No, I am not a professor of history.  
-
----
 
 Drinken jullie geen wijn?  
 Don’t you (plural) drink wine?  
 
----
-
 Die bus stopt hier niet.  
 That bus doesn’t stop here.  
-
----
 
 Ik lig graag in bad.  
 I like lying in the bath.  
 
----
-
 De kat is niet boven.  
 The cat is not upstairs.  
-
----
 
 Hebben zij geen tuin?  
 Haven’t they got a garden?  
 
----
-
 Speel niet op straat; het is te gevaarlijk.  
 Don’t play in the street; it’s too dangerous.  
-
----
 
 Heeft u een auto? Nee, ik heb geen auto.  
 Do you have a car? No, I don’t have a car.  
 
----
-
 Heeft u een poes? Nee, ik heb geen poes.  
 Do you have a cat? No, I don’t have a cat.  
-
----
 
 Heeft u kinderen? Nee, ik heb geen kinderen.  
 Do you have children? No, I don’t have children.  
 
----
-
 Heeft u een fiets? Nee, ik heb geen fiets.  
 Do you have a bicycle? No, I don’t have a bicycle.  
-
----
 
 Eet u vlees? Nee, ik eet geen vlees.  
 Do you eat meat? No, I don’t eat meat.  
 
----
-
 Drinkt u bier? Nee, ik drink geen bier.  
 Do you drink beer? No, I don’t drink beer.  
-
----
 
 Heeft u buren? Nee, ik heb geen buren.  
 Do you have neighbours? No, I don’t have neighbours.  
 
----
-
 Gaat u met de trein? Nee, ik ga niet met de trein.  
 Are you going by train? No, I’m not going by train.  
-
----
 
 Woont u in Amsterdam? Nee, ik woon niet in Amsterdam.  
 Do you live in Amsterdam? No, I don’t live in Amsterdam.  
 
----
-
 Speelt hij met de poes? Nee, hij speelt niet met de poes.  
 Does he play with the cat? No, he doesn’t play with the cat.  
-
----
 
 Blijft zij morgen thuis? Nee, zij blijft morgen niet thuis.  
 Is she staying home tomorrow? No, she’s not staying home tomorrow.  
 
----
-
 Is deze roman goed? Nee, deze roman is niet goed.  
 Is this novel good? No, this novel is not good.  
-
----
 
 Gaan wij morgen met de auto? Nee, wij gaan morgen niet met de auto.  
 Are we going by car tomorrow? No, we are not going by car tomorrow.  
 
----
-
 Is de buurman aardig? Nee, de buurman is niet aardig.  
 Is the neighbour (man) nice? No, the neighbour is not nice.  
-
----
-
----
 
 Mamma, waar is pappa?  
 Mummy, where is daddy?  
 
----
-
 Op kantoor, natuurlijk. Ga maar even naar buiten. Speel met poesje in de tuin.  
 At the office, of course. Run along outside. Play with pussy in the garden.  
-
----
 
 Maar waarom niet op straat? Met de jongens.  
 But why not in the street, with the boys?  
 
----
-
 Dat is veel te gevaarlijk. Dat weet je.  
 That’s much too dangerous. You know that.  
-
----
 
 Gaat pappa met de auto?  
 Does daddy go by car?  
 
----
-
 Nee, hij gaat niet met de auto, hij gaat altijd op de fiets. Dat weet je toch?  
 No, he doesn’t go by car, he always goes by bike. You know that.  
-
----
 
 Gaan wij met de auto, mam?  
 Are we going by car, mum?  
 
----
-
 Waarnaartoe?  
 Where to?  
-
----
 
 Naar het strand?  
 To the seaside?  
 
----
-
 Maar ik heb geen tijd, jongen. Morgen misschien.  
 But I haven’t any time, dear. Tomorrow perhaps.  
-
----
 
 Rijden we morgen met de auto naar het strand? Beloof je dat?  
 Are we driving to the beach tomorrow by car? Do you promise?  
 
----
-
 Ja. Ik beloof het. Wees vandaag dan maar zoet, anders gaan we niet. Afgesproken?  
 Yes. I promise. But just you be good today, otherwise we won’t go. Agreed?  
-
----
 
 Mamma, ik speel graag in de tuin, maar ik ga niet graag in bad en morgen zwem ik in zee, dus...  
 Mummy, I like playing in the garden, but I don’t like going in the bath and tomorrow I’ll be swimming in the sea, so …  
 
----
-
 Vanavond geen bad. Laat me nu maar met rust – en niet zeuren!  
 No bath tonight. Just leave me in peace now, and don’t go on.  
-
----
 
 Kom maar, poesje!  
 Come on, puss!  
 
----
-
----
-
 De jongen heeft de pen. → De jongen heeft hem.  
 The boy has the pen. → The boy has it.  
-
----
 
 De jongen heeft de pennen. → De jongen heeft ze.  
 The boy has the pens. → The boy has them.  
 
----
-
 De jongen ziet de buren. Hij ziet hen.  
 The boy sees the neighbours. He sees them.  
-
----
 
 Wij doen het voor haar.  
 We are doing it for her.  
 
----
-
 Zij komt met hen.  
 She's coming with them.  
-
----
 
 Geef het aan mij.  
 Give it to me.  
 
----
-
 Zij staan ervoor.  
 They are standing in front of it.  
-
----
 
 De jongen geeft de buren een taart. Hij geeft hun een taart.  
 The boy gives the neighbours a cake. He gives them a cake.  
 
----
-
 Hij speelt ermee.  
 He is playing with it.  
-
----
-
----
 
 Heeft hij geld bij zich?  
 Has he got any money on him?  
 
----
-
 Heb je een pen bij je?  
 Have you got a pen with you?  
-
----
 
 U vergist zich.  
 You are mistaken.  
 
----
-
 Haast u!  
 Hurry up!  
-
----
 
 Zij wast zich. Zij wast zichzelf.  
 She washes herself.  
 
----
-
 Zij amuseert zich op het feest.  
 She is enjoying herself at the party.  
-
----
 
 Hij gedraagt zich netjes in de klas.  
 He behaves properly in the classroom.  
 
----
-
 Ik haast me naar het station.  
 I am hurrying to the station.  
-
----
 
 We herinneren ons de vakantie goed.  
 We remember the holiday well.  
 
----
-
 Jij verbaast je over het nieuws.  
 You are surprised by the news.  
-
----
 
 Hij verbeeldt zich dat hij beroemd is.  
 He imagines that he is famous.  
 
----
-
 Ik vergis me in de tijd.  
 I am mistaken about the time.  
-
----
 
 Ze vervelen zich thuis.  
 They are bored at home.  
 
----
-
 Voel je je beter vandaag?  
 Do you feel better today?  
-
----
 
 Aan  
 To, at  
 
----
-
 Afrekenen  
 Pay the bill  
-
----
 
 De appeltaart  
 Apple cake  
 
----
-
 Het cadeau  
 Present  
-
----
 
 Het cadeautje  
 Small present  
 
----
-
 Druk  
 Busy  
-
----
 
 Ik heb het druk  
 I am busy  
 
----
-
 Eigenlijk  
 Actually  
-
----
 
 Fris  
 Fresh, refreshing  
 
----
-
 Geven  
 Give  
-
----
 
 De koffie  
 Coffee  
 
----
-
 Kopen  
 Buy  
-
----
 
 Het kopje  
 Cup  
 
----
-
 Krijgen  
 Receive, get  
-
----
 
 Lekker  
 Nice, tasty  
 
----
-
 Meteen  
 Immediately  
-
----
 
 Het mobieltje  
 Mobile (phone)  
 
----
-
 De middag  
 Afternoon, midday  
-
----
 
 Nemen  
 Take  
 
----
-
 Niets  
 Nothing  
-
----
 
 Nog een  
 Another  
 
----
-
 De ober  
 Waiter  
-
----
 
 Ook nog  
 As well  
 
----
-
 Ontzettend  
 Awful, awfully  
-
----
 
 Smaken  
 Taste  
 
----
-
 Het stuk  
 Piece  
-
----
 
 Het terrasje  
 Terrace  
 
----
-
 De thee  
 Tea  
 
----
-
 Van  
 Of, from  
-
----
 
 De zon  
 Sun  
@@ -9769,342 +8255,206 @@ That umbrella is yours.
 Dat geld is van hem. → Dat geld is het zijne.
 That money is his.
 
----
-
 Kent u mijn man?  
 Do you know my husband?
-
----
 
 Zijn vrouw is erg aardig.  
 His wife is very kind.
 
----
-
 Uw krant ligt op tafel.  
 Your newspaper is on the table.
-
----
 
 Heb jij je mobieltje bij je?  
 Do you have your mobile (phone) with you?
 
----
-
 Haar schoenen liggen op de grond.  
 Her shoes are on the ground.
-
----
 
 Onze koffers staan daar op het perron.  
 Our suitcases are there on the platform.
 
----
-
 Ik vind hun tuin erg mooi.  
 I find their garden very beautiful.
-
----
 
 Waar staat jullie auto?  
 Where is your car parked?
 
----
-
 Ik ben met mijn moeders auto vanavond.  
 I am with my mother's car tonight.
-
----
 
 Haar broers vriendin komt uit Utrecht.  
 Her brother’s girlfriend comes from Utrecht.
 
----
-
 De poes van de buren speelt in onze tuin.  
 The neighbours' cat is playing in our garden.
-
----
 
 Hij heeft de fiets van zijn zus.  
 He has his sister's bike.
 
----
-
 Zij hebben geld nodig.  
 They need money.
-
----
 
 Heeft u een pen nodig? Neemt u die van mij.  
 Do you need a pen? Take mine.
 
----
-
 Dat boek van jou ligt op de stoel.  
 That book of yours is on the chair.
-
----
 
 Ik zoek een tas. Waar is die van jullie?  
 I’m looking for a bag. Where is yours?
 
----
-
 Hier zijn jouw pakjes.  
 Here are your (singular) packages.
-
----
 
 Mijn koffer is daar.  
 My case is over there.
 
----
-
 Kennen jullie hun dochter?  
 Do you (plural) know their daughter?
-
----
 
 Zijn die kinderen van haar?  
 Are those children hers?
 
----
-
 Ons huis is veel te groot voor ons.  
 Our house is much too big for us.
-
----
 
 We hebben uw treinkaartjes. Wie heeft de onze?  
 We’ve got your (formal) train tickets. Who has ours?
 
----
-
 Zijn vrouw is erg aardig. Ken jij haar?  
 His wife is very kind. Do you (singular) know her?
-
----
 
 Is dit boek van jou? Ja, het is mijn boek.  
 Is this book yours? Yes, it is my book.
 
----
-
 Is deze pen van mij? Ja, het is jouw pen.  
 Is this pen mine? Yes, it is your pen.
-
----
 
 Is deze paraplu van hen? Ja, het is hun paraplu.  
 Is this umbrella theirs? Yes, it is their umbrella.
 
----
-
 Zijn deze koffers van ons? Ja, het zijn jullie koffers.  
 Are these suitcases ours? Yes, they are your (plural) suitcases.
-
----
 
 Is deze tas van haar? Ja, het is haar tas.  
 Is this bag hers? Yes, it is her bag.
 
----
-
 Zijn deze kranten van hem? Ja, het zijn zijn kranten.  
 Are these newspapers his? Yes, they are his newspapers.
-
----
 
 Is dit pakje sigaretten van ons? Ja, het is jullie pakje sigaretten.  
 Is this packet of cigarettes ours? Yes, it is your (plural) packet of cigarettes.
 
----
-
 Ik heb een pen nodig. Neem die van mij.  
 I need a pen. Take mine.
-
----
 
 Ik heb geld nodig. Neem dat van mij.  
 I need money. Take mine.
 
----
-
 Wij hebben een paraplu nodig. Neem die van mij.  
 We need an umbrella. Take mine.
-
----
 
 Wij hebben kaarten nodig. Neem die van mij.  
 We need tickets. Take mine.
 
----
-
 Ik heb een glas nodig. Neem dat van mij.  
 I need a glass. Take mine.
-
----
 
 Wij hebben twee koffers nodig. Neem die van mij.  
 We need two suitcases. Take mine.
 
----
-
 Ik heb een tas nodig. Neem die van mij.  
 I need a bag. Take mine.
-
----
 
 Ik heb de treinkaarten.  
 I’ve got the train tickets.  
 
----
-
 Twee retourtjes naar den Haag.  
 Two returns to The Hague.  
-
----
 
 Volgens de man achter het loket vertrekt de trein over een kwartier van spoor vijf.  
 According to the man behind the ticket window, the train leaves in a quarter of an hour from platform 5.  
 
----
-
 Goed zo. Ik ga even naar de wc.  
 Right. I’m just going to the loo.  
-
----
 
 Weet jij waar die is?  
 Do you know where it is?  
 
----
-
 Ja. Daar bij de ingang.  
 Yes. Over there by the entrance.  
-
----
 
 Ik blijf hier bij de koffers.  
 I’m staying here with the cases.  
 
----
-
 Ik ben zo terug.  
 I won’t be a minute.  
-
----
 
 Klaar?  
 Ready?  
 
----
-
 Ik koop eerst even een krant.  
 I’m just going to buy a newspaper first.  
-
----
 
 Waarom lees je die van mij niet?  
 Why don’t you read mine?  
 
----
-
 Ik heb ook een boek bij me.  
 I’ve got a book with me too.  
-
----
 
 Ja, goed. Maar ik heb een pakje sigaretten nodig.  
 All right. But I need a packet of cigarettes.  
 
----
-
 Heb je nu alles?  
 Have you got everything now?  
-
----
 
 Gaan we naar het perron?  
 Shall we go to the platform?  
 
----
-
 Is deze koffer van mij of van jou?  
 Is this case mine or yours?  
-
----
 
 Hij is erg zwaar.  
 It’s very heavy.  
 
----
-
 Die is van jou, geloof ik.  
 It’s yours, I think.  
-
----
 
 Neem jij hem en schiet op!  
 You take it, and get a move on.  
 
----
-
 We hebben haast.  
 We’re in a hurry.  
-
----
 
 Vergeet je tas niet!  
 Don’t forget your bag!  
 
----
-
 O, wat is deze zwaar.  
 Oh, this one’s so heavy.  
-
----
 
 Daar heb je spoor vijf en daar staat onze trein.  
 There’s platform 5 and there’s our train.  
 
----
-
 Waarom haast je je niet?  
 Why don’t you hurry?  
-
----
 
 Draag jij dan deze koffer.  
 You carry this case, then.  
 
----
-
 Ik stop even.  
 I’m stopping for a minute.  
-
----
 
 Geef hem aan mij en neem de mijne.  
 Give it to me and take mine.  
 
----
-
 Ik zie de trein niet.  
 I can’t see the train.  
-
----
 
 Hij is er toch nog niet.  
 It isn’t there yet after all.  
 
----
-
 Hij is al weg! Idioot!  
 It’s gone, you idiot!  
-
----
 
 Wij hehhen gisteren veel foto's gemaakt.
 We took a lot of photographs yesterday.
@@ -10247,3 +8597,209 @@ say
 zelf
 myself, yourself, etc (when verb not reflexive)
 
+maken → gemaakt
+made
+
+kloppen → geklopt
+knocked / was correct
+
+bellen → gebeld
+called
+
+vertellen → verteld
+told
+
+werken → gewerkt
+worked
+
+koken → gekookt
+cooked
+
+ontmoeten → ontmoet
+met
+
+beloven → beloofd
+promised
+
+verhuizen → verhuisd
+moved (house)
+
+branden → gebrand
+burned
+
+Zij heeft gisteren een foto van het huis gemaakt.
+She took a photo of the house yesterday.
+
+Wij hebben over alles gepraat.
+We talked about everything.
+
+Mijn broer heeft vanavond gekookt.
+My brother cooked this evening.
+
+Heeft u altijd in Utrecht gewoond?
+Have you always lived in Utrecht?
+
+Wat jammer! Je hebt de trein gemist.
+What a pity! You missed the train.
+
+De kinderen hebben een huisje in de tuin gebouwd.
+The children built a little house in the garden.
+
+Ik heb de stapel kranten verbrand.
+I burned the pile of newspapers.
+
+Opa heeft gisteren gebeld.
+Grandpa called yesterday.
+
+Hebben jullie alles aan je moeder verteld?
+Did you (plural) tell your mother everything?
+
+Zij hebben haar in het park ontmoet.
+They met her in the park.
+
+Gisteren heeft hij met zijn vrienden op straat gespeeld.
+Yesterday he played on the street with his friends.
+
+Daarna heeft hij thuis gestudeerd.
+Afterwards he studied at home.
+
+Ik heb gisteren hard gewerkt.
+I worked hard yesterday.
+
+Jullie hebben in Holland gewoond, nietwaar?
+You’ve (plural) lived in Holland, haven’t you?
+
+Zij heeft die jurk zelf gemaakt.
+She made that dress herself.
+
+Zij hebben een foto van ons huis gemaakt.
+They took a photograph of our house.
+
+Wie heeft zij op het station ontmoet?
+Whom did she meet at the station?
+
+Ik was verbaasd.
+I was amazed.
+
+Hij heeft ons over het feest verteld.
+He told us about the party.
+
+Heeft u er iets over gehoord?
+Have you (formal) heard anything about it?
+
+Wij hebben het altijd geloofd.
+We have always believed it.
+
+Ik heb mij gisteren heel moe gevoeld.
+I felt very tired yesterday.
+
+Ik heb het zelf gezegd.
+I said it myself.
+
+Jullie hebben het zelf gezegd.
+You (plural) said it yourselves.
+
+Zij heeft het zelf gezegd.
+She said it herself.
+
+U hebt het zelf gezegd.
+You (formal) said it yourself.
+
+Wij hebben het zelf gezegd.
+We said it ourselves.
+
+Jij hebt het zelf gezegd.
+You (singular) said it yourself.
+
+Hij heeft het zelf gezegd.
+He said it himself.
+
+Zij hebben het zelf gezegd.
+They said it themselves.
+
+Ik werk hard. Ik heb gisteren hard gewerkt.
+I work hard. I worked hard yesterday.
+
+Ik maak een foto. Ik heb gisteren een foto gemaakt.
+I take a photo. I took a photo yesterday.
+
+Ik voel me ziek. Ik heb me gisteren ziek gevoeld.
+I feel sick. I felt sick yesterday.
+
+Ik speel met de hond. Ik heb gisteren met de hond gespeeld.
+I play with the dog. I played with the dog yesterday.
+
+Ik hoor het van haar. Ik heb het gisteren van haar gehoord.
+I hear it from her. I heard it from her yesterday.
+
+Ik ontmoet hem op straat. Ik heb hem gisteren op straat ontmoet.
+I meet him on the street. I met him on the street yesterday.
+
+Ik studeer thuis. Ik heb gisteren thuis gestudeerd.
+I study at home. I studied at home yesterday.
+
+Juf! Ik vind het huiswerk erg moeilijk.
+Miss! I think the homework’s very difficult.
+
+Hoe schrijf je een brief?
+How do you write a letter?
+
+Ik weet het niet.
+I don’t know.
+
+Mijn moeder doet het altijd voor me.
+My mother always does it for me.
+
+Je begint met ‘beste oma, hoe gaat het met u? Mij gaat het goed’.
+You start with ‘dear Grandma, how are you? I am fine’.
+
+En dan vertel je iets over jezelf.
+And then you say something about yourself.
+
+Heb je gisteren hard gewerkt?
+Did you work hard yesterday?
+
+Ja, en ik heb ook gespeeld.
+Yes, and I played, too.
+
+Goed, dan schrijf je: ‘ik heb gisteren op school erg hard gewerkt en daarna heb ik met de jongens in het park gespeeld.’
+Fine. Then you write: ‘I worked very hard yesterday at school and afterwards I played with the boys in the park.’
+
+Klopt dat?
+Is that right?
+
+Ja, en wij hebben een jongen met een hond ontmoet.
+Yes, and we met a boy with a dog.
+
+De hond heeft de hele tijd geblaft.
+The dog barked the whole time.
+
+We hebben een huisje van dozen gebouwd.
+We built a house from boxes.
+
+En we hebben erin gespeeld.
+And played in it.
+
+Waarom schrijf je dat dan niet?
+Why don’t you write that then?
+
+Maar de rekenles begint over vijf minuten.
+But the arithmetic lesson begins in five minutes.
+
+Juf! Wat zeg je aan het eind van een brief?
+Miss! What do you say at the end of a letter?
+
+Vraag het maar aan je moeder vanavond.
+Ask your mother this evening.
+
+Dan schrijf ik zelf iets: ‘U komt binnenkort op bezoek, zegt mam. Ik hoop het. Groetjes, Piet.’
+Then I’ll write something myself: ‘You’re coming to visit us soon, mum says. I hope so. Love, Pete.’
+
+Zo! Juf! Ik ben klaar.
+There! Miss! I’ve finished.
+
+Uitstekend, Piet!
+Excellent, Pete!
+
+En nu voor je huiswerk een brief aan een oom schrijven.
+And now write a letter to an uncle for your homework.
