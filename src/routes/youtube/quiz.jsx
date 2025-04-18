@@ -17,7 +17,7 @@ export default function YoutubeQuiz() {
   useEffect(() => {
     async function initializeState() {
       const processedArray = await processTextFile();
-      setObjectsArray(processedArray);
+      setObjectsArray(processedArray.reverse());
     }
     initializeState();
   }, []);
