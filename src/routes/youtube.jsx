@@ -10,7 +10,7 @@ export default function Youtube() {
   useEffect(() => {
     async function initializeState() {
       const processedArray = await processTextFile();
-      setObjectsArray(processedArray.reverse());
+      setObjectsArray(processedArray);
     }
     initializeState();
   }, []);
