@@ -8,6 +8,7 @@ import Words from "./routes/words";
 import Quiz from "./routes/quiz";
 import Youtube from "./routes/youtube";
 import YoutubeQuiz from "./routes/youtube/quiz";
+import YoutubeAudio from "./routes/youtube/audio";
 import Xxxx from "./routes/xxxx";
 
 const router = createBrowserRouter([
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
   {
     path: "/youtube/quiz",
     element: <YoutubeQuiz />,
+  },
+  {
+    path: "/youtube/audio",
+    element: <YoutubeAudio />,
   },
   {
     path: "/xxxx",
