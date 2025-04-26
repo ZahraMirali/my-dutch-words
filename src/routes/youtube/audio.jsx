@@ -65,7 +65,7 @@ export default function YoutubeAudio() {
     <div className="flex flex-col items-center p-4 overflow-y-auto h-screen">
       <div className="p-6 max-w-xl bg-white rounded-2xl shadow-md">
         <audio ref={audioRef} controls className="w-full">
-          <source src="/audio/my-audio.mp3" type="audio/mpeg" />
+          <source src="/audio/1.mp3" type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
 
