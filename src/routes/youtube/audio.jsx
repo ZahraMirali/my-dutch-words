@@ -98,8 +98,8 @@ export default function YoutubeAudio() {
   }, [currentSegment]);
 
   return (
-    <div className="flex flex-col items-center p-4 overflow-y-auto h-screen space-y-6">
-      <div className="p-4 max-w-xl w-full bg-white rounded-2xl shadow-md space-y-4">
+    <div className="flex flex-col items-center p-4 gap-4">
+      <div className="p-4 max-w-xl w-full bg-white rounded-2xl shadow-md">
         <h2 className="text-xl font-bold text-center">انتخاب فایل صوتی</h2>
         <div className="flex flex-wrap justify-center gap-2">
           {audioFiles.map((file, index) => (
@@ -120,7 +120,7 @@ export default function YoutubeAudio() {
       </div>
 
       {audioFile && (
-        <div className="p-6 max-w-xl w-full bg-white rounded-2xl shadow-md space-y-6">
+        <div className="p-6 max-w-xl w-full bg-white rounded-2xl shadow-md">
           {/* Hidden audio element */}
           <audio ref={audioRef} src={audioFile} className="hidden" />
 
