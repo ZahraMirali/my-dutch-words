@@ -11215,3 +11215,913 @@ But I daren’t try it.
 
 Vind jij Gerda soms zo dom?  
 Do you think Gerda’s that stupid?
+
+Gelukkig zijn onze buren erg aardig.  
+Luckily our neighbors are very kind.  
+
+Ik vond het een erg interessant boek.  
+I found it a very interesting book.  
+
+Kleine kinderen kunnen niet op straat spelen.  
+Small children cannot play in the street.  
+
+Mijn moeder houdt niet van kleuren. Ze heeft de muren wit geschilderd.  
+My mother does not like colors. She painted the walls white.  
+
+Ik heb geen geld meer. Ik heb hele dure schoenen gekocht.  
+I have no money left. I bought very expensive shoes.  
+
+Het is een lichte kamer met grote ramen.  
+It is a bright room with big windows.  
+
+Mijn vriendin houdt van lekker eten en goede wijn.  
+My girlfriend likes tasty food and good wine.  
+
+Mijn broer vond het een moeilijke les. Hij heeft niet veel geleerd.  
+My brother found it a difficult lesson. He did not learn much.  
+
+Jullie moeten hard werken.  
+You must work hard.  
+
+Wij kunnen het verhaal niet geloven.  
+We cannot believe the story.  
+
+Jij mag nu naar huis gaan.  
+You may go home now.  
+
+Hij wil een nieuwe auto kopen.  
+He wants to buy a new car.  
+
+Ik kan vrijdag niet komen.  
+I cannot come on Friday.  
+
+Piet en Maarten willen naar het strand gaan.  
+Piet and Maarten want to go to the beach.  
+
+Anneke moet vanavond naar de dokter gaan.  
+Anneke must go to the doctor tonight.  
+
+Hij mag het niet doen.  
+He may not do it.  
+
+Ik wil een tweepersoonskamer reserveren.  
+I want to reserve a double room.  
+
+Kunt u misschien op zaterdag komen?  
+Could you maybe come on Saturday?  
+
+Tante Lies komt morgen aan.  
+Aunt Lies will arrive tomorrow.  
+
+Ik bel haar vaak op.  
+I call her often.  
+
+De kinderen hebben de hele taart opgegeten.  
+The children have eaten the whole cake.  
+
+Tineke gaat met ons mee.  
+Tineke is coming along with us.  
+
+Mijn broer is gisteren al weggegaan.  
+My brother already left yesterday.  
+
+We zijn hem op straat tegengekomen.  
+We met him in the street.  
+
+Wil je de deur dichtdoen?  
+Do you want to close the door?  
+
+Kun je het raam voor mij opendoen?  
+Can you open the window for me?  
+
+Ik kom je van het station afhalen.  
+I will pick you up from the station.  
+
+Mag ik met jullie meerijden?  
+May I ride with you?  
+
+We gaan vanavond uit.  
+We are going out tonight.  
+
+We komen wel. → We zullen wel komen.  
+We will come.  
+
+Ik ga beslist mee. → Ik zal beslist meegaan.  
+I will definitely go along.  
+
+We halen je van het vliegveld af. → We zullen je van het vliegveld afhalen.  
+We will pick you up from the airport.  
+
+Hij doet het vandaag. → Hij zal het vandaag doen.  
+He will do it today.
+
+Welke auto koopt zij? → Welke auto zal zij kopen?  
+Which car will she buy?  
+
+Ik ben morgen de hele dag thuis. → Ik zal morgen de hele dag thuis zijn.  
+I will be home all day tomorrow.
+
+Aanvaardt u het voorstel? → Zult u het voorstel aanvaarden?  
+Will you accept the proposal?  
+
+Je gaat niet weg, hoop ik? → Je zult niet weggaan, hoop ik?  
+You will not leave, I hope?  
+
+Ze bedoelen het goed. → Ze zullen het goed bedoelen.  
+They will mean it well.  
+
+Ik ga zaterdag naar een feest. Wil je met me meegaan?  
+I am going to a party on Saturday. Do you want to come with me?  
+
+Dan moet je een nieuwe broek kopen, vind ik. Die oude ziet er verschrikkelijk uit.  
+Then you must buy new pants, I think. Those old ones look terrible.  
+
+Ik kan geen nieuwe broek kopen, want ik heb geen geld.  
+I cannot buy new pants, because I have no money.  
+
+En jij? Moet jij niet naar de kapper gaan?  
+And you? Shouldn’t you go to the hairdresser?  
+
+Anders wil ik niet met jou gaan.  
+Otherwise, I don't want to go with you.  
+
+Dan kunnen we beter niet gaan, denk ik.  
+Then we better not go, I think.  
+
+Nou, blijf jij dan thuis zitten, ik ga wel!  
+Well, you stay at home then, I will go!  
+
+Ik moet lachen. → Ik heb moeten lachen.
+I must laugh. → I have had to laugh.
+
+Ik wil een taxi nemen. → Ik heb een taxi willen nemen.
+I want to take a taxi. → I have wanted to take a taxi.
+
+Je moet veel lezen. → Je hebt veel moeten lezen.
+You must read a lot. → You have had to read a lot.
+
+We willen vroeg eten. → We hebben vroeg willen eten.
+We want to eat early. → We have wanted to eat early.
+
+Ze kunnen vandaag niet komen. → Ze hebben vandaag niet kunnen komen.
+They can’t come today. → They have not been able to come today.
+
+Ik moet hard studeren. → Ik heb hard moeten studeren.
+I must study hard. → I have had to study hard.
+
+Ze staan te wachten. → Ze hebben staan wachten.
+They are standing waiting. → They have been standing waiting.
+
+Je zit te lachen. → Je hebt zitten lachen.
+You are sitting laughing. → You have been sitting laughing.
+
+De poes ligt de hele dag te slapen. → De poes heeft de hele dag liggen slapen.
+The cat is lying asleep all day. → The cat has been lying asleep all day.
+
+Zitten jullie niets te doen? → Hebben jullie niets zitten doen?
+Are you sitting doing nothing? → Have you been sitting doing nothing?
+
+We zitten naar de radio te luisteren. → We hebben naar de radio zitten luisteren.
+We are sitting listening to the radio. → We have been sitting listening to the radio.
+
+Ik leer haar zwemmen. → Ik heb haar leren zwemmen.
+I teach her to swim. → I have taught her to swim.
+
+Hij blijft op het perron staan. → Hij is op het perron blijven staan.
+He stays standing on the platform. → He has stayed standing on the platform.
+
+We komen je in de tuin helpen. → We zijn je in de tuin komen helpen.
+We come to help you in the garden. → We have come to help you in the garden.
+
+Ze gaat een nieuwe fiets kopen. → Ze is een nieuwe fiets gaan kopen.
+She is going to buy a new bike. → She has gone to buy a new bike.
+
+Laat je je schoenen repareren? → Heb je je schoenen laten repareren?
+Do you have your shoes repaired? → Have you had your shoes repaired?
+
+De hond slaapt en de kat speelt.  
+The dog is sleeping and the cat is playing.  
+
+Ga je mee of blijf je thuis?  
+Are you coming along or are you staying at home?  
+  
+Ik zie haar nooit want ze woont zo ver weg.  
+I never see her because she lives so far away.  
+
+Hij zegt dat hij morgen komt.  
+He says that he will come tomorrow.  
+
+nadat  
+after  
+  
+omdat  
+because  
+
+totdat  
+until  
+  
+voordat  
+before  
+  
+hoe'wél  
+although  
+  
+nu  
+now that  
+  
+of  
+whether  
+
+ter'wijl  
+while  
+  
+zoals  
+as  
+  
+als  
+if, when  
+  
+wanneer  
+whenever, when  
+  
+toen  
+when  
+
+Als/wanneer hij komt ...  
+When he comes ...  
+
+Als/wanneer de zon schijnt, voel ik me gelukkig.  
+When (whenever) the sun shines I feel happy.  
+
+Toen ik in Amsterdam woonde ...  
+When I lived in Amsterdam ...  
+
+Mijn broer zegt dat hij een nieuwe auto heeft.  
+My brother says (that) he has a new car.  
+
+Mijn broer zegt dat hij een nieuwe auto heeft gekocht/gehaald.  
+My brother says that he has bought a new car.  
+
+Mijn broer zegt dat hij een nieuwe auto zal kopen/kopen zal.  
+My brother says that he will buy a new car.  
+
+Mijn broer zegt dat hij een nieuwe auto moet kopen/kopen moet.  
+My brother says that he must buy a new car.  
+
+Mijn broer zegt dat hij een nieuwe auto gaat kopen/kopen gaat.  
+My brother says that he is going to buy a new car.  
+
+Mijn broer zegt dat hij een nieuwe auto heeft moeten kopen.
+My brother says that he had to buy a new car.
+
+Mijn broer zegt dat hij een nieuwe auto is gaan kopen.
+My brother says that he is going to buy a new car.
+
+Zij zijn aan het spelen.  
+They are playing.  
+
+Ik ben een boek aan het zoeken.  
+I am looking for a book.  
+
+Wij gaan naar huis.  
+We are going home.  
+
+De spiegel hangt aan de muur.  
+The mirror is hanging on the wall.  
+
+act'en (geacteerd)  
+act  
+
+de act'eur  
+actor  
+
+bekend  
+famous, well-known  
+
+de choco'la(de)  
+chocolate  
+
+commercieel  
+commercial  
+
+dichtbij  
+close to  
+
+gelijk hebben  
+be right  
+
+het gezicht  
+face  
+
+hoe kan dat nou !  
+how on earth...!  
+
+ieder'een  
+everyone  
+
+zich inleven (ingeleefd) in  
+identify with, get into  
+
+missen  
+lack  
+
+de pauze  
+interval  
+
+het pub'liek  
+audience  
+
+'regenen (geregend)  
+rain  
+
+in de rij staan  
+queue  
+
+de re'clame  
+advert, advertising  
+
+spon'taan  
+spontaneous  
+
+het the'ater  
+theatre  
+
+de theatergroep  
+theatre group  
+
+het to'neel  
+stage  
+
+het toneelstuk  
+play  
+
+uitgeven (uitgegeven)  
+spend  
+
+verdienen (verdiend)  
+earn  
+
+'voorkomen  
+appear, seem; occur  
+
+(voorgekomen)  
+
+voor'komen  
+prevent (note where stress is placed)  
+
+het komt mij bekend voor  
+it seems familiar to me  
+
+Zij verdienen veel en zij geven veel uit.  
+They earn a lot and they spend a lot.  
+
+Ik houd van het theater, maar ik ga ook naar de bioscoop.  
+I love the theatre, but I also go to the cinema.  
+
+Blijf je thuis of ga je uit?  
+Are you staying home or going out?  
+
+Het regent, dus wij gaan met de auto.  
+It is raining, so we are going by car.  
+
+Weet u of het waar is?  
+Do you know if it is true?  
+
+Ik denk dat hij gelijk heeft.  
+I think that he is right.  
+
+Ze is haar haar aan het wassen.  
+She is washing her hair.  
+
+Als het kan, willen wij vanavond naar het theater.  
+If possible, we want to go to the theatre tonight.  
+
+Ze zegt dat ze aan het eten zijn.  
+She says that they are eating.  
+
+Wanneer het mooi weer is, gaan de kinderen in het park spelen.  
+When the weather is nice, the children play in the park.  
+
+Zijn gezicht komt mij bekend voor, want ik heb hem op de tv gezien.  
+His face seems familiar to me because I have seen him on TV.  
+
+Hij zegt dat hij veel gelachen heeft omdat het stuk zo grappig is.  
+He says that he laughed a lot because the play is so funny.  
+
+Hij kijkt televisie en zij luistert naar de radio.  
+He watches television and she listens to the radio.  
+
+Wij zijn de auto aan het wassen.
+We are washing the car.  
+
+Hij acteert goed, maar hij is niet beroemd.  
+He acts well, but he is not famous.  
+
+Ik denk dat u gelijk heeft.  
+I think that you (formal) are right.  
+
+Zij wil weten of jij werkt.  
+She wants to know whether you (sing.) are working.  
+
+Gaan jullie (meervoud) naar een restaurant voordat jullie naar het theater gaan?  
+Are you (plural) going to a restaurant before you go to the theatre?  
+
+Als het mooi weer is, ga ik naar het strand.  
+If it is nice weather I shall go to the beach.  
+
+Wanneer het regent blijf ik thuis.  
+When it rains I stay at home.  
+
+Leer jij Frans of spreek je het al?  
+Are you (sing.) learning French or do you speak it already?  
+
+Wij gaan niet mee omdat we het stuk al gezien hebben.  
+We aren’t going along because we’ve already seen the play.  
+
+Waarom fiets je? Omdat ik graag fiets.  
+Why do you cycle? Because I like cycling.  
+
+Waarom doe je dat? Omdat ik dat graag doe.  
+Why do you do that? Because I like doing that.  
+
+Waarom werk je? Omdat ik graag werk.  
+Why do you work? Because I like working.  
+
+Waarom acteer je? Omdat ik graag acteer.  
+Why do you act? Because I like acting.  
+
+Waarom studeer je? Omdat ik graag studeer.  
+Why do you study? Because I like studying.  
+
+Waarom kook je? Omdat ik graag kook.  
+Why do you cook? Because I like cooking.  
+
+Waarom bel je op? Omdat ik graag opbel.  
+Why do you call? Because I like calling.  
+
+Pauze
+Interval
+
+Het verbaast me dat we kaarten voor vanavond hebben kunnen krijgen.  
+It amazes me that we managed to get tickets for tonight.  
+
+Het is zo ontzettend druk.  
+It’s so terribly busy.  
+
+Hoe lang is de pauze?  
+How long is the interval?  
+
+Denk je dat we tijd hebben voor een kopje koffie?  
+Do you think we have time for a cup of coffee?  
+
+Jazeker.  
+Of course.  
+
+Zullen we in de rij gaan staan?  
+Shall we go and stand in the queue?  
+
+Hoe vind je het toneelstuk?  
+What do you think of the play?  
+
+Goed geacteerd, hè?  
+Well acted, isn’t it?  
+
+Ik vind dat het stuk zelf iets mist.  
+I think the play itself lacks something.  
+
+Hoewel het best grappig is.  
+Although it’s quite funny.  
+
+Maar zoals je zegt, kunnen die mensen goed acteren.  
+But as you say, those people can act.  
+
+Ze zijn in ieder geval enthousiast en spontaan.  
+They're enthusiastic and spontaneous, at any rate.  
+
+Dat is het leuke van deze kleine theaters.  
+That’s the nice thing about these little theatres.  
+
+Dat het publiek dichtbij het toneel zit.  
+That the audience sits close to the stage.  
+
+En zich in het stuk makkelijk in kan leven.  
+And can get into the play easily.  
+
+Weet jij of die jonge acteur bekend is?  
+Do you know whether that young actor is well-known?  
+
+Ik ken zijn gezicht.  
+I know his face.  
+
+Nu je het zegt, zie ik wat je bedoelt.  
+Now that you mention it, I can see what you mean.  
+
+Volgens mij heb ik hem op de tv gezien in een reclame voor chocola.  
+I reckon I’ve seen him on television in an advert for chocolate.  
+
+Kan dat?  
+Is that possible?  
+
+Je hebt gelijk!  
+You’re right!  
+
+Hij verdient zeker niet zo veel bij deze theatergroep.  
+He probably doesn’t earn that much with this theatre group.  
+
+Ook als je niet erg bekend bent, kun je toch meer met commerciële dingen verdienen.  
+Even if you’re not very well-known, you can earn more from commercial things.  
+
+Henk! Heb jij de bel gehoord?  
+Henk! Did you hear the bell?  
+
+Iedereen is weg!  
+Everyone’s gone!  
+
+Hoe kan dat nou!  
+How on earth…!  
+
+ik betaalde - hij betaalde - wij betaalden  
+I paid - he paid - we paid  
+
+ik redde - hij redde - wij redden  
+I saved - he saved - we saved  
+
+Hij belde gisteren op.  
+He rang up yesterday.  
+
+Ze zei dat hij gisteren opbelde.  
+She said that he rang up yesterday.  
+
+zingen
+ik zong - hij zong - wij zongen  
+I sang - he sang - we sang  
+
+dragen
+ik droeg - hij droeg - wij droegen  
+I carried - he carried - we carried  
+
+slapen
+ik sliep - hij sliep - wij sliepen  
+I slept - he slept - we slept  
+
+doen
+ik deed - hij deed - wij deden
+I did - he did - we did
+
+hebben
+ik had - jij had - wij hadden
+I had - you had - we had
+
+zijn
+ik was - jij was - wij waren
+I was - you were - we were
+
+Ik ging de stad in, kocht een cd, ging op een terras zitten, en daarna liep ik naar huis.  
+I went into town, bought a CD, went and sat on a café-terrace, and afterwards I walked home.  
+
+Toen ik in Amsterdam woonde, ging ik vaak naar het theater.  
+When I lived in Amsterdam, I often went to the theatre.  
+
+Ik was in de stad. Ik ben in de stad geweest.  
+I was in town.  
+
+Hij is voor zijn examen geslaagd, maar hij was ook altijd knapper dan ik.  
+He passed his exam, but he always was cleverer than me.  
+
+aanbieden (strong)  
+offer  
+
+aannemen (strong)  
+accept  
+
+de betrekking  
+post, job  
+
+breed  
+wide, broad  
+
+de cd  
+CD  
+
+de chef  
+boss  
+
+de ervaring  
+experience  
+
+de firma  
+firm, company  
+
+gaan zitten  
+sit down  
+
+veel gemeen hebben  
+have a lot in common with  
+
+met iemand  
+with someone  
+
+de groothandel  
+wholesale business  
+
+de handelsreiziger  
+commercial traveller  
+
+hé  
+isn’t it, wasn’t it etc.  
+
+huidig  
+present (adj.)  
+
+de kantoorbediende  
+clerk  
+
+knap  
+clever; good-looking  
+
+de kruidenier  
+grocer  
+
+het luxeartikel  
+luxury item  
+
+de manager  
+manager  
+
+neerzetten  
+put down  
+
+opgeven (strong)  
+give up  
+
+goed met iemand  
+get on with someone well  
+
+het personeel  
+personnel, staff  
+
+solliciteren  
+apply  
+
+toen  
+then, at that time  
+
+veranderen van  
+change  
+
+de verkoopleider  
+sales manager  
+
+in verwachting  
+expecting a baby  
+
+weigeren  
+drive off  
+
+de werkzaamheden  
+occupation  
+
+de winkelbediende  
+shop-assistant  
+
+zwanger  
+pregnant  
+
+hopen  
+ik hoopte - jij hoopte - wij hoopten  
+I hoped - you hoped - we hoped  
+
+groeien  
+ik groeide - jij groeide - wij groeiden  
+I grew - you grew - we grew  
+
+bouwen  
+ik bouwde - jij bouwde - wij bouwden  
+I built - you built - we built  
+
+maken  
+ik maakte - jij maakte - wij maakten  
+I made - you made - we made  
+
+leven  
+ik leefde - jij leefde - wij leefden  
+I lived - you lived - we lived  
+
+praten  
+ik praatte - jij praatte - wij praatten  
+I talked - you talked - we talked  
+
+verhuizen  
+ik verhuisde - jij verhuisde - wij verhuisden  
+I moved - you moved - we moved  
+
+zetten  
+ik zette - jij zette - wij zetten  
+I put - you put - we put  
+
+blaffen  
+ik blafte - jij blafte - wij blafden  
+I barked - you barked - we barked  
+
+branden  
+ik brandde - jij brandde - wij brandden  
+I burned - you burned - we burned  
+
+schrijven  
+ik schreef - jij schreef - wij schreven  
+I wrote - you wrote - we wrote  
+
+gaan  
+ik ging - jij ging - wij gingen  
+I went - you went - we went  
+
+brengen  
+ik bracht - jij bracht - wij brachten  
+I brought - you brought - we brought  
+
+lezen  
+ik las - jij las - wij lazen  
+I read - you read - we read  
+
+lopen  
+ik liep - jij liep - wij liepen  
+I walked - you walked - we walked  
+
+vragen  
+ik vroeg - jij vroeg - wij vroegen  
+I asked - you asked - we asked  
+
+staan  
+ik stond - jij stond - wij stonden  
+I stood - you stood - we stood  
+
+nemen  
+ik nam - jij nam - wij namen  
+I took - you took - we took  
+
+kopen  
+ik kocht - jij kocht - wij kochten  
+I bought - you bought - we bought  
+
+hangen  
+ik hing - jij hing - wij hingen  
+I hung - you hung - we hung  
+
+Wij betaalden en gingen weg.  
+We paid and left.  
+
+Gisteren was het mooi weer.  
+Yesterday the weather was nice.  
+
+Ze zaten de hele avond te praten.  
+They were talking the whole evening.  
+
+Jullie hadden drie katjes, dacht ik.  
+You had three kittens, I thought.  
+
+Het waren onze buren toen we in Utrecht woonden.  
+They were our neighbors when we lived in Utrecht.  
+
+Hij had een grote tuin voordat hij verhuisde.  
+He had a big garden before he moved.  
+
+Was u tevreden toen u daar werkte?  
+Were you satisfied when you worked there?  
+
+We gingen mee, stapten in de auto, en reden toen weg.  
+We went along, got in the car, and then drove off.  
+
+Ze praatte heel vriendelijk tegen me toen ze opbelde.  
+She spoke very kindly to me when she called.  
+
+De jongen redde de hond en nam hem mee naar huis.  
+The boy saved the dog and took him home.  
+
+Het was een leuk feest, nietwaar?  
+It was a nice party, wasn’t it?  
+
+Jullie hadden een heel oude auto.  
+You (plural) had a very old car.  
+
+Ik klopte op de deur, opende het en ging naar binnen.  
+I knocked at the door, opened it and went in.  
+
+We waren gisteren in de stad.  
+We were in town yesterday.  
+
+Had je geen nieuwe fiets?  
+Didn't you (singular) have a new bicycle?  
+
+Toen hij ons zag, lachte hij.  
+When he saw us, he laughed.  
+
+Zij bouwden een huis en gingen daar wonen.  
+They built a house and went to live there.  
+
+Ik droeg de koffer, zette hem neer, en ging erop zitten.  
+I carried the case, put it down, and sat down on it.  
+
+Op dat moment sprak ze alleen Engels.  
+At that time, she only spoke English.  
+
+Toen ik hem de baan aanbood, accepteerde hij het.  
+When I offered him the job, he accepted it.  
+
+Hij lag toen in bed. Hij ligt er nog.  
+He was lying in bed at that time. He is still lying there.  
+
+Hij zat toen in de keuken. Hij zit er nog.  
+He was sitting in the kitchen at that time. He is still sitting there.  
+
+Hij was toen thuis. Hij is er nog.  
+He was at home at that time. He is still there.  
+
+Hij stond toen op de hoek. Hij staat er nog.  
+He was standing at the corner at that time. He is still standing there.  
+
+Hij liep toen op straat. Hij loopt er nog.  
+He was walking on the street at that time. He is still walking there.  
+
+Hij sliep toen in de tuin. Hij slaapt er nog.  
+He was sleeping in the garden at that time. He is still sleeping there.  
+
+Hij bleef toen in de stad. Hij blijft er nog.  
+He stayed in the city at that time. He is still staying there.  
+
+Solicitatiegsprek
+Interview
+
+Komt u binnen, meneer Smit.  
+Come in, Mr Smit.  
+
+Ga u zitten.  
+Sit down.  
+
+U heeft dus naar de betrekking van verkoopleider gesolliciteerd.  
+So you have applied for the post of sales manager.  
+
+Ja, dat klopt.  
+Yes, that is right.  
+
+Ik lees uit uw brief dat u niet veel ervaring op dit gebied heeft.  
+I see from your letter that you haven’t much experience in this field.  
+
+Niet als manager, nee.  
+Not as a manager, no.  
+
+Maar ik heb wel een brede ervaring in allerlei banen.  
+But I do have wide experience in all kinds of jobs.  
+
+Vertelt u ons eens wat van uw vroegere werkzaamheden.  
+Tell us something about your previous occupations.  
+
+Toen ik van school ging, werkte ik als winkelbediende bij een kruidenier.  
+When I left school, I worked as a shop-assistant in a grocer’s.  
+
+Daarna had ik een baan als kantoorbediende bij een firma in de groothandel.  
+Afterwards I had a job as a clerk with a firm in the wholesale business.  
+
+En de laatste jaren heb ik als handelsreiziger in luxeartikelen gewerkt.  
+And in recent years, I have worked as a commercial traveller in luxury goods.  
+
+Dat doe ik nog steeds.  
+That’s what I’m still doing.  
+
+Waarom wilt u van baan veranderen?  
+Why do you want to change jobs?  
+
+Omdat ik nu getrouwd ben.  
+Because I’m married now.  
+
+Mijn vrouw vond het niet erg in het begin, maar ze is nu in verwachting.  
+My wife didn’t mind at first, but now she’s expecting a baby.  
+
+Ja, dat kan ik heel goed begrijpen.  
+Quite. I quite understand.  
+
+Mijn vrouw was ook zwanger toen ik zo’n baan opgaf.  
+My wife was also pregnant when I gave up a similar job.  
+
+Uw huidige chef heeft een erg aardige brief over u geschreven.  
+Your present boss has written a very nice letter about you.  
+
+Heeft hij dat?  
+Has he?  
+
+We get on very well together.  
+We get on very well together.  
+
+Dat is belangrijk voor een manager, natuurlijk.  
+That’s important for a manager, of course.  
+
+U zult inderdaad heel veel met uw staf gemeen hebben.  
+You will indeed have a lot in common with your staff.  
+
+Dat is een groot voordeel.  
+That’s a great advantage.  
+
+Ik bied u de baan aan.  
+I’m offering you the job.  
+
+En ik neem hem met plezier aan.  
+And I accept it with great pleasure.  
