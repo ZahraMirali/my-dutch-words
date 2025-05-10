@@ -10,12 +10,7 @@ export default function YoutubeAudio() {
 
   const SEGMENT_LENGTH = 300; // هر بخش ۵ دقیقه
 
-  const audioFiles = [
-    { label: "فایل ۱", src: "/audio/1.mp3" },
-    { label: "فایل ۲", src: "/audio/2.mp3" },
-    { label: "فایل ۳", src: "/audio/3.mp3" },
-    { label: "فایل ۴", src: "/audio/4.mp3" },
-  ];
+  const audioFiles = [{ label: "فایل ۱", src: "/audio/1.mp3" }];
 
   useEffect(() => {
     const audio = audioRef.current;

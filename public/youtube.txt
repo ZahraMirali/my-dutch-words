@@ -5211,8 +5211,8 @@ What a pity!
 weg:
 Away, gone
 
-wet:
-Nee, oh no
+wel nee:
+oh no
 
 zie je:
 Do you see
